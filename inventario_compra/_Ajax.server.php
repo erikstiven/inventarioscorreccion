@@ -16004,20 +16004,40 @@ function producto_inventario($aForm = '')
     $sHtml .= '<tbody>';
 
 
-    $sql = "select un.unid_nom_unid, tp.tpro_des_tpro, b.bode_nom_bode, pr.prbo_cod_prod, p.prod_nom_prod, pr.prbo_dis_prod, pr.prbo_cta_inv, pr.prbo_cta_ideb,
-                        pr.prbo_uco_prod, pr.prbo_iva_porc, prod_lot_sino, prod_ser_prod, prod_cod_barr3
-                        from saeprbo pr, saeprod p, saebode b, saetpro tp, saeunid un
-                        where
-                        p.prod_cod_prod     = pr.prbo_cod_prod and
-                        pr.prbo_cod_bode     = b.bode_cod_bode and
-                        tp.tpro_cod_tpro     = p.prod_cod_tpro and
-                        tp.tpro_cod_empr     = $idempresa and
-                        un.unid_cod_unid     = pr.prbo_cod_unid and
-                        p.prod_cod_empr     = $idempresa and
-                        p.prod_cod_sucu     = $idsucursal and
-                        pr.prbo_cod_empr    = $idempresa and
-                        pr.prbo_cod_bode    = '$bode_cod'
-                        $sql_tmp order by  2 limit 50";
+    $sql = "
+        SELECT
+            un.unid_nom_unid,
+            tp.tpro_des_tpro,
+            b.bode_nom_bode,
+            pr.prbo_cod_prod,
+            p.prod_nom_prod,
+            pr.prbo_dis_prod,
+            pr.prbo_cta_inv,
+            pr.prbo_cta_ideb,
+            pr.prbo_uco_prod,
+            pr.prbo_iva_porc,
+            p.prod_lot_sino,
+            p.prod_ser_prod,
+            p.prod_cod_barr3
+        FROM saeprbo pr
+        JOIN saeprod p
+            ON p.prod_cod_prod = pr.prbo_cod_prod
+           AND p.prod_cod_empr = pr.prbo_cod_empr
+           AND p.prod_cod_sucu = $idsucursal
+        JOIN saetpro tp
+            ON tp.tpro_cod_tpro = p.prod_cod_tpro
+           AND tp.tpro_cod_empr = p.prod_cod_empr
+        JOIN saebode b
+            ON b.bode_cod_bode = pr.prbo_cod_bode
+           AND b.bode_cod_empr = pr.prbo_cod_empr
+        JOIN saeunid un
+            ON un.unid_cod_unid = pr.prbo_cod_unid
+           AND un.unid_cod_empr = pr.prbo_cod_empr
+        WHERE pr.prbo_cod_empr = $idempresa
+          AND pr.prbo_cod_bode = '$bode_cod'
+          $sql_tmp
+        ORDER BY p.prod_nom_prod
+        LIMIT 50";
 
 
     // No se hace uso de la vista porque no actualiza los campos al moemnto de utilizarlos. 
