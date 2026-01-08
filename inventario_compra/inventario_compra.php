@@ -1912,6 +1912,10 @@
                         title: 'Lista de Compras',
                         titleAttr: 'Click para Imprimir',
                         text: '<div class="contenedor_imprimir"><i class="fa fa-print imprimir"></i><label class="labe"></label></div>',
+                        customize: function(win) {
+                            $(win.document.head).append('<style>.reimpresion-banner{position:fixed;top:8px;right:12px;font-size:16px;font-weight:700;letter-spacing:0.5px;}</style>');
+                            $(win.document.body).prepend('<div class="reimpresion-banner">REIMPRESION</div>');
+                        },
                         exportOptions: {
                             format: {
                                 body: function(data, row, column, node) {
