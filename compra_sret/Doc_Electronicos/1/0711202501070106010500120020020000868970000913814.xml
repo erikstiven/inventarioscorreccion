@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DIAZ SARANGO NATALIA</razonSocial>
+    <nombreComercial>TUBESA EL ORO</nombreComercial>
+    <ruc>0701060105001</ruc>
+    <claveAcceso>0711202501070106010500120020020000868970000913814</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000086897</secuencial>
+    <dirMatriz>Rocafuerte e/Colón y Buenavista</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>07/11/2025</fechaEmision>
+    <dirEstablecimiento>Rocafuerte e/Colón y Buenavista</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA "BELORO" C. L.</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <direccionComprador>LOS JARDINES CALLE GUAYAQUIL Y QUINTA NORTE </direccionComprador>
+    <totalSinImpuestos>1994.10</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>1994.10</baseImponible>
+        <valor>299.12</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>2293.22</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>2293.22</total>
+        <plazo>1</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PDO000004</codigoPrincipal>
+      <descripcion>TUBO PLASTIDOR D/N 200 MM X 6 MTS. PVC</descripcion>
+      <cantidad>10.00</cantidad>
+      <precioUnitario>84.8200</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>848.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>848.20</baseImponible>
+          <valor>127.23</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000026</codigoPrincipal>
+      <descripcion>REDUCTOR 200MM X160MM DESAGUE PLASTIGAMA</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>17.0500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>34.10</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>34.10</baseImponible>
+          <valor>5.12</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000066</codigoPrincipal>
+      <descripcion>PEGAMENTO KALIPEGA 1000CC  (1 LITRO) PLASTIGAMA</descripcion>
+      <cantidad>5.00</cantidad>
+      <precioUnitario>17.1740</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>85.87</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>85.87</baseImponible>
+          <valor>12.88</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000163</codigoPrincipal>
+      <descripcion>CODO ERA DESAGUE PVC 160MM X 90° E/C</descripcion>
+      <cantidad>5.00</cantidad>
+      <precioUnitario>9.0000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>45.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>45.00</baseImponible>
+          <valor>6.75</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000174</codigoPrincipal>
+      <descripcion>CODO ERA DESAGUE PVC 160MM X 45° E/C</descripcion>
+      <cantidad>4.00</cantidad>
+      <precioUnitario>9.0000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>36.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>36.00</baseImponible>
+          <valor>5.40</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000178</codigoPrincipal>
+      <descripcion>YEE 160MM DESAGUE E/C INYECTADA ERA</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>13.2500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>26.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>26.50</baseImponible>
+          <valor>3.98</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000189</codigoPrincipal>
+      <descripcion>TEE DESAGUE  ERA PVC 160MM  E/C BLANCA</descripcion>
+      <cantidad>7.00</cantidad>
+      <precioUnitario>13.1500</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>92.05</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>92.05</baseImponible>
+          <valor>13.81</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000190</codigoPrincipal>
+      <descripcion>TEE 200mm DESAGUE E/C  BLANCO ERA</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>23.5000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>47.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>47.00</baseImponible>
+          <valor>7.05</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000197</codigoPrincipal>
+      <descripcion>CODO ERA DESAGUE PVC 110MM X 45° E/C</descripcion>
+      <cantidad>6.00</cantidad>
+      <precioUnitario>1.3917</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.35</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>8.35</baseImponible>
+          <valor>1.25</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000200</codigoPrincipal>
+      <descripcion>CODO ERA 110X90° E/C DESAGUE ERA </descripcion>
+      <cantidad>8.00</cantidad>
+      <precioUnitario>1.6525</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.22</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>13.22</baseImponible>
+          <valor>1.98</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000201</codigoPrincipal>
+      <descripcion>CODO ERA DESAGUE PVC 200MM X 90° E/C</descripcion>
+      <cantidad>4.00</cantidad>
+      <precioUnitario>15.0000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>60.00</baseImponible>
+          <valor>9.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PLD000203</codigoPrincipal>
+      <descripcion>TEE DESAGUE  ERA PVC 110MM  E/C BLANCA</descripcion>
+      <cantidad>5.00</cantidad>
+      <precioUnitario>2.8000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>14.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>14.00</baseImponible>
+          <valor>2.10</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>RIE000296</codigoPrincipal>
+      <descripcion>REDUCTOR 160MM X 110MM  PRESION PLASTIGAMA 1.25MPA.</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>11.0000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>22.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>22.00</baseImponible>
+          <valor>3.30</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TPD000001</codigoPrincipal>
+      <descripcion>TUBO 160MMX3M PLASTIGAMA B2-3108 TIPO B PES</descripcion>
+      <cantidad>20.00</cantidad>
+      <precioUnitario>28.1800</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>563.60</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>563.60</baseImponible>
+          <valor>84.54</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TPD000002</codigoPrincipal>
+      <descripcion>TUBO 110MMX3M DES. PLASTIGAMA  TIPO B PESADO REFORZADO</descripcion>
+      <cantidad>10.00</cantidad>
+      <precioUnitario>9.8210</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>98.21</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>98.21</baseImponible>
+          <valor>14.73</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">LOS JARDINES CALLE GUAYAQUIL Y QUINTA NORTE</campoAdicional>
+    <campoAdicional nombre="Email">diego.alvear@grupodmg.ec</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature966705">
+<ds:SignedInfo Id="Signature-SignedInfo90548">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID398037" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature966705-SignedProperties976200">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>LGkL14Xqa12SUPNBmjqD5eRjD28=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1657824">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>0I3X1a7Q3RepMwlZpNJ/y69oQZ4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-272671" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>mms9PUA8w99Oz262buMUD5aevP8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue4461">
+XGhXMfBCcgI8HfHJcvBTUcxSB+jX/VL60UtAtSuAPUbtJvri2cG+rQ6Nj7x3AZjLQ/pdEHkgPBKm
+Nj9KibuayiQVNHQaJcuehcs+/EK0+nE3MtuJHMbbONL6jlxPsOgvKu1YW1hUcpf2Xk0lz9kCzUAd
+4xcUa9y+gcbhxdZ8JePYIsVRiQ/RxRCrGCBMdstXE8ngXnB8VQDCn9wyob8BLp/D/aeKJ5s9i4Cy
+HXJxBg+UP+DSI5Y5TWoK5dxzq8th66IY0oSl1IQPtsEXuC/8ER6r2JlCdlSTdS5teOjsZq9gg0Y1
+VabuayKmrAUWXGKZiZOIkYA9FXxzxbuM2M5ddg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1657824">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKjDCCCHSgAwIBAgIMA0fjVyWf9NX3bLOFMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjQxMDE4MTQxMjEwWhcNMjYxMDE4MTQxMjEwWjCCAToxGjAYBgorBgEEAYKkQgoEDAow
+NzAxMDYwMTA1MR0wGwYDVQQKDBRESUFaIFNBUkFOR08gTkFUQUxJQTErMCkGA1UECwwiQ2VydGlm
+aWNhZG8gUGVyc29uYSBOYXR1cmFsIFJVQyBFQzEQMA4GA1UEKgwHTkFUQUxJQTEWMBQGA1UEYRMN
+MDcwMTA2MDEwNTAwMTELMAkGA1UEBhMCRUMxEzARBgNVBAUTCjA3MDEwNjAxMDUxFTATBgNVBAQM
+DERJQVogU0FSQU5HTzEoMCYGA1UEAwwfMDcwMTA2MDEwNSBOQVRBTElBIERJQVogU0FSQU5HTzEg
+MB4GCSqGSIb3DQEJARYRbmVkaWF6c0B5YWhvby5jb20xDzANBgNVBAgMBkVMIE9STzEQMA4GA1UE
+BwwHTUFDSEFMQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMPdm6c5RL/yaVAJ97Kv
+rQ7BkPIvk/3b9vW3SCoCyF+9+7E34qkbEzleWulShoW5EGsFa682SCICzM2Rh5KJbj4Yd6DaQoX7
+9/NKc4/JlSk6ydWqc+xm3fBnhdFJlLQ1y02KBEmvAX5d+RAJRxmaDsCyC+DbEHYT1ePqvNQiXH3b
+i4yoVTXyPfU8K+/Un/ZAydo4ZVtwiqrHwRlw8B9WwCtW/l30tF764mDdtXfJenY9Hzx+eXe9iFA3
+s+M3aqqLZJxscGojqpm7aepZGjRtBPElEUUP6lfr99tPkK4uT4pvJRWEKgbsuiGhRIpTK1ayBOoW
+foMNTZAB6Ok9VF5uz5MCAwEAAaOCBQ4wggUKMB8GA1UdIwQYMBaAFJKu1MuCtJnG0XsRbGXqxU1o
+IfmsMB0GA1UdDgQWBBQKVA3wKHgCNTiOuwUQ8fDINjsX6jCB4gYDVR0RBIHaMIHXgRFuZWRpYXpz
+QHlhaG9vLmNvbaSBwTCBvjEXMBUGCisGAQQBgqRCCgEMB05BVEFMSUExFDASBgorBgEEAYKkQgoC
+DARESUFaMRcwFQYKKwYBBAGCpEIKAwwHU0FSQU5HTzEaMBgGCisGAQQBgqRCCgQMCjA3MDEwNjAx
+MDUxGTAXBgkrBgEEAYGPHAEMCkEtMTcxMDIwMjQxKDAmBgNVBAMMHzA3MDEwNjAxMDUgTkFUQUxJ
+QSBESUFaIFNBUkFOR08xEzARBgNVBAUMCjA3MDEwNjAxMDUwDgYDVR0PAQH/BAQDAgbAMB0GA1Ud
+JQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDBQBgNVHR8ESTBHMEWgQ6BBhj9odHRwOi8vY3JsLmFu
+Zi5lcy9jcmwvQU5GSGlnaEFzc3VyYW5jZUVjdWFkb3JJbnRlcm1lZGlhdGVDQS5jcmwwggEDBgNV
+HSAEgfswgfgwgd8GDCsGAQQBgqRCAgUBAzCBzjAoBggrBgEFBQcCARYcaHR0cDovL3d3dy5hbmYu
+ZXMvZG9jdW1lbnRvczCBoQYIKwYBBQUHAgIwgZQMgZFDZXJ0aWZpY2FkbyBjb25mb3JtZSBhIGxh
+IGxlZ2lzbGFjacOzbiBkZSBmaXJtYSBlbGVjdHLDs25pY2EuIEFudGVzIGRlIGFjZXB0YXJsbyBj
+b21wcnVlYmUgaW50ZWdyaWRhZCwgbGltaXRhY2lvbmVzLCB2aWdlbmNpYSB5IHVzb3MgYXV0b3Jp
+emFkb3MuMAkGBwQAi+xAAQEwCQYHYIVUAQMFCDCBmwYIKwYBBQUHAQEEgY4wgYswJwYIKwYBBQUH
+MAGGG2h0dHA6Ly9vY3NwLmFuZi5lcy9zcGFpbi9BVjBgBggrBgEFBQcwAoZUaHR0cDovL3d3dy5h
+bmYuZXMvZXMvY2VydGlmaWNhdGVzLWRvd25sb2FkL0FORkhpZ2hBc3N1cmFuY2VFY3VhZG9ySW50
+ZXJtZWRpYXRlQ0EuY2VyMAwGA1UdEwEB/wQCMAAwKAYJKwYBBAGBjxwTBBsMGTYyMTk4OTU1NTk3
+NS01MjUwMjAxNzIxMTUwFQYKKwYBBAGBjxwTAgQHDAUzNzQ0MjApBgorBgEEAYKkQhMBBBsMGTUy
+NTAyMDE3MjExNS00ODcwNjUxMjIzNDgwGgYKKwYBBAGCpEIDAQQMDAowNzAxMDYwMTA1MCQGCisG
+AQQBgqRCAwoEFgwURElBWiBTQVJBTkdPIE5BVEFMSUEwHQYKKwYBBAGCpEIDCwQPDA0wNzAxMDYw
+MTA1MDAxMBIGCisGAQQBgqRCAwwEBAwCRUMwFwYKKwYBBAGCpEIDAgQJDAdOQVRBTElBMBwGCisG
+AQQBgqRCAwMEDgwMRElBWiBTQVJBTkdPMBcGCisGAQQBgqRCAwkECQwHTUFDSEFMQTAXBgorBgEE
+AYKkQioBBAkMB1VJTy0wMDcwEwYKKwYBBAGCpEIuAQQFDAM3MzAwUAYKKwYBBAGCpEIvAQRCDEBk
+ODUxOWE2ZjRmNjIyNTRkYjYzMjk1MzNhYmIyMjYxYmJlYWY2MjBlNjlmZDc1YjUwYjUwOGY4NWEy
+NzFiYTU2MA0GCSqGSIb3DQEBCwUAA4ICAQCipJYkvGWWRRbfW88D5hQ/+Ut7itDpssHgNFmWF/Ab
+kppNff3m509gpljNAlN9S0tH7b7yRf9e7gc3wLP5mp/SaxskV/KJF+58fG7GhI9Knu1ViutFCG3S
+FujP9xg2aNd9Zx248xpcSum+WS6ZktTkVCl72mMh2YKq0Rdb2HPKHop34zzcE5ix0xA/gjyX54HZ
+NzSABMpDpB370f50u4mSzwRYK76GIGMldjJSyRqm7EPnREnkpjBuFL3zADG73f7zPs25gmUdGrhu
+bhDpBHBs2158ErdYxaqmHr6BQZZ7+keznK+T9orpLWJxl/9V8WCY6zQ5Fm6C/gmdiWsKGFlB7FDP
+aZacpNpJSTMe/xWANj4HBK4cAwfNhiG41Tq4J8pX+1s2rYrvQYcDOVztISHGSHp98SEkMIR3avSX
+5StxKx6DOXffjOWgR+fCxbEBVXPPhbZrwvTbKGnyAxpNCX7MHlG/0Ca2XIf2a2/M/x4PWi+P+98b
+qSscbH+1XmnFO1z8JYMBixM189J70IM1n5CUdzGP8+8M12Ak7De4ddmDgBaFwWOI/4z1CFYCw8k5
+1rTrFxOonYp0XXpwcvmUPidXs0Nlc1xhLHKlK7QxL3mAL/HucKWsRAaR6gdqu9JPLlE9nDps7XHs
+HaSHHWqYOxGIpRRy9v45biWHVZE4aw6n6A==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+w92bpzlEv/JpUAn3sq+tDsGQ8i+T/dv29bdIKgLIX737sTfiqRsTOV5a6VKGhbkQawVrrzZIIgLM
+zZGHkoluPhh3oNpChfv380pzj8mVKTrJ1apz7Gbd8GeF0UmUtDXLTYoESa8Bfl35EAlHGZoOwLIL
+4NsQdhPV4+q81CJcfduLjKhVNfI99Twr79Sf9kDJ2jhlW3CKqsfBGXDwH1bAK1b+XfS0XvriYN21
+d8l6dj0fPH55d72IUDez4zdqqotknGxwaiOqmbtp6lkaNG0E8SURRQ/qV+v320+Qri5Pim8lFYQq
+Buy6IaFEilMrVrIE6hZ+gw1NkAHo6T1UXm7Pkw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature966705-Object879502"><etsi:QualifyingProperties Target="#Signature966705"><etsi:SignedProperties Id="Signature966705-SignedProperties976200"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-11-07T09:11:58-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>guZKYt51murK/r0leIayJDvlLEg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>1015362347426174400289616773</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-272671"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

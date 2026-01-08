@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>FRANKIMPORT CIA LTDA</razonSocial><nombreComercial>FRANKIMPORT CIA LTDA</nombreComercial><ruc>1792024846001</ruc><claveAcceso>1009202501179202484600120010010000235368608078214</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000023536</secuencial><dirMatriz>PICHINCHA / QUITO / IÑAQUITO / AV REPUBLICA E2-59 Y AV ATAHUALPA</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>10/09/2025</fechaEmision><dirEstablecimiento>PICHINCHA / QUITO / IÑAQUITO / AV REPUBLICA E2-59 Y AV ATAHUALPA</dirEstablecimiento><contribuyenteEspecial>167</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MINERA BELORO C L</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><direccionComprador>JUNIN 105 MALECON SIMON BOLIVAR</direccionComprador><totalSinImpuestos>4555.0</totalSinImpuestos><totalDescuento>0.0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>4555</baseImponible><valor>683.25</valor></totalImpuesto></totalConImpuestos><propina>0.0</propina><importeTotal>5238.25</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>5238.25</total><plazo>30</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>496075</codigoPrincipal><descripcion>MSA 496075 CASCO VGARD SAFARI NARANJA CON SUSPENSION FAS-TRAC III</descripcion><unidadMedida>UNIDAD</unidadMedida><cantidad>150.0</cantidad><precioUnitario>13.8</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>2070.0</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>2070</baseImponible><valor>310.5</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>M231271</codigoPrincipal><descripcion>MSA M231271 KIT JUEGO DE PORTALAMPARA PARA CASCO NEGRO MONTABLE</descripcion><unidadMedida>UNIDAD</unidadMedida><cantidad>150.0</cantidad><precioUnitario>7.1</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>1065.0</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>1065</baseImponible><valor>159.75</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>M231271</codigoPrincipal><descripcion>MSA M231271 KIT JUEGO DE PORTALAMPARA PARA CASCO NEGRO MONTABLE</descripcion><unidadMedida>UNIDAD</unidadMedida><cantidad>200.0</cantidad><precioUnitario>7.1</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>1420.0</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>1420</baseImponible><valor>213</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION">JUNIN 105 MALECON SIMON BOLIVAR</campoAdicional><campoAdicional nombre="EMAIL">diego.alvear@grupodmg.ec;ventas4@frankimport.com</campoAdicional><campoAdicional nombre="NOTAS">GUIA: 7417</campoAdicional><campoAdicional nombre="PLAZO">30 DIAS</campoAdicional><campoAdicional nombre="TELEFONO">022937375</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature769674">
+<ds:SignedInfo Id="Signature-SignedInfo978303">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID989359" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature769674-SignedProperties74843">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>a0WTfjS5+GwRyJhntkNPZ0pytwI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1997657">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dNGofep6PX8URNECKDpaXwznGyM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-90193" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uNCxceuDHpg52qn8vMSq3qGOsDo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue211129">
+iCg2z38n5ZRrKAy3ut3C8U5LBwtv5+dLsf+UuKcjC57qnCfEG1wPl3DqspdPEUMaobtTmdCwZJbT
+5WJgc+aO4/nv8Xs07TfsifIiJbFC1E3E4EL518BFaW7Dpl+Nq9wwt1MYXxW4Ogh793NQroj6W/49
+X5tX+mc+PuUr4jHexeQvMKzYhgsvFC23rMSjgTuLL/rg65gz9VTu3JWAWAhjVme1rVGn9MkzCsZu
+j1AsNLcNFaRrNIi8bAQArLe3YuBEjmxG28/b0bW5YAVod3MBcLJ3Wx8XHJIE4IpLJzTDwJDwyvkv
+JiQ/0ZsfWzYAHC3k3slqUlwdFEzg7MuAyUHXrA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1997657">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMCDCCCfCgAwIBAgIEfVlkJTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTExMTkxNTI0MDhaFw0yNjExMTkxNTI0MDhaMIGfMSgw
+JgYDVQQDDB9GUkFOS0xJTiBBTkRSRVMgSElOT0pPU0EgR0FCRUxBMRUwEwYDVQQFEwwxOTExMjEx
+MDM0MDAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEAwSqgSaDpjhP8IXoiXp1rwrYjRe7xXBjdVttGMzljYbigppoUwQ7F
+5tXjDCEGlCq1JbfH9H3SS1E4GGb4C36FwEhn5FXXjUjLisjv5tMa8TQiYWKlojxnuhhFdr7nZ/Zs
+9c0iz3QgX+3fzBA19dkhzvbrPB7JWa+HqjDDTMXp2fKvAtfGjQK8wHGiYP0U5GIl0mz9jwl0V5qS
+AcDZbL/ovhflP9psgL3dTi64Oj4qX/H5U5RblfX9RMik6CYJHYhjmDQSOoVmPZOmqEeSKY/GojOW
+1Dtu0EbU4kTIIOXDPIt175O46KYQOfDlUc3p6HYTAgrktb+CTkwhuC1chmyYbQIDAQABo4IHTjCC
+B0owDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEF
+BQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6
+Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25M
+aXN0P2Jhc2UwIwYDVR0RBBwwGoEYZ2VyZW5jaWFAZnJhbmtpbXBvcnQuY29tMIIBFQYDVR0gBIIB
+DDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEE
+AYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+d3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGlj
+YXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIC
+lTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3
+ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UE
+BhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9w
+b3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRp
+c3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFDj895g1pZXN7mId
+r7VGstL/QYRFMCsGA1UdEAQkMCKADzIwMjExMTE5MTUyNDA4WoEPMjAyNjExMTkxNTI0MDhaMAsG
+A1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMB
+BAwMCjE3MTA1ODYyOTYwFQYKKwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4w
+MQYKKwYBBAGCpnIDBwQjDCFBViBSRVBVQkxJQ0EgRTItNTkgWSBBViBBVEFIVUFMUEEwHwYKKwYB
+BAGCpnIDAgQRDA9GUkFOS0xJTiBBTkRSRVMwHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDAyNzEy
+OTIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQB
+gqZyAwMECgwISElOT0pPU0EwJAYKKwYBBAGCpnIDCgQWDBRGUkFOS0lNUE9SVCBDSUEgTFREQTAd
+BgorBgEEAYKmcgMLBA8MDTE3OTIwMjQ4NDYwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAWBgorBgEE
+AYKmcgMEBAgMBkdBQkVMQTAaBgorBgEEAYKmcgMIBAwMCjA5Nzg4ODI1MDEwDQYJKoZIhvcNAQEL
+BQADggIBADiLIoYiWvKjAEZmeXsM+0cugMhtLyzGGjW5pqD+GV1yKMLdDvnjMtnOooPWRFQdn+tM
+NixkLjl418mVdY07q+er/TH52SgaYy/ZYnx5VtBd66Bm5R0d4TwGjjGJgGE//WPQB+ScYBLvTVDM
+qG+FYKfGABJDxjb/e35VIfnk30gldUHQX4yGTQSgoWU2MExRsrLwLYnQ0zGqp8wm3aCqohIIwvn0
+xVvAD7qUL1NAuuZvVTnBqMa777Euz9TzgU6PQnzaRZAWKLWFQUVO75SFDCvLos/xfSS0xPFIar6M
+6hoWFN92aUGimqXZmyMMdY2lZfyxgMBvoOQvY2aRRv7ksZ5rvoUz1EcGB0Bhocjeqlz2oSaYY2Gc
+e0d9gQKEXkrS7jDhy8Vo1TCyyq7be5feD19TjzxITrKyyCsIA8r+1+0v/UgfNwi/Uo4RYlNb42tq
+O8R48VnUob04oBEAHuisCbMkjFIpBOSWDltujNgcQTyh+Lmo2fSNZfKK3CTtvwmUtCBhoVCRySZO
+RUxMYJnfrQ8zx8pZDQFRhnUBTQXkKSLbTwxE9HA55C3oiVTm5TigM9ZMLDe/3aGj5DvwXGIpIm6I
+dxcn6RxtllFF0adE0P1nII7DpuQRetiG3W1YRUVbuJiXov/6iPGfS6h2o1DPIzfm3JfuJ/zc6QJm
+7JMX/EkX
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wSqgSaDpjhP8IXoiXp1rwrYjRe7xXBjdVttGMzljYbigppoUwQ7F5tXjDCEGlCq1JbfH9H3SS1E4
+GGb4C36FwEhn5FXXjUjLisjv5tMa8TQiYWKlojxnuhhFdr7nZ/Zs9c0iz3QgX+3fzBA19dkhzvbr
+PB7JWa+HqjDDTMXp2fKvAtfGjQK8wHGiYP0U5GIl0mz9jwl0V5qSAcDZbL/ovhflP9psgL3dTi64
+Oj4qX/H5U5RblfX9RMik6CYJHYhjmDQSOoVmPZOmqEeSKY/GojOW1Dtu0EbU4kTIIOXDPIt175O4
+6KYQOfDlUc3p6HYTAgrktb+CTkwhuC1chmyYbQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature769674-Object594693"><etsi:QualifyingProperties Target="#Signature769674"><etsi:SignedProperties Id="Signature769674-SignedProperties74843"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-09-10T21:08:32+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>CiGIdbYpV/0mPE7cNPLZoUe5WLw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2103010341</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-90193"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

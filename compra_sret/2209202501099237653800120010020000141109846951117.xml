@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>IMPORTADORA Y DISTRIBUIDORA COMERCIAL INDUCOMICC S.A.</razonSocial><nombreComercial>IMPORTADORA Y DISTRIBUIDORA COMERCIAL INDUCOMICC S.A.</nombreComercial><ruc>0992376538001</ruc><claveAcceso>2209202501099237653800120010020000141109846951117</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000014110</secuencial><dirMatriz>MAPASINGUE OESTE 3RA AV. No. 114 VIA DAULE KM 4.5</dirMatriz></infoTributaria><infoFactura><fechaEmision>22/09/2025</fechaEmision><dirEstablecimiento>MAPASINGUE OESTE 3RA AV. No. 114 VIA DAULE KM 4.5</dirEstablecimiento><contribuyenteEspecial>00011</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><guiaRemision>001-002-000014132</guiaRemision><razonSocialComprador>MINERA BELORO C L</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><direccionComprador>GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</direccionComprador><totalSinImpuestos>2213.36</totalSinImpuestos><totalDescuento>737.79</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>2213.36</baseImponible><valor>332.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>2545.36</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>2545.36</total><plazo>0</plazo><unidadTiempo>Dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>MNTHSUF3421500</codigoPrincipal><descripcion>M.THOMPSON-FRENO  IE2 PREMIUM 15HP 1800RPM- 160M-4-220/380/440V - 60Hz YEJ2 (Ins.Cl F, IP55, IMB3)</descripcion><cantidad>1.000000</cantidad><precioUnitario>2518.050000</precioUnitario><descuento>629.51</descuento><precioTotalSinImpuesto>1888.54</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00000</tarifa><baseImponible>1888.54</baseImponible><valor>283.28</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>EVKMACHI005</codigoPrincipal><descripcion>SFK PHE L150HUB</descripcion><cantidad>2.000000</cantidad><precioUnitario>169.810000</precioUnitario><descuento>84.90</descuento><precioTotalSinImpuesto>254.72</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00000</tarifa><baseImponible>254.72</baseImponible><valor>38.21</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ACSYPJE0150</codigoPrincipal><descripcion>CAUCHO ACOPLE L150    BUNA-EVERLAST COUPLINGS</descripcion><cantidad>1.000000</cantidad><precioUnitario>93.470000</precioUnitario><descuento>23.37</descuento><precioTotalSinImpuesto>70.10</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00000</tarifa><baseImponible>70.10</baseImponible><valor>10.52</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Cod. Cliente:">C000670</campoAdicional><campoAdicional nombre="Dirección:">GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</campoAdicional><campoAdicional nombre="Email.:">diego.alvear@grupodmg.ec;ventas@inducom-ec.com;ventas1@inducom-ec.com;acompras@inducom-ec.com;retencionelectronica@inducom-ec.com;facturacionelectronica@inducom-ec.com</campoAdicional><campoAdicional nombre="Forma de Pago:">Contado</campoAdicional><campoAdicional nombre="Att.:">COTIZ: 140606</campoAdicional><campoAdicional nombre="Vendedor:">GONZALEZ ROJAS LUIS</campoAdicional><campoAdicional nombre="Fecha vencimiento:">22/09/2025</campoAdicional><campoAdicional nombre="Ciudad:">EL ORO / MACHALA E</campoAdicional><campoAdicional nombre="Observaciones:">MINERA BELORO C L - FACTURA COMERCIAL ELECTRONICA 001-002 - Compr.14110</campoAdicional><campoAdicional nombre="Remitir Retención:">financiero1@inducom-ec.com</campoAdicional><campoAdicional nombre="Pagos/Transferencia:">BCO. PICHINCHA CTA. CTE. #3192108004</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature180993">
+<ds:SignedInfo Id="Signature-SignedInfo785010">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID360092" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature180993-SignedProperties107499">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>dJqt2EWBS8JFTEm048Iou0d3pjk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1821695">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>KdRafyx+agt7xQ25QQqYgzQwfMU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-877782" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>uukbHeRjbzcDUJtrcsV6SUHiO98=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue48524">
+iVNEOcQu9mosk2Rq937GfAcIuyjPbePDrsNjLg2k7pjOvojVpOHxU6HfxpPNx/EZAXkgWTnWzuSa
+uOK1kVcgcZSvJuflF/ImmqPUv36NAdepvZ6Qso58m0jfj//1OJfBUunKDgiA1w96jAVSeZcmX7oB
+22TG3mekgeB2TeimPwBJ/2PLFX+T7+IzsPXU4fKBgm6XVfqRHSB3iCQiJriQr8wb2YyUi452o4Vi
+EOLMN98Im29/vn4W6J4cmOTHz1pq1dPtTLFsTGBabpGUF9+tnNO0yYPtog5wcrjsbhDJUaVQsCyz
+QZLK5BI+qtJAh0QL+KYexuuyJMl3LEr02Efeeg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1821695">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMMjCCChqgAwIBAgIEAw30iDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA1MjMxNTIzNDRaFw0yNzA1MjMxNTIzNDRaMIGkMS0w
+KwYDVQQDDCRHSVVMSUFOTyBHVUlMTEVSTU8gQ09SRE9WQSBNQUxET05BRE8xFTATBgNVBAUTDDIz
+MDUyMzEwMzMxMzEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDFJCCN5Aam2tGA8h/a5W+nteMCtVIClg5RHLBSwxziUY0X
+tc0W3p3R/WJULt+NZe5yYRRvdxLVwi+e99kDCcCWYUCKJFUAKvjLMpUvFg5GNBQ/3MTcQ3p8YXRc
+NDACNKuRIrEzf2tVYtWnJvNKfdVX0y+Wn8dKgE8RyjoqbDX6kpaO3K5fL97KDmWN4Dh/88ScQdMM
+WDKX3PlSEcgTKQC60Bpm2rt7u/pvPPNt4uLkyYBTbrel3Yzy0HEfrZx6cCpEvumnTVZGVvAi+Wqv
+4QmdFyuZgWWRFKrXjekd3P0Oe1SfE+o1L76IHIludWjFITkScX4Qe6P8j0Kjn+3fdkUpAgMBAAGj
+ggdzMIIHbzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkG
+CCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4
+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTAlBgNVHREEHjAcgRpmaW5hbmNpZXJvNEBpbmR1Y29tLWVjLmNvbTCCARUG
+A1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYA
+aQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCB
+oQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEu
+bmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3Mv
+UG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0f
+BIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2Ev
+cHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIx
+CzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0
+LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0
+dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dl
+Yi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSwmIZu
+uMg88t1PMlAkY7Nz6xOcCDArBgNVHRAEJDAigA8yMDIzMDUyMzE1MjM0NFqBDzIwMjcwNTIzMTUy
+MzQ0WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYB
+BAGCpnIDAQQMDAowNzAzMzQyMzExMBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQB
+gqZyAyIEAwwBLjAqBgorBgEEAYKmcgMHBBwMGjNFUkEgQVZFTklEQSAxMTQgWSAxIENBTExFMCIG
+CisGAQQBgqZyAwIEFAwSR0lVTElBTk8gR1VJTExFUk1PMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAy
+MDAwNDAxMDc4MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAX
+BgorBgEEAYKmcgMDBAkMB0NPUkRPVkEwQwYKKwYBBAGCpnIDCgQ1DDNJTVBPUlRBRE9SQSBZIERJ
+U1RSSUJVSURPUkEgQ09NRVJDSUFMIElORFVDT01JQ0MgU0EwHQYKKwYBBAGCpnIDCwQPDA0wOTky
+Mzc2NTM4MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wGQYKKwYBBAGCpnIDBAQLDAlNQUxET05BRE8w
+HAYKKwYBBAGCpnIDCAQODAw1OTM5OTcyMzM0MjQwDQYJKoZIhvcNAQELBQADggIBAGE3rRBPdBYV
+DR3DYay9keGWvNhL49xbEPtjMofOFI3g0KfGs8pVCbR5rSrH24nbCQaOKWWtSceHROe0KONNY7vu
+1fvMAal/z9YO96WbESP9fBRh2H0H8+DE/xC8U9V7vz7xNMAFX4D1WFtOZFLYL1owbUtCjVDDdXXR
+Ki5gpEUQfj8liK08t9+WfmJMjsSSyMPd72992rjIFj9HoXzeUZSzKcPYtchEdzXOcvNO4UpdQQt+
+NgnqnbEJRkSzghZO6yED3xAuC2S2Hx+EVWgxGW9Qx5aDJjwj1iKDpwpeLzfHYcyXRnUX/Mha/emC
+YEnMD8U+sYNx+fZMC9wKqY1EZzkniFDNQ1E3uzWYfotSkLrH1Cuj0Jh9DeYF/ljLhtYbWPCL+Kgc
+QSSpbTsr3CYHUrJuDNa7jokg54q+x226uMmExfeBtXQhVhCN1/1kZWWy7x5yWFGUoBZtyrTskFi7
+t/e42JJi7eV6iwgjaX7K5vi7+f2rKTjab2gPKNZTfL+6TGgAtSjZtcGjkPqIij7a5C10saGDBGOe
+4LX0JmYXvt47xqe0vHYadYuKurVxqf/hQmqAU+zZVqXI9GrCsp2uPNflfv2R278ZL6Da4OF59Yb9
+83Tpe6xF0GqqBjxPCNB/JB6LzX6NZ3NKNX3gCMTvQ84ijq8bE2gmugLXDFjnj2Y8
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xSQgjeQGptrRgPIf2uVvp7XjArVSApYOURywUsMc4lGNF7XNFt6d0f1iVC7fjWXucmEUb3cS1cIv
+nvfZAwnAlmFAiiRVACr4yzKVLxYORjQUP9zE3EN6fGF0XDQwAjSrkSKxM39rVWLVpybzSn3VV9Mv
+lp/HSoBPEco6Kmw1+pKWjtyuXy/eyg5ljeA4f/PEnEHTDFgyl9z5UhHIEykAutAaZtq7e7v6bzzz
+beLi5MmAU263pd2M8tBxH62cenAqRL7pp01WRlbwIvlqr+EJnRcrmYFlkRSq143pHdz9DntUnxPq
+NS++iByJbnVoxSE5EnF+EHuj/I9Co5/t33ZFKQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature180993-Object11032"><etsi:QualifyingProperties Target="#Signature180993"><etsi:SignedProperties Id="Signature180993-SignedProperties107499"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-09-22T17:52:59-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>/yRkxgON8dhO5ymoQ8jZm+SFdfw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>51246216</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-877782"><etsi:Description>factura</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

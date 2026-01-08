@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>VELEZ MERA JUAN FERNANDO</razonSocial>
+        <nombreComercial>IMPORTEC</nombreComercial>
+        <ruc>0104250196001</ruc>
+        <claveAcceso>1205202501010425019600120030020000007731234567811</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>003</estab>
+        <ptoEmi>002</ptoEmi>
+        <secuencial>000000773</secuencial>
+        <dirMatriz>EL ORO / ZARUMA / ZARUMA / AV OCHO DE DICIEMBRE SN Y SN</dirMatriz>
+        <agenteRetencion>00000001</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>12/05/2025</fechaEmision>
+        <dirEstablecimiento>MACHALA / AV. 25 DE JUNIO / URB CIUDAD PALMERA /JUNTO A ALMACENES BOYACA</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>BELORO CL</razonSocialComprador>
+        <identificacionComprador>0992529679001</identificacionComprador>
+        <direccionComprador>GUAYAQUIL S/N Y QUINTA A NORTE ESQ</direccionComprador>
+        <totalSinImpuestos>2000.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>0.00</baseImponible>
+                <tarifa>0.00</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>2000.00</baseImponible>
+                <tarifa>15.00</tarifa>
+                <valor>300.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>2300.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>2300.00</total>
+                <plazo>0.00</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>LOC75</codigoPrincipal>
+            <codigoAuxiliar>LOC75</codigoAuxiliar>
+            <descripcion>MORDAZA PARA FRENO DE DISCO LOCOMOTORA CTY5</descripcion>
+            <cantidad>2.0000</cantidad>
+            <precioUnitario>200.000000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>400.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>400.00</baseImponible>
+                    <valor>60.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>LOC76</codigoPrincipal>
+            <codigoAuxiliar>LOC76</codigoAuxiliar>
+            <descripcion>MORDAZA PARA FRENO DE DISCO LOCOMOTORA CTY2.5</descripcion>
+            <cantidad>2.0000</cantidad>
+            <precioUnitario>200.000000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>400.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>400.00</baseImponible>
+                    <valor>60.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>LOC73</codigoPrincipal>
+            <codigoAuxiliar>LOC73</codigoAuxiliar>
+            <descripcion>PASTILLA PARA FRENO LOCOMOTORA CTY5</descripcion>
+            <cantidad>10.0000</cantidad>
+            <precioUnitario>36.000000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>360.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>360.00</baseImponible>
+                    <valor>54.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>LOC03</codigoPrincipal>
+            <codigoAuxiliar>LOC03</codigoAuxiliar>
+            <descripcion>PAQUETE DE RESORTE MUELLES (2 UNIDADES)</descripcion>
+            <cantidad>4.0000</cantidad>
+            <precioUnitario>210.000000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>840.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>840.00</baseImponible>
+                    <valor>126.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">fernanda.paccha@grupoadmg.com</campoAdicional>
+        <campoAdicional nombre="Teléfono">2923970</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature756965">
+<ds:SignedInfo Id="Signature-SignedInfo357836">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID703427" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature756965-SignedProperties464416">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ZY+nEtDHoMCHjkqa2mT4p/Xires=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1503370">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>PIEDfUpgSftScfR1IHX2UNc5RD0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-897705" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>mqpl6AZ6FJzXVFCWlelf6Rom7/I=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue552604">
+DAdRt11LbOm17/wZUlsmsbDAEsuCcZv4jHTizQS1WIpCk5uoAXTSam5bRZtDtsIFqNr8ee3HWm7p
+0I33hEa890fjm9cQEFrqqYntFM4eTBsGejImCvqmJ8dQi7vM/b/NWMCQHvX2NxVP1c2mJGSMxHmB
+vwAk2xWbTvQlfX6sV3PY8fzOGc2djT4/4UmS7s91C8tFYUtP9lWxNQTDxfNPsZ3+eWj3ixhiZBk6
+cmxD2e8v2WMsFVvIUUAJVOprOrUUtiH9zX8WIzul+2jopAYyCqCcYPZgQ2k7E89eZ2wa82WOHcx7
+rIxqbQzmEHIEtWElK4if9mOfQgYQ/zNvTnRdUw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1503370">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL8TCCCdmgAwIBAgIEXobmHTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA2MTQxOTM0MTNaFw0yOTA2MTQxOTM0MTNaMIGjMSEw
+HwYDVQQDDBhKVUFOIEZFUk5BTkRPIFZFTEVaIE1FUkExIDAeBgNVBAUTFzAxMDQyNTAxOTYtMTQw
+NjI0MTQ0MzU5MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAOX6P0sIw3a7jrB13D8mK5Jsh6qh9fcTkno5ND/ni2sdJ6sN
+xTZoUTon05hEUUrxEkkXEAMhsDIk/NRZ1uULm3BwmSEEjFjvIxcq1btopcjzn2ve8Jq2F1iazRRr
+txkso1N6mBHgRWfPv4p2e8txIPIUXHyyjiVGKicD8yKE9oavQ163k/QvOXO+0FMyXvzwZhxa9MZx
+yrAtSVCN/765upgMb9YsQoZ01rZnJfo9K8HEFx5oZ9RJ5wxFBtsakjra4YFCWIXE4wyBl0gG6THD
+9KBFvSAqJ8eoPr3Goc6G7UvoPFMJ34emz+CIxtuFEUSPz6EGZxZA4ZlOpbUsSamhUZ8CAwEAAaOC
+BzMwggcvMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYI
+KwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhs
+ZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0
+aW9uTGlzdD9iYXNlMDMGA1UdEQQsMCqBKGltcG9ydGVjZmFjdHVyYWNpb25lbGVjdHJvbmljYUBn
+bWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABD
+AGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEA
+bDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRv
+cy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSC
+ApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQsw
+CQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRw
+czovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+d2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQURKu/Oady
+uYJ77hnhKnaj8YkFSH8wKwYDVR0QBCQwIoAPMjAyNDA2MTQxOTM0MTNagQ8yMDI5MDYxNDE5MzQx
+M1owCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMDEwNDI1MDE5NjAoBgorBgEEAYKmcgMJ
+BBoMGFpBUlVNQSBDQUJFQ0VSQSBDQU5UT05BTDARBgorBgEEAYKmcgMiBAMMAS4wLAYKKwYBBAGC
+pnIDBwQeDBxBViBPQ0hPIERFIERJQ0lFTUJSRSBTTiBZIFNOMB0GCisGAQQBgqZyAwIEDwwNSlVB
+TiBGRVJOQU5ETzAfBgorBgEEAYKmcgMgBBEMDzAwNjAwMTAwMDA2Nzk0MzARBgorBgEEAYKmcgMj
+BAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisG
+AQQBgqZyAwMEBwwFVkVMRVowGgYKKwYBBAGCpnIDHgQMDApFTVBSRVNBUklPMB0GCisGAQQBgqZy
+AwsEDwwNMDEwNDI1MDE5NjAwMTARBgorBgEEAYKmcgMdBAMMAS4wFAYKKwYBBAGCpnIDBAQGDARN
+RVJBMBAGCisGAQQBgqZyAwgEAgwAMA0GCSqGSIb3DQEBCwUAA4ICAQDG6lYc+oa8oK0LU+BOjZJk
+eXzJPB+rATTw63LlOEJ+18agSnaLd+ti7imzogT1qsJUukWx5oD9oSmlnIjg6dJHMEPm9lMlvc0q
+a9Pc5NZ+nZsLG+o0dKQcG2z/pOPHx8z6tNAeDOyPHDq+h8dnuBKWt8WDH84GHo3gsiNWCMt/ajZF
+y2CpOeVvEuEqe3o5i+Hx1ONb26qOZZOZ45ra6zmpGItuzkW/BLNDAgrARh3FtJAx8QKvGHUdSNno
+jUsjZ10Rn8n1yiTMHuyv7s3W4h3JoB6zZUxMKuVHvDTLgU8ttrKGGlOQkzJgmhRTceTHHZEswK0K
+RmSoJpsdDZYJCmIAtvtTv0XebSgXBwFbBsWWFdPyJSvGLqcfCoZgEBI20g/nETURooV/z2rWYLs2
+L8irsLpb1VHu3YTLFe8dO99iVZyX7i/oyDkxknhGagNqFswVAxbTasQh4lWSPPm0AKEf9cvRG3IT
+JC8973apxXkasfmuo+MIqlwMQpsFxTmHawA6vxVVkphVLKXk9Y0MlKycPRVzbICXV1Y4+/3S7nMB
+iiW5MEpCMqMprH0Fk1VbbhFAnzcOmRBnZkSjtVjJsKSKpU/Lv1wL7vcB8I/y5YI1+arcyfuYlUpX
+1OngoToHIZn95U6DoPGShMiHDJa0N6sQnQeJGySu21eyO4KCNyC77w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+5fo/SwjDdruOsHXcPyYrkmyHqqH19xOSejk0P+eLax0nqw3FNmhROifTmERRSvESSRcQAyGwMiT8
+1FnW5QubcHCZIQSMWO8jFyrVu2ilyPOfa97wmrYXWJrNFGu3GSyjU3qYEeBFZ8+/inZ7y3Eg8hRc
+fLKOJUYqJwPzIoT2hq9DXreT9C85c77QUzJe/PBmHFr0xnHKsC1JUI3/vrm6mAxv1ixChnTWtmcl
++j0rwcQXHmhn1EnnDEUG2xqSOtrhgUJYhcTjDIGXSAbpMcP0oEW9IConx6g+vcahzobtS+g8Uwnf
+h6bP4IjG24URRI/PoQZnFkDhmU6ltSxJqaFRnw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature756965-Object882161"><etsi:QualifyingProperties Target="#Signature756965"><etsi:SignedProperties Id="Signature756965-SignedProperties464416"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-12T12:34:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>7Y9/ptK+BcVRDUpKnhKS+H47XCI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1585899037</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-897705"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

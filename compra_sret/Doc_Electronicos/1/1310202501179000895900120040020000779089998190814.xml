@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ACERO COMERCIAL ECUATORIANO S A</razonSocial>
+    <nombreComercial>ACERO COMERCIAL</nombreComercial>
+    <ruc>1790008959001</ruc>
+    <claveAcceso>1310202501179000895900120040020000779089998190814</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>004</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000077908</secuencial>
+    <dirMatriz>AV. LA PRENSA N45-14 Y EL TELEGRAFO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>13/10/2025</fechaEmision>
+    <dirEstablecimiento>AV DE LA PRENSA N45 14 Y TELEGRAFO I</dirEstablecimiento>
+    <contribuyenteEspecial>5368</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <guiaRemision>004-002-000060927</guiaRemision>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <totalSinImpuestos>3371.05</totalSinImpuestos>
+    <totalDescuento>1006.93</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>3371.05</baseImponible>
+        <valor>505.66</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>3876.71</importeTotal>
+    <moneda>US Dollar</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>3876.71</total>
+        <plazo>30</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>0210280073</codigoPrincipal>
+      <codigoAuxiliar>0210280073</codigoAuxiliar>
+      <descripcion>TECLE PALANCA CADENA LB032-10  3.2TN 3 mt ALTURA</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1275.76</precioUnitario>
+      <descuento>293.42</descuento>
+      <precioTotalSinImpuesto>982.34</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre=" " valor=" " />
+        <detAdicional nombre=" " valor=" " />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>982.34</baseImponible>
+          <valor>147.35</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>0210280024</codigoPrincipal>
+      <codigoAuxiliar>0210280024</codigoAuxiliar>
+      <descripcion>TECLE MANUAL A CADENA CF020-10 DE 2 TN 3 m DE ELEVACION</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>621.82</precioUnitario>
+      <descuento>286.04</descuento>
+      <precioTotalSinImpuesto>957.60</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre=" " valor=" " />
+        <detAdicional nombre=" " valor=" " />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>957.60</baseImponible>
+          <valor>143.64</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>0210280026</codigoPrincipal>
+      <codigoAuxiliar>0210280026</codigoAuxiliar>
+      <descripcion>TECLE MANUAL A CADENA CF030-10 DE 3 TN 3 m DE ELEVACION</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>929.29</precioUnitario>
+      <descuento>427.47</descuento>
+      <precioTotalSinImpuesto>1431.11</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre=" " valor=" " />
+        <detAdicional nombre=" " valor=" " />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1431.11</baseImponible>
+          <valor>214.67</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">EL ORO / MACHALA / MACHALA / GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</campoAdicional>
+    <campoAdicional nombre="Teléfono">+593 98 568 6578</campoAdicional>
+    <campoAdicional nombre="Email">MTTOPLANTA2025@HOTMAIL.COM</campoAdicional>
+    <campoAdicional nombre="Código Cliente">CL_039043</campoAdicional>
+    <campoAdicional nombre="Fecha Pago">12/11/2025</campoAdicional>
+    <campoAdicional nombre="No. Orden Venta">OV-000135109</campoAdicional>
+    <campoAdicional nombre="Referencia Cliente">Autoriza Diego Alvear</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature81987" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo Id="Signature-SignedInfo62849"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID93741" URI="#Signature81987-SignedProperties63303" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>Z+OLMBcSbMudvr5XgmaD4c/Pfoo=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate72056"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>zE69w/ZtfgcBiSggXEj70Q3garw=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-92154" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>rmAMxe4eCHHbNHX2vYlqZfqEDFc=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue50173">M1mzyYOJ76QJlZq9m3SlNGWoYAUsAVFSoDDuqj3xzm8zaVEERAa4QNA+DlJGEc1iGi08DZGa6kRrdG9G3p3a6qOtvdbfVg7znEmF1Exvl0KCzMLJEGl7+JvqGvCKjvFaQBdW/ANzgSc6IeAUkzb9cj9/GofxqtvyGovEk15wtmdWbObr9x7+u3xC+jHpkSKRNNDkv/1ZIPZNEL25lajlh9BYnmwpAydtsicYzkFGAkhUTpv4zo+YXv54W5WjUPSgyNtncSmegXbxPoKer8I3xqw8u8sMQPHAGc/vLN5lo2HQMjkVoEFMqRZ9oUV7ESoNJ73Oltpe5Js/8dnmefqJfw==</ds:SignatureValue><ds:KeyInfo Id="Certificate72056"><ds:X509Data><ds:X509Certificate>MIIMMTCCChmgAwIBAgIEObxSojANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA5MDYxOTI4MTZaFw0yNzA5MDYxOTI4MTZaMIGkMSIwIAYDVQQDDBlLQVJMQSBMVUNJQSBOQVJWQUVaIFJFSU5BMSAwHgYDVQQFExcxNzEzMjIwMjI0LTA2MDkyNDE0MzgwMzEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCpNx9K/lPl7AxwURYMqLs7bB3Ytw65MZcEztW5Lj4GnyGEITUF3G1vC0ie5CR5UUHC4k//UqngFN+6bL99UFbBNc6AxqsNZr2yjY4OIYwyTt7ECQei76LTCeLq71nqKGP/oFLyom3v5MjkSx2vVwVL/3i6FTKHIzhi4vtu2FkeKbKCN7HCgnQ1/xOh67ZO/MVi3CwfWJALc1oHAZW5UkurJCfKO3hCjAPNQJrOp4CnBSV36tnR/kQIfFeUK5vTBmzKg1cL2ROZv6qAFn9HqEyg8Gy132+D4TIFQ7oZe2eec3C/QJxbxpuiVm7fIgWPgJShvOpoE55zFDpH0BTfd58lAgMBAAGjggdyMIIHbjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTAmBgNVHREEHzAdgRtrbmFydmFlekBhY2Vyb2NvbWVyY2lhbC5jb20wggESBgNVHSAEggEJMIIBBTBgBgorBgEEAYKmcgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBlAG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKmcgIEMIGRMIGOBggrBgEFBQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gTWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUIfF6Z/2S6V/FJVHvw9XwRx6cy9AwKwYDVR0QBCQwIoAPMjAyNDA5MDYxOTI4MTZagQ8yMDI3MDkwNjE5MjgxNlowCwYDVR0PBAQDAgXgMCEGCisGAQQBgqZyAwUEEwwRQ09OVEFET1JBIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxNzEzMjIwMjI0MB0GCisGAQQBgqZyAwkEDwwNTEEgQ09OQ0VQQ0lPTjARBgorBgEEAYKmcgMiBAMMAS4wMgYKKwYBBAGCpnIDBwQkDCJBViBMQSBQUkVOU0EgTjQ1IDE0IFkgRUwgVEVMRUdSQUZPMBsGCisGAQQBgqZyAwIEDQwLS0FSTEEgTFVDSUEwHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDA4NTk1NTYwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHTkFSVkFFWjARBgorBgEEAYKmcgMeBAMMAS4wLwYKKwYBBAGCpnIDCgQhDB9BQ0VSTyBDT01FUkNJQUwgRUNVQVRPUklBTk8gUyBBMB0GCisGAQQBgqZyAwsEDwwNMTc5MDAwODk1OTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFQYKKwYBBAGCpnIDBAQHDAVSRUlOQTAcBgorBgEEAYKmcgMIBA4MDDU5Mzk4MzM4NTcxNzANBgkqhkiG9w0BAQsFAAOCAgEAM5mztU48ckWZdL1YfMXPoKvHsS+lssgt9pdrv/u05p/vd8ZR9ZuF8RpLl3sCX27AEV2f/7c4Ru2/pscof5xzd9BK5c4uctBDTd9Y6S3D/bbMq4SeJQ11l9SQNnAyXVzpl9jv3qzNZW6yEYBoSUNIDDcegavCyR1Y0u6d0l6dB5AXVJlLk9yHgy7eRvDZDWcXtnA+kuji6s39/i9KuYlC4DFvWlI6G7YFlsxIFYt8YK8Hq3bHsjjwBA0rzOFQZk22IZDjAmBfsVxgo/400q/mPuHMi2cMq13jDqMMa0j6pa26HRxjR++kduvG1iygl+IAAfIfCin0f+KYKiCw5Iuv5qUdW69hjLK4eNqXaAOwTHJelGiJ43DQZHrIjy3gzLHY7UsHSUxXRvEx/H6ktiwfzARYlo/k0+jE0N4eKKg4D8ZwNfwEsDvawiYZXe5y9p4AZn+6OPcQPNA+ei0R/zSkMePCLh40+UlO/NNJIeX0eJM/ZpFjFO8TTwgKN6nb+zF8pRESV8iJD1gLWElMtmyLJz8CCPLppGCJP/JcCPm8GKrDflivjWWqhrNy0IYHOlbAJYfc7Q0axwCJeetyd99VXFKqiHUavv0dUG3Dgou96XoHdj293QQqvDUF4GWh3GwU8sPFKvHozNAhI8/uWNt4MsQOGXlp3y93BgfLX+6vxK8=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>qTcfSv5T5ewMcFEWDKi7O2wd2LcOuTGXBM7VuS4+Bp8hhCE1BdxtbwtInuQkeVFBwuJP/1Kp4BTfumy/fVBWwTXOgMarDWa9so2ODiGMMk7exAkHou+i0wni6u9Z6ihj/6BS8qJt7+TI5Esdr1cFS/94uhUyhyM4YuL7bthZHimygjexwoJ0Nf8Toeu2TvzFYtwsH1iQC3NaBwGVuVJLqyQnyjt4QowDzUCazqeApwUld+rZ0f5ECHxXlCub0wZsyoNXC9kTmb+qgBZ/R6hMoPBstd9vg+EyBUO6GXtnnnNwv0CcW8abolZu3yIFj4CUobzqaBOecxQ6R9AU33efJQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature81987-Object50415"><etsi:QualifyingProperties Target="#Signature81987" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#"><etsi:SignedProperties Id="Signature81987-SignedProperties63303"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-10-13T15:41:09</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>JdGCneY10RQ3zf2FUq8uY47lr3o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>968643234</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-92154"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

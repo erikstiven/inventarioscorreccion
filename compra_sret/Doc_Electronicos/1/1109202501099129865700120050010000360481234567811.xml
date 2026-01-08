@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CECUAMAQ, CORPORACION ECUATORIANA INDUSTRIAL DE MAQUINARIA C.A.</razonSocial><ruc>0991298657001</ruc><claveAcceso>1109202501099129865700120050010000360481234567811</claveAcceso><codDoc>01</codDoc><estab>005</estab><ptoEmi>001</ptoEmi><secuencial>000036048</secuencial><dirMatriz>AV. DE LAS AMERICAS MZ 24D S 6 Y AV. CARLOS LUIS PLAZA DAÑIN</dirMatriz></infoTributaria><infoFactura><fechaEmision>11/09/2025</fechaEmision><dirEstablecimiento>MAPASINGUE OESTE AV SEGUNDA#113 Y VIA DAULE KM 4.5</dirEstablecimiento><contribuyenteEspecial>0011</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><guiaRemision>005-001-000034710</guiaRemision><razonSocialComprador>MINERA BELORO C L</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><totalSinImpuestos>403.64</totalSinImpuestos><totalDescuento>172.99</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>0.00</descuentoAdicional><baseImponible>403.64</baseImponible><tarifa>15.00</tarifa><valor>60.55</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>464.19</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>464.19</total><plazo>0</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>UN-150820-10</codigoPrincipal><descripcion>AVELLANADOR HSS 5%Co 90 3C DE 10mm</descripcion><cantidad>1.000000</cantidad><precioUnitario>8.200000</precioUnitario><descuento>2.46</descuento><precioTotalSinImpuesto>5.74</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048011"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>5.74</baseImponible><valor>0.86</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>FO-609ASO</codigoPrincipal><descripcion>ALICATE P/ANIL. RETEN. EXT. 7" RECTO 0 FORCE</descripcion><cantidad>1.000000</cantidad><precioUnitario>19.500000</precioUnitario><descuento>5.85</descuento><precioTotalSinImpuesto>13.65</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048006"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>13.65</baseImponible><valor>2.05</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>KX-49-11-A4</codigoPrincipal><descripcion>ALICATE P/ANIL. RETEN. EXT. 12" RECTO 85-140MM KNIPEX</descripcion><cantidad>1.000000</cantidad><precioUnitario>84.490000</precioUnitario><descuento>25.35</descuento><precioTotalSinImpuesto>59.14</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048003"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>59.14</baseImponible><valor>8.87</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>FO-609ASC</codigoPrincipal><descripcion>ALICATE P/ANIL. RETEN. INT. 7" RECTO 0 FORCE</descripcion><cantidad>1.000000</cantidad><precioUnitario>19.500000</precioUnitario><descuento>5.85</descuento><precioTotalSinImpuesto>13.65</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048004"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>13.65</baseImponible><valor>2.05</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>UN-150820-12.4</codigoPrincipal><descripcion>AVELLANADOR HSS 5%Co 90 3C DE 12.4mm</descripcion><cantidad>1.000000</cantidad><precioUnitario>9.200000</precioUnitario><descuento>2.76</descuento><precioTotalSinImpuesto>6.44</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048012"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>6.44</baseImponible><valor>0.97</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>UN-150820-16.5</codigoPrincipal><descripcion>AVELLANADOR HSS 5%Co 90 3C DE 16.5mm</descripcion><cantidad>1.000000</cantidad><precioUnitario>14.600000</precioUnitario><descuento>4.38</descuento><precioTotalSinImpuesto>10.22</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048015"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>10.22</baseImponible><valor>1.53</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>FO-609ABC</codigoPrincipal><descripcion>ALICATE P/ANIL. RETEN. INT. 7" CURVO 90 FORCE</descripcion><cantidad>1.000000</cantidad><precioUnitario>19.500000</precioUnitario><descuento>5.85</descuento><precioTotalSinImpuesto>13.65</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048005"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>13.65</baseImponible><valor>2.05</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ST-STMT73649-LA</codigoPrincipal><descripcion>JGO.LLAVE MIXTA DE 8 A 24MM 14PC ANTISLIP STANLEY</descripcion><cantidad>1.000000</cantidad><precioUnitario>79.860000</precioUnitario><descuento>23.96</descuento><precioTotalSinImpuesto>55.90</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K7"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048007"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>55.90</baseImponible><valor>8.39</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ST-86-970</codigoPrincipal><descripcion>JGO.LLAVE MIXTA DE 3/8 A 1"1/4 14Pc STANLEY</descripcion><cantidad>1.000000</cantidad><precioUnitario>115.190000</precioUnitario><descuento>34.56</descuento><precioTotalSinImpuesto>80.63</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K7"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048008"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>80.63</baseImponible><valor>12.09</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>UN-150820-8</codigoPrincipal><descripcion>AVELLANADOR HSS 5%Co 90 3C DE 8mm</descripcion><cantidad>1.000000</cantidad><precioUnitario>6.600000</precioUnitario><descuento>1.98</descuento><precioTotalSinImpuesto>4.62</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048010"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>4.62</baseImponible><valor>0.69</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ST-34-263S</codigoPrincipal><descripcion>CINTA METRICA FIBRA 50M-165FT H1/2 STANLEY</descripcion><cantidad>1.000000</cantidad><precioUnitario>31.750000</precioUnitario><descuento>9.53</descuento><precioTotalSinImpuesto>22.22</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048009"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>22.23</baseImponible><valor>3.33</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>KX-48-11-J4</codigoPrincipal><descripcion>ALICATE P/ANIL. RETEN. INT. 12" RECTO 85-140MM KNIPEX</descripcion><cantidad>1.000000</cantidad><precioUnitario>76.040000</precioUnitario><descuento>22.81</descuento><precioTotalSinImpuesto>53.23</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048002"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>53.23</baseImponible><valor>7.98</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>UN-150820-20.5</codigoPrincipal><descripcion>AVELLANADOR HSS 5%Co 90 3C DE 20.5mm</descripcion><cantidad>1.000000</cantidad><precioUnitario>21.600000</precioUnitario><descuento>6.48</descuento><precioTotalSinImpuesto>15.12</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048013"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>15.12</baseImponible><valor>2.27</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>FO-60912ABC</codigoPrincipal><descripcion>ALICATE P/ANIL. RETEN. INT. 12" CURVO 90 FORCE</descripcion><cantidad>1.000000</cantidad><precioUnitario>40.800000</precioUnitario><descuento>12.24</descuento><precioTotalSinImpuesto>28.56</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048001"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>28.56</baseImponible><valor>4.28</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>UN-150820-25</codigoPrincipal><descripcion>AVELLANADOR HSS 5%Co 90 3C DE 25mm</descripcion><cantidad>1.000000</cantidad><precioUnitario>29.800000</precioUnitario><descuento>8.94</descuento><precioTotalSinImpuesto>20.86</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Detalle Adicional 1" valor="K20"/><detAdicional nombre="Detalle Adicional 3" valor="A150FA51000036048014"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>20.86</baseImponible><valor>3.13</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="emailCliente">fernanda.paccha@grupoadmg.com</campoAdicional><campoAdicional nombre="Cod. Cliente:">C8588</campoAdicional><campoAdicional nombre="Dirección:">GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</campoAdicional><campoAdicional nombre="Forma de Pago:">Efectivo</campoAdicional><campoAdicional nombre="Atte.:">ING DIEGO ALVEAR</campoAdicional><campoAdicional nombre="Vendedor:">DANNY MORA</campoAdicional><campoAdicional nombre="Ciudad:">MACHALA</campoAdicional><campoAdicional nombre="Teléfono(s):">2937375</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature417620">
+<ds:SignedInfo Id="Signature-SignedInfo192916">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID1031125" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature417620-SignedProperties376461">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Oo8TP1KMLZJ2gI6X30Xob+WZVRM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1810694">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>McGa7+S4YT7NeD/Lz3uLPinKdGk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-483680" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>iVb1xheBVUww8c6HHVZbgNAHzW4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue706069">
+aLdbTUKteC6IdGsgv+XIrHyqpwuYkbYa0HjK2wn9FRU6yVlRCF+oMB1YdlKg08YrOg5adErZDMY+
+NzZV5RoIjukAXVjFQ4EaUQ5STCfYOTwjCqGj0DyiTmQKPAAwyfYvbVQDTlxGAPVCQ8u0vm707OZo
+TebAeroCAUjjO2DPRVhSDruyA4vHhvQuMhe6zAiL/s8FpxWA3GUJQn2QnkSdqzJstmH9wGs6a1kb
+Cq5hRApO6GEuL59hUATSZZWW5oRtWS8P3arnN01LudaYqY1f1V5Zz68T9g/nWW1fFb2ohlBKBvi7
+2rIjFNDnhs0Vaj5Y1S4Rmt9vwQwCNYTb10aV/Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1810694">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMODCCCiCgAwIBAgIEJDH3cjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTExMTgyMTIwNTZaFw0yNjExMTgyMTIwNTZaMIGdMSYw
+JAYDVQQDDB1BRFJJQU5BIENBUk9MSU5BIE5JRVRPIEZMT1JFUzEVMBMGA1UEBRMMMTgxMTIxMTYz
+MDUwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBAK3+V4IANY+lBXXcPOo1ZwBCLcGs4240aofLOZz9+wJwHqsaqzkl5aep
+so6EXwS5zb8O2JmgII2bXDL89lzq2EPhp6J2JamxHxWoXVPmxQcK2yelunZU50DIPls2JDWX29J8
+7rj9c3vHXn5BtcUTsoN+lQeLQrSlO9Zx3AlAZlKmY39mTYGahq3pS3jxn0ESk/BV8lrLm97wRhMR
+Mr2LAncjHg9Ieg6Cv7bISw/XeJxOwmmTS/8ZaP2H5o1h0tzpCZKAxiNYtKNL17RDNn/TuNXECLjL
+V+9vhxsBy47lD0WveipNDTi8R66N8xgQqYkpk9bCRgGtS/8+5G8h0oWbZAECAwEAAaOCB4Awggd8
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlz
+dD9iYXNlMB8GA1UdEQQYMBaBFGFkcmlhbmFAY2VjdWFtYXEuY29tMIIBEgYDVR0gBIIBCTCCAQUw
+YAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABk
+AGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnICBDCB
+kTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRl
+bnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENl
+cnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+G
+PWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNB
+LTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceg
+gcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFE
+IERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2Vy
+dGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3Bl
+cmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRp
+c3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBT
+RUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixP
+PVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFPyY+lNC7lMACWhY1TsmuB0AtX6R
+MCsGA1UdEAQkMCKADzIwMjExMTE4MjEyMDU2WoEPMjAyNjExMTgyMTIwNTZaMAsGA1UdDwQEAwIF
+4DAYBgorBgEEAYKmcgMFBAoMCENPTlRBRE9SMBoGCisGAQQBgqZyAwEEDAwKMDkyNzI3NTYyODAZ
+BgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDARBgorBgEEAYKmcgMiBAMMAS4wRQYKKwYBBAGCpnID
+BwQ3DDVBVi4gREUgTEFTIEFNRVJJQ0FTIFNPTEFSIDYgWSBDQVJMT1MgTFVJUyBQTEFaQSBEQU5J
+TjAgBgorBgEEAYKmcgMCBBIMEEFEUklBTkEgQ0FST0xJTkEwHwYKKwYBBAGCpnIDIAQRDA8wMDIw
+MDEwMDAyNzA1MDUwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9S
+MBUGCisGAQQBgqZyAwMEBwwFTklFVE8wTgYKKwYBBAGCpnIDCgRADD5DRUNVQU1BUSBDT1JQT1JB
+Q0lPTiBFQ1VBVE9SSUFOQSBJTkRVU1RSSUFMIERFIE1BUVVJTkFSSUEgQy5BLjAdBgorBgEEAYKm
+cgMLBA8MDTA5OTEyOTg2NTcwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAWBgorBgEEAYKmcgMEBAgM
+BkZMT1JFUzAaBgorBgEEAYKmcgMIBAwMCjA5ODkyMTE0NTIwDQYJKoZIhvcNAQELBQADggIBAH1c
+sLPOQ5eCUMp/ZRLhAAv8kTYvSyAMWpkPblvfpUDlzbXgEO/51p8ClSsRv5uElgvbEyABwNa5GEkN
+v/jh7ORt3dUj6o97gUrTOUIghjeQYoj2HOVuQN5QRTSS7GippV8178/1gPuLqTBcqlRfdl/a4VRG
+lspaCs5GbFy3s82sbcwftUS2v4T1NzjyOiD1F8iNptVT2WsmkgVRWCtxzRMUgUJKYYmUVgxtVCZS
+bVvk5SXza7yf2N33ehcb+ID9FQModTxeWc53FmXH4M/bw4UTaVJn11UydEsz9H0qo4s1s+qM4PCn
+PrHymdAOaO09Ew4NOq4n0svA0ugQZC1TqxoFQ3YIaYsP6EDBZrEF/bugm0MtOOdIsTV4V3V8j+Wt
+he14JBba3PWhSgPeF4EhvZHticIjC64TMQuju+wj5UHCyJra6izPeU323r7/S1LH4kEtrBmyEWVB
+xC0ym/x4QTIiFlV3RrFrlVAgYkf6SVpjSnWPYiFlo+an11y12ouH7nWUqRYmRaRESNhdc7FCqL2I
+U4F03EvdhCnQxnBeXauQ06RWK5dAC7fxOT72u4SlQ3/oBjaje6JWT7o+2omy3VpJJ2Vj1pltjVEp
+MzIUwig7kbhiACJsNt1Rq5KlN3uBXaUc2KA9fWAVEXzglAyyKzO7HkCr+BQqT/ysi5BSa6yr
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rf5XggA1j6UFddw86jVnAEItwazjbjRqh8s5nP37AnAeqxqrOSXlp6myjoRfBLnNvw7YmaAgjZtc
+Mvz2XOrYQ+GnonYlqbEfFahdU+bFBwrbJ6W6dlTnQMg+WzYkNZfb0nzuuP1ze8defkG1xROyg36V
+B4tCtKU71nHcCUBmUqZjf2ZNgZqGrelLePGfQRKT8FXyWsub3vBGExEyvYsCdyMeD0h6DoK/tshL
+D9d4nE7CaZNL/xlo/YfmjWHS3OkJkoDGI1i0o0vXtEM2f9O41cQIuMtX72+HGwHLjuUPRa96Kk0N
+OLxHro3zGBCpiSmT1sJGAa1L/z7kbyHShZtkAQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature417620-Object128972"><etsi:QualifyingProperties Target="#Signature417620"><etsi:SignedProperties Id="Signature417620-SignedProperties376461"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-09-11T12:12:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>yk3cB0F5b9ZAHbtxAmyw78FE1XA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>607254386</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-483680"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

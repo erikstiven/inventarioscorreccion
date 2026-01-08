@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>TECNICENTRO DEL AUSTRO SA TEDASA</razonSocial>
+    <nombreComercial>TEDASA</nombreComercial>
+    <ruc>0190061884001</ruc>
+    <claveAcceso>0708202501019006188400120279010000844970008449711</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>027</estab>
+    <ptoEmi>901</ptoEmi>
+    <secuencial>000084497</secuencial>
+    <dirMatriz>KM 3 PANAMERICANA NORTE S/N Y AV. DE LAS AMERICAS  CUENCA ECUADOR</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>07/08/2025</fechaEmision>
+    <dirEstablecimiento>VIA A MACHALA S/N</dirEstablecimiento>
+    <contribuyenteEspecial>3257</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <direccionComprador>CDLA. LOS JARDINES  CALLE GUAYAQUIL S/N Y QUINTA NORTE  593 MACHALA ECUADOR</direccionComprador>
+    <totalSinImpuestos>5138.68</totalSinImpuestos>
+    <totalDescuento>4025.44</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>5138.68</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>770.80</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>5909.48</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>5909.48</total>
+        <plazo>30</plazo>
+        <unidadTiempo>días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PTSPECRO1505500</codigoPrincipal>
+      <descripcion>ROCK DRILLl 150 (TQ)</descripcion>
+      <cantidad>7</cantidad>
+      <precioUnitario>1306.96</precioUnitario>
+      <descuento>4025.44</descuento>
+      <precioTotalSinImpuesto>5123.28</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>5123.28</baseImponible>
+          <valor>768.49</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TAQ RECOIL (Tanque)</codigoPrincipal>
+      <descripcion>TAQ Gestión Ambiental de aceites usados RECOIL (Tanque)</descripcion>
+      <cantidad>7</cantidad>
+      <precioUnitario>2.2</precioUnitario>
+      <descuento>0.0</descuento>
+      <precioTotalSinImpuesto>15.40</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>15.40</baseImponible>
+          <valor>2.31</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">ruli_oro@hotmail.com</campoAdicional>
+    <campoAdicional nombre="DireccionFacturacion">CDLA. LOS JARDINES  CALLE GUAYAQUIL S/N Y QUINTA NORTE  593 MACHALA ECUADOR</campoAdicional>
+    <campoAdicional nombre="DireccionEnvio">ECUADOR</campoAdicional>
+    <campoAdicional nombre="TelefonoCliente">072984073</campoAdicional>
+    <campoAdicional nombre="VendedorFactura">ARAUJO MOTOCHE WILMER</campoAdicional>
+    <campoAdicional nombre="SucursalFactura">TEDASA TRUCK MACHALA</campoAdicional>
+    <campoAdicional nombre="FechaVencimientoFactura">06/09/2025 0:00:00</campoAdicional>
+    <campoAdicional nombre="ComentarioFactura">VACIO</campoAdicional>
+    <campoAdicional nombre="CodSociedad">TEDASA</campoAdicional>
+    <campoAdicional nombre="CodInternoSAP">1544019</campoAdicional>
+    <campoAdicional nombre="Cuotas">2025-09-06;5909.48</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature293214">
+<ds:SignedInfo Id="Signature-SignedInfo575555">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID613307" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature293214-SignedProperties868057">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Hvmr+2kDGDTRtJPuvuPHZwymoiA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1947734">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>gwuq++DYHCbwhfkjonSDKRCW7QU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-750627" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qUAm0UFkPq4wxLmP8AIbtgpvFGE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue3218">
+PBW58OadzQPB4GK3GbEcZxZlKANI03XW8BOJhAE5FZheN13610PYWz4V1WZQzMhY/rEG/th7IWkr
+s8Z/liK1rF1GeiQ87fu4LZ3nawoE8oB4hlyqOApUiWn5c5NHZleDRQnaEAqAjWygj2Q9Tyy88FOr
+KczZG/BNy4S4zqLkiGAnL1WFPc/VxM6Tx+Tpfjzp2/YsbpVQkjbjaAUzeQg86eUAL1rq5tbuZLCh
+elMGxoLgA+wyHdunYGhtxBXQ6XOvKW+SgK6cZYF3AYTvJNHeU2UUe0FL1rkPuH7qDeaPFhkiNhXE
+ihzlqDlN4p1Dlu9Sta1Ie9/g0I8/vk3s0Nl4YQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1947734">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKxTCCCK2gAwIBAgIECnnqKTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA0MTEyMTE5MzdaFw0yNzA0MTEyMTE5MzdaMIGiMSAw
+HgYDVQQDDBdKQUlNRSBBTkRSRVMgUklPUyBMT1BFWjEgMB4GA1UEBRMXMDEwMjQyMzg5NC0xMTA0
+MjUxNjI5MzAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEApUF78hSRKxaUzgcfpX1gLIjbUc70mdnkiLVcqQq+S5TLelDF
+vJE2gNIby8Oinh1c2+FjQit9Cy3sSE4Q/kq7Sab/8caWVhKjNztxoJpWjOBrZQseEGlJcvsFZdkm
+CtK7VNrTJTLkamXwjTdEPriYhJN8UDqvN6Gy2QfTXynj/AAbmw9vKrhWc211VSYgZufnIlgi2BRd
+5xt1bTBsDWfazGnAvs/lke9LBCrafn7cR33rIth0w6+kmCfPzDpPocXS996rrg/2VQn/UAu+jj0y
+0FJDIWZs0e32L225EiDsbOePBfL78TjRXbhXanGgmih8omcv6+FzRdk+ZYMKX+EowQIDAQABo4IG
+CDCCBgQwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggr
+BgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwGwYDVR0RBBQwEoEQYXJpb3NAdGVkYXNhLmNv
+bTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIA
+dABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBn
+AGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0
+eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZp
+Y2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMB0G
+A1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHeoDqgOIY2aHR0
+cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2NybGZpbGUuY3JsooGfpIGc
+MIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZ
+IERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8v
+Y3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmwwgeCggd2ggdqG
+gddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJs
+aWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU
+wsZ33WWX5hCg0+kZJK4JzzwRn34wKwYDVR0QBCQwIoAPMjAyNTA0MTEyMTE5MzdagQ8yMDI3MDQx
+MTIxMTkzN1owCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoG
+CisGAQQBgqZyAwEEDAwKMDEwMjQyMzg5NDAZBgorBgEEAYKmcgMJBAsMCUVMIFZFQ0lOTzARBgor
+BgEEAYKmcgMiBAMMAS4wOwYKKwYBBAGCpnIDBwQtDCtQQU5BTUVSSUNBTkEgTk9SVEUgUyBOIFkg
+QVYgREUgTEFTIEFNRVJJQ0FTMBwGCisGAQQBgqZyAwIEDgwMSkFJTUUgQU5EUkVTMB8GCisGAQQB
+gqZyAyAEEQwPNjY2NjY2NjY2NjY2NjY2MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZy
+AwwECQwHRUNVQURPUjAUBgorBgEEAYKmcgMDBAYMBFJJT1MwMQYKKwYBBAGCpnIDCgQjDCFURUNO
+SUNFTlRSTyBERUwgQVVTVFJPIFMgQSBURURBU0EwHQYKKwYBBAGCpnIDCwQPDA0wMTkwMDYxODg0
+MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAVBgorBgEEAYKmcgMEBAcMBUxPUEVaMBAGCisGAQQBgqZy
+AwgEAgwAMA0GCSqGSIb3DQEBCwUAA4ICAQAMvNmBmJN8Et1neuUxMUkobBDa52jXAFw4VLOqqCx/
+OJdYC3AfCcOKtj6QNxwnvy89vdFdv1MYwLJkQUms7f0Lw+rf9JNmTJf2dWR+dSlO+E+DD+mmhqaC
+iNNpc4UTQq2EqkGRqiMuluhn4CrHUOT/tYqu8yMjN4qMlUpehOnFdXkecH/79sd7Zuu+f/7D0yXu
+UBMJCxOWVDTl0VB5CytkU/DksQFf5OjDSJ/vaWrlz52zAJEW+9EI0nh+1enFkDJy+ALw9hQLOPHk
+EAqTVbrAWtdesRk86wnuGNY7bkmJ5Wx5fBh3041ONpWR5WCyycNI66iP8e1kmxn26SfsCNHHLkyA
+k10VCwgAW0bKZvE0T7Y4XLe8iceAjCNzJ/vD+bSQM9diNrVL/sTLls5ltOA2YGo4bbwVnjerHbzJ
+r5urq0HU9A4aGEVXVo+3rm7Ez22O3hy6CkUuOQNGdssDvRvkzg2wDJAsfHMk02EYn0esKimsm27T
+QvwZ9rNmnGz8NQiRcGmeaebA/viIGTxcM77btJOvOKPT0+ekwpy3+c77iS2wYyaZW1rCfiN2iKg8
+eNkAK0B06l6HA6puXyZM7xx/8HSOv08Xq2uS+6r1xxkXD+wnbeUb03tJnazWptyPSdSAKa3edhMB
+byKyjRCZOIAOo5076933bG+eBv+9q1/M2Q==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pUF78hSRKxaUzgcfpX1gLIjbUc70mdnkiLVcqQq+S5TLelDFvJE2gNIby8Oinh1c2+FjQit9Cy3s
+SE4Q/kq7Sab/8caWVhKjNztxoJpWjOBrZQseEGlJcvsFZdkmCtK7VNrTJTLkamXwjTdEPriYhJN8
+UDqvN6Gy2QfTXynj/AAbmw9vKrhWc211VSYgZufnIlgi2BRd5xt1bTBsDWfazGnAvs/lke9LBCra
+fn7cR33rIth0w6+kmCfPzDpPocXS996rrg/2VQn/UAu+jj0y0FJDIWZs0e32L225EiDsbOePBfL7
+8TjRXbhXanGgmih8omcv6+FzRdk+ZYMKX+EowQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature293214-Object955860"><etsi:QualifyingProperties Target="#Signature293214"><etsi:SignedProperties Id="Signature293214-SignedProperties868057"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-08-07T09:17:05-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>eO8ThPYGZnOKc22X1/qTptQgYcg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>175761961</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-750627"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

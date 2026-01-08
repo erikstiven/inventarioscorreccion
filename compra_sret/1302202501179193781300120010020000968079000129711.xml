@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Autoventas WAY S.A.</razonSocial><nombreComercial>Autoventas WAY S.A.</nombreComercial><ruc>1791937813001</ruc><claveAcceso>1302202501179193781300120010020000968079000129711</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000096807</secuencial><dirMatriz>Complejo Bodegas La Mancha Panamericana E35 y C.S/N Vía Pifo</dirMatriz></infoTributaria><infoFactura><fechaEmision>13/02/2025</fechaEmision><dirEstablecimiento>Av. Panamericana Norte N km 14 1/2 y San Camilo Quito</dirEstablecimiento><contribuyenteEspecial>00677</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MINERA BELORO C L</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><direccionComprador>GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA   090150  MACHALA El Oro Ecuador</direccionComprador><totalSinImpuestos>586.58</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>586.58</baseImponible><valor>87.99</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>674.57</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>674.57</total><plazo>000</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>98HN21</codigoPrincipal><descripcion>LITH SHC 220, 16KG</descripcion><cantidad>1.000000</cantidad><precioUnitario>586.580000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>586.58</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.000</tarifa><baseImponible>586.58</baseImponible><valor>87.99</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="PED/DOC.SAP">100001368 / 90001297</campoAdicional><campoAdicional nombre="CORREO">fernanda.paccha@grupoadmg.com</campoAdicional><campoAdicional nombre="DIR.ENTREGA">GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA  090150  MACHALA El Oro Ecuador</campoAdicional><campoAdicional nombre="OC">FAVOR DESPACHAR DESDE GUAYAQUIL A M</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature898534">
+<ds:SignedInfo Id="Signature-SignedInfo1031969">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID56446" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature898534-SignedProperties791835">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DINGOvWKfJaZ0loD7zB8kVhwCpc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1329819">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>stAva5Fmkk+Zg7A7xniWcUTRYeY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-499996" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>MhAm+chPlArQxi2n98dmfhd+Fe4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue517579">
+fOHFwARpYqAZh4i51yHnKfdNNQN+wXJtGdFVETsBcsPMUWWpCHZsZJE3OpKlkKX6NhOTeQRLABcQ
+j4I+SwJf7M/FBd0Drw9u7rFUR4ARbvEpKP78Y0tFJV7TQ0PSPj+ftxB5V5gJmEmwV9qBnBvlr95I
+Te1C5RXYHo3a+q5TMZjxt++zdKc2rXoWg3Iu0xkjp4gLC9MLt7IUhP8RcC6Grr574oxoTG/KmyiP
+WruNLP66Jf8rE0kV0/ESC9L+682MNgsZWfRHG/4qLIkjAPsvcM0l+fMBm+egYlGIWSNhT9whAWv6
+F5mgsN4qtskohjeUsaVlEqVzb9eouxSsPNx0Uw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1329819">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMITCCCgmgAwIBAgIEBbugNDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA1MjcyMTMxNTlaFw0yNzA1MjcyMTMxNTlaMIGpMScw
+JQYDVQQDDB5TQU5USUFHTyBBTkRSRVMgWUVQRVogSElOT0pPU0ExIDAeBgNVBAUTFzEwMDE0OTk2
+ODgtMjcwNTI0MTY0MTM2MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAInzMXgLJrzNxyrjzcSyJfzAt8809HxJQSIeNG4t
+yzx5imU2au3u3UCKBzFZ2yujA9tamIpk5D5WV11fknN+TZT3bTLRBgMDgVIDfqXioKM/gO7ZuToG
+ysc5gMunV9ZxHZKgZUR4UUcvfVz7OjcBP1Fk3+dNqwpXbwP1U1eOfFRDXv4OJTH9C+9zLhlhc1qI
+2Ovt03W+2yFKDW4seGsXeW9LDznx03RDdxLeVJeOWpegnjcJq9gOlFQjijPMSDrv88FKaIv+qz1E
+2GWEhrPCraRnpdwoEJ92r8Kcs5oM3WE6+NRC53/VNqlikxpBf6/pODvvAeRkOw5vqGHAPeDyKicC
+AwEAAaOCB10wggdZMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMCoGA1UdEQQjMCGBH3NhbnRpYWdvLnllcGV6QGF1dG92ZW50YXN3
+YXkuZWMwggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMA
+ZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABM
+AGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2Vy
+dGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBk
+ZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJ
+REFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERB
+VEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VS
+SVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VD
+VVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCg
+gd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNV
+HQ4EFgQU9pb3EEnMvTbVp9R0ts/rsJOhdykwKwYDVR0QBCQwIoAPMjAyNDA1MjcyMTMxNTlagQ8y
+MDI3MDUyNzIxMzE1OVowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5F
+UkFMMBoGCisGAQQBgqZyAwEEDAwKMTAwMTQ5OTY4ODAXBgorBgEEAYKmcgMJBAkMB1lBUlVRVUkw
+EQYKKwYBBAGCpnIDIgQDDAEuMDsGCisGAQQBgqZyAwcELQwrQVYgSU5URVJPQ0VBTklDQSBTIE4g
+WSBWSUEgQU5USUdVQSBBIFBVRU1CTzAfBgorBgEEAYKmcgMCBBEMD1NBTlRJQUdPIEFORFJFUzAf
+BgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMDgyMjcxNDATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgor
+BgEEAYKmcgMMBAkMB0VDVUFET1IwFQYKKwYBBAGCpnIDAwQHDAVZRVBFWjAiBgorBgEEAYKmcgMK
+BBQMEkFVVE9WRU5UQVMgV0FZIFMgQTAdBgorBgEEAYKmcgMLBA8MDTE3OTE5Mzc4MTMwMDEwEQYK
+KwYBBAGCpnIDHQQDDAEuMBgGCisGAQQBgqZyAwQECgwISElOT0pPU0EwGgYKKwYBBAGCpnIDCAQM
+DAowOTk5NDQ3MjE2MA0GCSqGSIb3DQEBCwUAA4ICAQDC38sCBbYtoBk0/UJAuXizvPUPxgUnTLhW
+lO1V/JES2uw6qMKdW1/Ut1bWFHGlXIocfdloDolicWUc0pHYkcWz0RR1i8Py1m59LsU1A9KBWFW5
+rXPycXPCqGZd83H/DlrNXu9HWRd7QySBhkBVsKehtcQtqjgdd/3z35FKLmnykEspS0glyGZm5vCS
+Bm+GhjhrxUc3RZ+EJaurOE8dYDLqGkSZKWwWveiyLyvGkWKymSwWTiLNI0jj4A94Ttj93gNv0sar
+8VNy7LoBqQHEUbhNYStDQgiQpuDkRSPBCUhLKgrgCEuN9X+HCdGoOaB2anTZEeVEpnFZp1Yqks6l
+8rMHnBA5qYubiS2S0sBVZQxeajAHKIBh8BN3KFJC6cWNDdiECWNO2iziL3f86agaoqOcQfM1A5M8
+EI3ozyok6B98R1v26oNypkW98m+N4Ooi6JYR37LjLuca/a4vonDNFxIiUz6VnaAqEpiT9LzOs892
+JpZLgRIhgrFMKUc58XxyEyTdVB6QYcASLyT7AkWE00Q0ETEw4hIi2SnpJHCAyhmJDZ6d0MtMEQ9p
+qVmvZrnKOTLmMZq0/J9ahPsZMn6a7w6HxhlZXC26p7Ji022oPL48JKWl1pO350xuj+Z5jjrfTmtC
+j9LQs8NsCm2M05vpudr9QjkQAjFfu73fyLenseR8vg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ifMxeAsmvM3HKuPNxLIl/MC3zzT0fElBIh40bi3LPHmKZTZq7e7dQIoHMVnbK6MD21qYimTkPlZX
+XV+Sc35NlPdtMtEGAwOBUgN+peKgoz+A7tm5OgbKxzmAy6dX1nEdkqBlRHhRRy99XPs6NwE/UWTf
+502rCldvA/VTV458VENe/g4lMf0L73MuGWFzWojY6+3Tdb7bIUoNbix4axd5b0sPOfHTdEN3Et5U
+l45al6CeNwmr2A6UVCOKM8xIOu/zwUpoi/6rPUTYZYSGs8KtpGel3CgQn3avwpyzmgzdYTr41ELn
+f9U2qWKTGkF/r+k4O+8B5GQ7Dm+oYcA94PIqJw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature898534-Object97180"><etsi:QualifyingProperties Target="#Signature898534"><etsi:SignedProperties Id="Signature898534-SignedProperties791835"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-02-13T17:24:10-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>/eWvIjIdM8MOzu2NtmA/BAdx9R4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>96182324</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-499996"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

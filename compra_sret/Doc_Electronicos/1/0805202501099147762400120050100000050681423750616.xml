@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>LUBTECHNOLOGY CIA. LTDA.</razonSocial>
+        <ruc>0991477624001</ruc>
+        <claveAcceso>0805202501099147762400120050100000050681423750616</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>005</estab>
+        <ptoEmi>010</ptoEmi>
+        <secuencial>000005068</secuencial>
+        <dirMatriz>AV LAS AMERICAS Y EUGENIO ALMAZAN OF 201</dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>08/05/2025</fechaEmision>
+        <dirEstablecimiento>AV LAS AMERICAS Y EUGENIO ALMAZAN OF 201</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>MINERA BELORO C.L</razonSocialComprador>
+        <identificacionComprador>0992529679001</identificacionComprador>
+        <direccionComprador>GUAYAQUIL Y QUINTA NORTE ESQUINA</direccionComprador>
+        <totalSinImpuestos>4754.62</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>4754.62</baseImponible>
+                <valor>713.19</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>5467.81</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>5467.81</total>
+                <plazo>60</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>EX047859</codigoPrincipal>
+            <codigoAuxiliar>EX047859</codigoAuxiliar>
+            <descripcion>EXOIL HDD LONG DRAIN TITANIUM 15W40 CI-4+/SL TQ 55GL</descripcion>
+            <cantidad>3</cantidad>
+            <precioUnitario>663.75</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1991.25</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1991.25</baseImponible>
+                    <valor>298.69</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>EX056489</codigoPrincipal>
+            <codigoAuxiliar>EX056489</codigoAuxiliar>
+            <descripcion>EXOIL SYNTEK HM 20W50 SN BL 5GL</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>67.86</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>67.86</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>67.86</baseImponible>
+                    <valor>10.18</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>EX056985</codigoPrincipal>
+            <codigoAuxiliar>EX056985</codigoAuxiliar>
+            <descripcion>EXOIL HIGH PRESS 80W90 GL-4 BL 5GL</descripcion>
+            <cantidad>3</cantidad>
+            <precioUnitario>72.54</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>217.62</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>217.62</baseImponible>
+                    <valor>32.64</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>EX0859674</codigoPrincipal>
+            <codigoAuxiliar>EX0859674</codigoAuxiliar>
+            <descripcion>EXOIL SYNGEAR 75W80 GL-4 BL 5GL</descripcion>
+            <cantidad>2</cantidad>
+            <precioUnitario>108.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>216.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>216.00</baseImponible>
+                    <valor>32.40</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>EXTA0262</codigoPrincipal>
+            <codigoAuxiliar>EXTA0262</codigoAuxiliar>
+            <descripcion>EXOIL ATF DEXRON III BL 5GL</descripcion>
+            <cantidad>2</cantidad>
+            <precioUnitario>72.54</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>145.08</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>145.08</baseImponible>
+                    <valor>21.76</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>EXTM0421</codigoPrincipal>
+            <codigoAuxiliar>EXTM0421</codigoAuxiliar>
+            <descripcion>EXOIL EXTRA PRESS 85W140 GL-5 TQ 55GL</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>748.80</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>748.80</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>748.80</baseImponible>
+                    <valor>112.32</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>LT4043</codigoPrincipal>
+            <codigoAuxiliar>LT4043</codigoAuxiliar>
+            <descripcion>BRAUTEK LITHIUM MOLY NLGI-2 BL 35LB</descripcion>
+            <cantidad>10</cantidad>
+            <precioUnitario>136.80</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1368.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1368.00</baseImponible>
+                    <valor>205.20</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Dirección">GUAYAQUIL Y QUINTA NORTE ESQUINA</campoAdicional>
+        <campoAdicional nombre="Teléfono">072937375</campoAdicional>
+        <campoAdicional nombre="Email">diego.alvear@grupodmg.ec</campoAdicional>
+        <campoAdicional nombre="Vencimientos">N.-1|07/07/2025|60 dias | $5467.81</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature588497" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo768693">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID914727" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature588497-SignedProperties321228">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>or3gYfWMVyfncpNCHCVsy8oZwNI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1295383">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>TMtMCXHI4W00rEEVVe/OpHwjX8M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-985180" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>lj7e17PZX64XCSspXXFHLC8dfoA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue491119">
+LBi5U64SkxARitEdGjiRJHr35DOuLJJRnNnDUelv6GKJlj4RgiR5yVPzoaPg1Fm4e8pju1nvd+PJ
+8nF+Hr4Pp3moMA+mZ6nCTI8FzXw+pLXZ/3o5gp1VmQiLai52PY2r5hxOwqkhs5Q5W+npRbSM/BP3
+r/RxMsEf0ThcEpNOAgfz3AIU/Wqxb3P99Q7lGmq6evPRcnzrw88QwLOxthbEbn47BNl6LneqMiyr
+KLRXNphgNsm5XW056YiGrVi2Y4BGJckIez5RK2BfMqJyXRNY1DfCpGYNGoDNS84BI2LrUPTNNIeC
+y1Lc0yorvBvRdvvs/IZ7M1liitPWce0oEknsYw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1295383">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL+TCCCeGgAwIBAgIEIN+dhDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDAzMTUyMjM3MjFaFw0yOTAzMTUyMjM3MjFaMIGkMSIw
+IAYDVQQDDBlMVUlTIEFMRlJFRE8gTUlERVJPUyBWQUNBMSAwHgYDVQQFExcwOTA2NjExMDA5LTE1
+MDMyNDE3NDcwNzEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCoG5+uUiZMJo9L7M/x9xYyluj/2V0NdonHOkgs6+XCKZIY
+lB8bwcCV5uo/pCFJUOzK3jCJHhBZTUQ6xE2IfF00Bd0X8JAyY/BTopwoWvVOhz2CZLHQs97zKHcf
+wbChRokXUI0sdgT6ehBlfe9goNzFS9MbKYlPFb/OEdS9lZvbtcMOwPrR96REZzjX10ZpATDVvgO4
+4fQAYNptIrvsS3kmjQsabR4jkpcA++wahSH09Sn5a9UIsVkL8VdHH0zxXKtkQs2/d4qzIzX+ETau
+FHyPIcuw0qy+J2spvFTvfeJw8TATaUcAPi3vjlwy/1oaY4CESISbsPu3OdwB0I1xEFBxAgMBAAGj
+ggc6MIIHNjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkG
+CCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4
+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJU
+SUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTAlBgNVHREEHjAcgRpsbWlkZXJvc0BsdWJ0ZWNobm9sb2d5LmNvbTCCARUG
+A1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYA
+aQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCB
+oQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEu
+bmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3Mv
+UG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0f
+BIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2Ev
+cHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIx
+CzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0
+LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0
+dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dl
+Yi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBT65ME9
+UGYrdG4sAHEuxTiI7OgqMzArBgNVHRAEJDAigA8yMDI0MDMxNTIyMzcyMVqBDzIwMjkwMzE1MjIz
+NzIxWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYB
+BAGCpnIDAQQMDAowOTA2NjExMDA5MBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEGCisGAQQBgqZy
+AyIEAwwBLjApBgorBgEEAYKmcgMHBBsMGUFWIEpVQU4gVEFOQ0EgTUFSRU5HTyBTIE4wHAYKKwYB
+BAGCpnIDAgQODAxMVUlTIEFMRlJFRE8wHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDA1NTQxNjgw
+EwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZy
+AwMECQwHTUlERVJPUzAmBgorBgEEAYKmcgMKBBgMFkxVQlRFQ0hOT0xPR1kgQ0lBIExUREEwHQYK
+KwYBBAGCpnIDCwQPDA0wOTkxNDc3NjI0MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAUBgorBgEEAYKm
+cgMEBAYMBFZBQ0EwEAYKKwYBBAGCpnIDCAQCDAAwDQYJKoZIhvcNAQELBQADggIBADpdcCgoHeGb
+5WJS5qCG3uGQcqDlsgLZg9OPROp3KYqskzfOjYivgJACa+LfXCFmwO+dfS3Vlxmb2aOrMbryJ6lz
+WQI5nzfPTNYmYYPBdR7MShqD42NmOwGL0m+CIugggAbb+LWe9v2TpaZ/gSGggVf6gBD4A+eQuzwO
+EdMrtIeVoYx+BBSeUSkOwmvQpOAVjXyXo6uasmyTkjLrj8/5/JkvxQTMYGo8MbNE/MNm9bkjpN4y
+kGa4ebl48WBX/3IJI1HW7acQVX148ibTEOIvkRvOweQpfYl1zcX3hrJqy4c/lgDjFwJ9MzC5xEdV
+BtgqCddCJiRVzV46446r6p+Ee9vv2KJDeFFSgQpa5txitq/gweg9Qok7anwwIW3vMVSnTjWsjfzk
+60QfuGIPWQgtPoCmgM/7bOk04Ms19K8FZ4elH3vD8j1IYVgTFwmqMr/rcIYod93gVw+8wSdBkt5S
+974YQ12rowuJqj9imtccFVb4jxNsunYAp2e5rMjElMM+YzneLni4bGPchpAyusQQxfo5zx0V6vh5
+1kD5gbfimyxD9pbgVP1zY9sp8Yt/eaQie0qaGgfKDBO2RUCF27uO8DyOhPi6KO95mP42ZAkDG36z
+rD2x0sBkjhs48AjplWeHGYGlRN4310kVDeWQPx7dShZtRk8GaFJjnFTsaB0nNVa2
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qBufrlImTCaPS+zP8fcWMpbo/9ldDXaJxzpILOvlwimSGJQfG8HAlebqP6QhSVDsyt4wiR4QWU1E
+OsRNiHxdNAXdF/CQMmPwU6KcKFr1Toc9gmSx0LPe8yh3H8GwoUaJF1CNLHYE+noQZX3vYKDcxUvT
+GymJTxW/zhHUvZWb27XDDsD60fekRGc419dGaQEw1b4DuOH0AGDabSK77Et5Jo0LGm0eI5KXAPvs
+GoUh9PUp+WvVCLFZC/FXRx9M8VyrZELNv3eKsyM1/hE2rhR8jyHLsNKsvidrKbxU733icPEwE2lH
+AD4t745cMv9aGmOAhEiEm7D7tzncAdCNcRBQcQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature588497-Object52692"><etsi:QualifyingProperties Target="#Signature588497"><etsi:SignedProperties Id="Signature588497-SignedProperties321228"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-08T16:00:36-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>yszfrO+wqBMCQCNO5WXm0gjF9B8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>551525764</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-985180"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

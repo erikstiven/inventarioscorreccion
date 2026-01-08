@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>Explocen CA</razonSocial>
+        <nombreComercial>Explocen CA</nombreComercial>
+        <ruc>1790326136001</ruc>
+        <claveAcceso>3010202501179032613600120010010000061601234567818</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000006160</secuencial>
+        <dirMatriz>Av. La Coruña E25-58 y San Ignacio Edif. Altana Plaza 7mo piso</dirMatriz>
+ </infoTributaria>
+  <infoFactura>
+<fechaEmision>30/10/2025</fechaEmision>
+        <dirEstablecimiento>Av. La Coruña E25-58 y San Ignacio Edif.</dirEstablecimiento>
+        <contribuyenteEspecial>5368</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+			<guiaRemision>001-004-000004872</guiaRemision>
+        <razonSocialComprador>MINERA BELORO C.L.</razonSocialComprador>
+        <identificacionComprador>0992529679001</identificacionComprador>
+        <direccionComprador>CDLA.  LOS ROSALES CALLE  ALEJANDRO CASTRO BENITEZ Y BRASIL</direccionComprador>
+        <totalSinImpuestos>22434.58</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>22434.58</baseImponible>
+               <valor>3365.19</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>25799.77</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>25799.77</total>
+                <plazo>30</plazo>
+               <unidadTiempo>días</unidadTiempo>
+            </pago>
+        </pagos>
+   </infoFactura>
+    <detalles>
+<detalle>
+<codigoPrincipal>0020320108</codigoPrincipal>
+<descripcion>Fulminantes simples # 8 x 100</descripcion>
+<cantidad>29600.00</cantidad>
+<precioUnitario>0.50</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>14800.00</precioTotalSinImpuesto>
+ <detallesAdicionales>
+ <detAdicional nombre="detalle_adicional2" valor="092011"/>
+ </detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>14800.00</baseImponible>
+<valor>2220.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>0020212009</codigoPrincipal>
+<descripcion>Emulsen 5000X 1 X 7</descripcion>
+<cantidad>57.00</cantidad>
+<precioUnitario>133.94</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>7634.58</precioTotalSinImpuesto>
+ <detallesAdicionales>
+ <detAdicional nombre="detalle_adicional2" valor="025033"/>
+ </detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>7634.58</baseImponible>
+<valor>1145.19</valor>
+</impuesto>
+</impuestos>
+</detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Dirección">CDLA.  LOS ROSALES CALLE  ALEJANDRO CASTRO BENITEZ Y BRASIL</campoAdicional>
+<campoAdicional nombre="Email">marcelohet@hotmail.com; info@explocen.com.ec</campoAdicional>
+<campoAdicional nombre="Teléfono">072937375</campoAdicional>
+ <campoAdicional nombre="AGENTE DE RETENCION">Resolución Nro. NAC DNCRASC20 00000001</campoAdicional>
+     </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature66472">
+<ds:SignedInfo Id="Signature-SignedInfo843828">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID314437" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature66472-SignedProperties713437">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xGy55bSXmMIOCOqPwuQkyo6Hub8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1805706">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>LYlKQTh69OhDfEvpU0K0jMcuPs4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-448346" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xNP6mp4aCkwfaNPwGBKIZi3VyoU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue802809">
+FlpQ3ymbZLRMr4QVT2ULWXXqSGpPIU40GfUzShApMnLrpqA4mMYfZ8W8dTIoTMZugN+Dvl06fIcb
+00INGl5AneXHaHXctAr+sSnG1hKAHYHsV1Opxz5yJd2GjWgiU2vugfJrHHGrR2vXP9jIUOhXmC0P
+bLjYXunQ60rExbROMTQFuR0Nu094bSAKvX/7WDgZjsL//XrDFi8cV9b78PeYS3i0TWJxq9Q+XyrJ
+/WUkvXoT6zp4tbzg//4HKpT/BI6Bqa1Oieszg+yZw/3wn+eeg2V9PzXiohQc0IrhSfjq9g4CuYq3
+iy9VymyLdgmvpXBoHNITmuyxkmhUR5CiE2pLpA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1805706">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILJzCCCQ+gAwIBAgIIQPeRfXdfjY8wDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTAzMjA0OTE1WhcNMjcwOTAzMjA0OTE1WjCB
+pzElMCMGA1UEAwwcRURESUUgVklDRU5URSBOT1ZJTExPIFJBTUVJWDEgMB4GA1UEBRMXMTcwNzM5
+MTg0MS0wMzA5MjUxNTU5MDUxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApcrXLerYqbVbXfEcbWsavdMuqN7FH0358fOA
+C/Sj0fd4l0q6CH8HEjkai0HXMU0/smWI+kwXK0I5r08Dkj3rAV0d1jSECqvgAt2yHzyWA2tlEVuB
+3EMMfvUUOUJH+h/J88VZYe/Ta/jqkcTzU9KZi1NKQs//3jQKGJgwXNzYOQZ4Bsd3kh/Yn1ySoq/g
+uHWE24GCBmqRCmyi7fgUMCv4I5mzGl/zlBA6N21k1jKAUFCplBM1P/RPGx8Upf6OvMZh9DeHJ9r2
+iE4uEAqbTKJeF4jZXLO0dkIMIHXJkETZuoDn8nY77svlg894FhJxBmbqgkB0O4h9u0rH8lW/iRKv
+CQIDAQABo4IGYTCCBl0wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42u
+Yt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIgYDVR0RBBswGYEXZWRkaWUu
+bm92aWxsb0BnbWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYB
+BQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0
+AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0
+cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRp
+dmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRh
+bnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIG
+MIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9j
+cmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZp
+bGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUMwHQYDVR0OBBYEFFjOOucNuJDw+3fRv8W2+D+YCv4AMCsGA1UdEAQkMCKADzIwMjUwOTAz
+MjA0OTE1WoEPMjAyNzA5MDMyMDQ5MTVaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dF
+UkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjE3MDczOTE4NDEwbwYKKwYBBAGCpnIDCQRh
+DF9RVUlUTyBESVNUUklUTyBNRVRST1BPTElUQU5PIENBQkVDRVJBIENBTlRPTkFMIENBUElUQUwg
+UFJPVklOQ0lBTCBZIERFIExBIFJFUFVCTElDQSBERUwgRUNVQURPUjARBgorBgEEAYKmcgMiBAMM
+AS4wPQYKKwYBBAGCpnIDBwQvDC1BVkVOSURBIENPUlVOQSBFMjUgNTggWSBBVkVOSURBIDEyIERF
+IE9DVFVCUkUwHQYKKwYBBAGCpnIDAgQPDA1FRERJRSBWSUNFTlRFMB8GCisGAQQBgqZyAyAEEQwP
+MDAyMDAxMDAxMDYyMTU2MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNV
+QURPUjAXBgorBgEEAYKmcgMDBAkMB05PVklMTE8wHAYKKwYBBAGCpnIDCgQODAxFWFBMT0NFTiBD
+IEEwHQYKKwYBBAGCpnIDCwQPDA0xNzkwMzI2MTM2MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgor
+BgEEAYKmcgMEBAgMBlJBTUVJWDAaBgorBgEEAYKmcgMIBAwMCjA5NTkyMDk0NTMwDQYJKoZIhvcN
+AQELBQADggIBADQA4PmEwIzfmOp8pBTIFFX/tVYZfUB5xyoALEbE2K26mTxtnJ7fgZ29cegNJLDb
+8RakpE0ayMSbdgFOhdJGYqlSj4WLhOZnvqIrjZ58wNtMzOu2J4yxtin7fyLa+StF8yXVhbIGSe8n
+CqKq372QOiOh9/aGhZpMG85YARK41GlJf3PBmzxwQ3spo9M4WAFjKwHTxEcRsTKbWom2D4PKDX36
+nIi3XkBHesPpQGBQhAHpyPuElwshgYPxxT/z2tzPdjiKVpOlbGEBDL11/nf8iTJMZzc2Rzm6yMOJ
+iPP1IYGHsWhiVIjJoGwA0x/UcZ0gp2ZQpUwIBJ/6uR7iGZsH1O3Seq8YFkFsVicPxf91A3p3g3Vg
+vLbyp0roAfCwIslPBE5HYZluaeT1XS/IayPJyJXgr8ppnj+G6t68bE7yT662tFRgPxq3oHrgmRe3
+QygVJMirJWkQalPjo1lkZFsp+twN6GdTrwQUK9atUxXe/4+CTpL0GDD8NxUMxfxoSosO5JkHSjEP
+TluGp4jOFR0RJaCAZPMK40fxabJ8NmubT+KhrOlT32eEey7S2/g4MGgbu6uGLVEGPP9Cti8/l/9I
+sgW9MvCYDKQCPCpgBNh1b8Byz/nzCzmUR5lPuslRQJsAc00odzO/jjrPpf3/6P3KsZvk4yy3z+T/
+zyngPQR7Cnf0
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pcrXLerYqbVbXfEcbWsavdMuqN7FH0358fOAC/Sj0fd4l0q6CH8HEjkai0HXMU0/smWI+kwXK0I5
+r08Dkj3rAV0d1jSECqvgAt2yHzyWA2tlEVuB3EMMfvUUOUJH+h/J88VZYe/Ta/jqkcTzU9KZi1NK
+Qs//3jQKGJgwXNzYOQZ4Bsd3kh/Yn1ySoq/guHWE24GCBmqRCmyi7fgUMCv4I5mzGl/zlBA6N21k
+1jKAUFCplBM1P/RPGx8Upf6OvMZh9DeHJ9r2iE4uEAqbTKJeF4jZXLO0dkIMIHXJkETZuoDn8nY7
+7svlg894FhJxBmbqgkB0O4h9u0rH8lW/iRKvCQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature66472-Object642516"><etsi:QualifyingProperties Target="#Signature66472"><etsi:SignedProperties Id="Signature66472-SignedProperties713437"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-10-30T10:40:32-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>mLDUseJryOyzeN2xs1J5FL97REQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>4681370305734610319</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-448346"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

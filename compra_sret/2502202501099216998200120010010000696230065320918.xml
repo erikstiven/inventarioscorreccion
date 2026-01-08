@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CENTRO ACERO S.A. ACEROSA</razonSocial>
+    <nombreComercial>CENTRO ACERO S.A. ACEROSA</nombreComercial>
+    <ruc>0992169982001</ruc>
+    <claveAcceso>2502202501099216998200120010010000696230065320918</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000069623</secuencial>
+    <dirMatriz>MATRIZ : CALLE ACERO Y AVE. PASCUALES</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>25/02/2025</fechaEmision>
+    <dirEstablecimiento>MATRIZ : CALLE ACERO Y AVE. PASCUALES</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <totalSinImpuestos>1612.33</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>1612.33</baseImponible>
+        <valor>241.85</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>1854.18</importeTotal>
+    <moneda>DOLLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>1854.18</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>116825</codigoPrincipal>
+      <descripcion>CALIENTE PLANCHA ASTM A131 1500X6010X12 MM</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>775.330000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>775.33</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ExImpuestos" valor="NO"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>775.33</baseImponible>
+          <valor>116.30</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BOM02</codigoPrincipal>
+      <descripcion>CONFORMADO DE TAPAS 8-12 MM : KG</descripcion>
+      <cantidad>280.00</cantidad>
+      <precioUnitario>1.400000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>392.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ExImpuestos" valor="NO"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>392.00</baseImponible>
+          <valor>58.80</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CTEP01</codigoPrincipal>
+      <descripcion>CORTE CON PLASMA ACEROS AL CARBONO 1-15 MM : M</descripcion>
+      <cantidad>18.00</cantidad>
+      <precioUnitario>2.500000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>45.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ExImpuestos" valor="NO"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>45.00</baseImponible>
+          <valor>6.75</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>REB02</codigoPrincipal>
+      <descripcion>REBORDEADO 8-12 MM : KG</descripcion>
+      <cantidad>280.00</cantidad>
+      <precioUnitario>1.400000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>392.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ExImpuestos" valor="NO"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>392.00</baseImponible>
+          <valor>58.80</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TAL01</codigoPrincipal>
+      <descripcion>TALADRADO : UN</descripcion>
+      <cantidad>4.00</cantidad>
+      <precioUnitario>2.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>8.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="ExImpuestos" valor="NO"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>8.00</baseImponible>
+          <valor>1.20</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="direccionCliente">GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</campoAdicional>
+    <campoAdicional nombre="correoCliente">gerencia.tecnica@grupodmg.ec</campoAdicional>
+    <campoAdicional nombre="observacionesCliente">P2025-0251</campoAdicional>
+    <campoAdicional nombre="Agente de Retencion N°">Agente de Retencion Resolucion No. NAC-DNCRASC20-0000001</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature722586">
+<ds:SignedInfo Id="Signature-SignedInfo235957">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID621309" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature722586-SignedProperties575445">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>xIuinJVwk7302j9NIPLG/EEi7mc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1564059">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>FpgMzMjlMK6/lesKVkthbQVGiik=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-213943" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>iwuj3rezcBxt0fF0P8g/qjBxl+4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue793052">
+JNRY2QiKYt27MvDxjTS98OBpTNDWk65V4/lO5TGFUWpZYTNV3kMoHzZFoHCG/iQ8NMXDQ+sfCRi8
+RiS1yb5DBWWdPfw5inI4HXaH6G4G3WBFPLhMYPvabyb/YWcnnmbhuBJOVMIUvBVT7ospx6Mq7kik
+T05R9EceyFS6a9AwpE7I6EKj/VMm2rXe7TlMIaEXObaKaXghu8hyf+W5y8iZV0MrPi8Az770ZV9V
+AQvA0Ze+NOzHxTJBQNhjf/prgm3Q4+/0uiOi/3qus8gRVHiRN01SbcICFBfnoSi8bkfbAk0Cnd5q
+4tLDb+aPqY6arse3aig/lhr+oGqdaqXmFVi6qQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1564059">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMNTCCCh2gAwIBAgIEad++gTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMjgxNjUyMjlaFw0yNjExMjgxNjUyMjlaMIGpMScw
+JQYDVQQDDB5GRUxJWCBFRFVBUkRPIFJPU1NFTCBGRVJOQU5ERVoxIDAeBgNVBAUTFzE3MDYzNjUz
+NDEtMjgxMTI0MTIwMjIzMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAPIP09zhAZculoobyyHkiBskh7ObwINWNOQ4AVZ2
+J4mTnFB3/WHtGq/memd7iL81U+qLjQOokN3zZ2ifJzxL1tstLS/zjTVkxgJ0RqZWkpKLDWJq2TZ3
+54Z19UtDFYgwhz/2dNbZ7O7Gqd74/O+39TMtRC1L2W8KXpjfMFhHcNiTM/aJ+PVRuJsZVyFiwmbn
+cFn1JTCAYK6bIU2m+yYgtFh1yqz2uajaCfYtjOd0PfryQwoh3KQ+dAtohyAgi+29zOX/Td/PCPhP
+Oi4/QgGeRAneSlMlykA3GJS5WJwH0wJAI07OZ//XYB5ZquL6k/VsUQOKgG5Z16E9nyoHFAux42MC
+AwEAAaOCB3EwggdtMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMB0GA1UdEQQWMBSBEmZyb3NzZWxAZW5hdGluLmNvbTCCARUGA1Ud
+IASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBj
+AGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYK
+KwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0
+LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9s
+aXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQG
+CCsGAQUFBwMCBggrBgEFBQcDBDCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bn
+dy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCB
+mTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE
+QVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6
+Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9j
+YXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlz
+c3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEs
+T1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFU
+QSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU/RdzAahVuaGeBpCUTM/pdH9n+rcwKwYDVR0QBCQwIoAP
+MjAyNDExMjgxNjUyMjlagQ8yMDI2MTEyODE2NTIyOVowCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZy
+AwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMTcwNjM2NTM0MTAZBgorBgEE
+AYKmcgMJBAsMCVBBU0NVQUxFUzARBgorBgEEAYKmcgMiBAMMAS4wNQYKKwYBBAGCpnIDBwQnDCVB
+Q0VSTyBMT1RFIDIgNCBZIFBBU0NVQUxFUyBUUkFOU1ZFUlNBMB0GCisGAQQBgqZyAwIEDwwNRkVM
+SVggRURVQVJETzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDY3NTc4NTATBgorBgEEAYKmcgMh
+BAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnIDAwQIDAZST1NTRUww
+KAYKKwYBBAGCpnIDCgQaDBhDRU5UUk8gQUNFUk8gUyBBIEFDRVJPU0EwHQYKKwYBBAGCpnIDCwQP
+DA0wOTkyMTY5OTgyMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAZBgorBgEEAYKmcgMEBAsMCUZFUk5B
+TkRFWjAaBgorBgEEAYKmcgMIBAwMCjA5OTE2MzQzMDQwDQYJKoZIhvcNAQELBQADggIBAICQTd8A
+G/yu0uU4Fxs3OdwaxOhkNEtRaGGe37vJGobb3IezxoeA3J710OEg40DZ70Ap6ILIFabyivePW0TG
+Ckfa2sWkqP84fM8xReUALP52vJvyEPAXJXl/zwGXayVyL5WhCN5Nr+wvgo8h2muugZ8V+wepaZEf
+9Zx7C2d/xqxCRVZ2htaWDqO1362TFGqA33t0xZDwzRwh/++KWMP1nwNsl2Qkkob9bWJBkkBKsbR/
+TJ2Z3T5mzjPyE3+9IuoLkDGX9QyRqaBkCYCcQ44wNddR5uOywbKxLAcJV71m+8uCCHjfdKs4wgxu
+nVzPVxqgtf2iXNSi4JH2+8/ceTfyUVoD2Q/pMcGdFk5Ctx1ONikMLv8TVPsQ1jpekKkHJ3kmbnmK
+aVAsj2rKGSDbZkNDDuJoCxmrl6dapUEaKvKW3s2tmgJNQYrggRtvbwM7DrCFWbzRzFMek6z3XIer
+fEkLJsXbwOyPizLyY6vt8DF2VykXvFmkrbcazi85AsWWVmGF92awewUiYdUYfDjw/kj+GP95B9pj
+szgp8L48gOk/uGJklRSLuNVMJaZ+hGoMHOu67eRoErumS3q6CqMh5xtIeiWdgRXfzpn2/+rJYVrU
+LECgWvOEN3ERoqnIDRiMzu/dzgcDXj0RLZz86Mx6fPxzo5NvmPzflOJSMf68QyCJhcKI
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+8g/T3OEBly6WihvLIeSIGySHs5vAg1Y05DgBVnYniZOcUHf9Ye0ar+Z6Z3uIvzVT6ouNA6iQ3fNn
+aJ8nPEvW2y0tL/ONNWTGAnRGplaSkosNYmrZNnfnhnX1S0MViDCHP/Z01tns7sap3vj877f1My1E
+LUvZbwpemN8wWEdw2JMz9on49VG4mxlXIWLCZudwWfUlMIBgrpshTab7JiC0WHXKrPa5qNoJ9i2M
+53Q9+vJDCiHcpD50C2iHICCL7b3M5f9N388I+E86Lj9CAZ5ECd5KUyXKQDcYlLlYnAfTAkAjTs5n
+/9dgHlmq4vqT9WxRA4qAblnXoT2fKgcUC7HjYw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature722586-Object353906"><etsi:QualifyingProperties Target="#Signature722586"><etsi:SignedProperties Id="Signature722586-SignedProperties575445"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-02-25T10:15:05-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>BYXh6sfPSW7CTIKGYqL9PW/lRlc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1776270977</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-213943"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

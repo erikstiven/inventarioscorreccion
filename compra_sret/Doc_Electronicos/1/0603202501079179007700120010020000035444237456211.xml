@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>INGENIERIA ELECTRICA ELECTRONICA Y TELECOMUNICACIONES ATECELECTRIC CIA.LTDA.</razonSocial>
+	    <nombreComercial>ATECELECTRIC CIA LTDA</nombreComercial>
+	    <ruc>0791790077001</ruc>
+	    <claveAcceso>0603202501079179007700120010020000035444237456211</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000003544</secuencial>
+	    <dirMatriz>EL ORO / MACHALA / MACHALA / ACACIAS S/N Y QUINTA Y SEXTA AVENIDA</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>06/03/2025</fechaEmision>
+		
+			<dirEstablecimiento>EL ORO / MACHALA / MACHALA / ACACIAS S/N Y QUINTA Y SEXTA AVENIDA</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+	    <identificacionComprador>0992529679001</identificacionComprador>
+		<direccionComprador>EL ORO- MACHALA - CALLE 5TA NORTE Y GUAYAQUIL</direccionComprador>
+	    
+	    <totalSinImpuestos>2116.31000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>521.46</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>2116.31</baseImponible>
+				<valor>317.45000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>2433.76000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>2433.76</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>A1228</codigoPrincipal>
+		<codigoAuxiliar>A1228</codigoAuxiliar>
+      	<descripcion>TERMINAL PUNTERA ROJO #16AWG - CHINT</descripcion>
+      
+      <cantidad>300.000000</cantidad>
+      <precioUnitario>0.030000</precioUnitario>
+	  
+      <descuento>1.35</descuento>
+      <precioTotalSinImpuesto>7.65</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>7.65000</baseImponible>
+          <valor>1.15</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0825</codigoPrincipal>
+		<codigoAuxiliar>A0825</codigoAuxiliar>
+      	<descripcion>PULSANTE DE EMERGENCIA 40MM NC S2ER-E3RB- TIPO HONGO- RED- AUTONICS</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>6.700000</precioUnitario>
+	  
+      <descuento>1.00</descuento>
+      <precioTotalSinImpuesto>5.70</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>5.70000</baseImponible>
+          <valor>0.86</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A1046</codigoPrincipal>
+		<codigoAuxiliar>A1046</codigoAuxiliar>
+      	<descripcion>Contacto Autonics SA-CA NO P/ ELEMENTOS 22MM - AUTONICS</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>3.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.00000</baseImponible>
+          <valor>0.45</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0365</codigoPrincipal>
+		<codigoAuxiliar>A0365</codigoAuxiliar>
+      	<descripcion>BASE ADHESIVA 25X25MM BLANCA- DEXSON</descripcion>
+      
+      <cantidad>50.000000</cantidad>
+      <precioUnitario>0.265000</precioUnitario>
+	  
+      <descuento>1.99</descuento>
+      <precioTotalSinImpuesto>11.26</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>11.26000</baseImponible>
+          <valor>1.69</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>J065</codigoPrincipal>
+		<codigoAuxiliar>J065</codigoAuxiliar>
+      	<descripcion>CABLE TFF Cu 60°C #18AWG (J) 600V</descripcion>
+      
+      <cantidad>100.000000</cantidad>
+      <precioUnitario>0.282615</precioUnitario>
+	  
+      <descuento>11.87</descuento>
+      <precioTotalSinImpuesto>16.39</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>16.39000</baseImponible>
+          <valor>2.46</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0399</codigoPrincipal>
+		<codigoAuxiliar>A0399</codigoAuxiliar>
+      	<descripcion>AMARRA 10CM T4 BLANCA / DEXSON</descripcion>
+      
+      <cantidad>200.000000</cantidad>
+      <precioUnitario>0.013600</precioUnitario>
+	  
+      <descuento>0.41</descuento>
+      <precioTotalSinImpuesto>2.31</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.31000</baseImponible>
+          <valor>0.35</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0320</codigoPrincipal>
+		<codigoAuxiliar>A0320</codigoAuxiliar>
+      	<descripcion>AMARRA 55CM T21 NEGRA / DEXSON</descripcion>
+      
+      <cantidad>200.000000</cantidad>
+      <precioUnitario>0.443500</precioUnitario>
+	  
+      <descuento>13.30</descuento>
+      <precioTotalSinImpuesto>75.40</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>75.40000</baseImponible>
+          <valor>11.31</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0684</codigoPrincipal>
+		<codigoAuxiliar>A0684</codigoAuxiliar>
+      	<descripcion>BARRA CU 1/4 X 2&quot; 752A (1MT)- COBRES DE COLOMBIA</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>76.900000</precioUnitario>
+	  
+      <descuento>46.14</descuento>
+      <precioTotalSinImpuesto>261.46</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>261.46000</baseImponible>
+          <valor>39.22</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A1254</codigoPrincipal>
+		<codigoAuxiliar>A1254</codigoAuxiliar>
+      	<descripcion>TRANSFORMADOR VOLT. 1F 300VA 240-480/120-240V- GE</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>243.110000</precioUnitario>
+	  
+      <descuento>72.93</descuento>
+      <precioTotalSinImpuesto>170.18</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>170.18000</baseImponible>
+          <valor>25.53</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0114</codigoPrincipal>
+		<codigoAuxiliar>A0114</codigoAuxiliar>
+      	<descripcion>LUZ PILOTO 22MM LED  VERDE 220V / CAMSCO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.850000</precioUnitario>
+	  
+      <descuento>0.18</descuento>
+      <precioTotalSinImpuesto>1.67</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.67000</baseImponible>
+          <valor>0.25</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>W206</codigoPrincipal>
+		<codigoAuxiliar>W206</codigoAuxiliar>
+      	<descripcion>LUZ PILOTO 22mm LED ROJO 220V - SASSIN</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.850000</precioUnitario>
+	  
+      <descuento>0.18</descuento>
+      <precioTotalSinImpuesto>1.67</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.67000</baseImponible>
+          <valor>0.25</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>J7112</codigoPrincipal>
+		<codigoAuxiliar>J7112</codigoAuxiliar>
+      	<descripcion>CONMUTADOR TAMBOR 3P 20A EC31</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>12.520000</precioUnitario>
+	  
+      <descuento>2.50</descuento>
+      <precioTotalSinImpuesto>22.54</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>22.54000</baseImponible>
+          <valor>3.38</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>J7109</codigoPrincipal>
+		<codigoAuxiliar>J7109</codigoAuxiliar>
+      	<descripcion>MEDIDOR DIGITAL 96X48MM (AMPERAJE + VOLTAJE) - CAMSCO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>44.680000</precioUnitario>
+	  
+      <descuento>6.70</descuento>
+      <precioTotalSinImpuesto>37.98</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>37.98000</baseImponible>
+          <valor>5.70</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0224</codigoPrincipal>
+		<codigoAuxiliar>A0224</codigoAuxiliar>
+      	<descripcion>CANALETA RANURADA GRIS 60X60MM 2MT- DEXSON</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>13.750000</precioUnitario>
+	  
+      <descuento>4.12</descuento>
+      <precioTotalSinImpuesto>23.38</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>23.38000</baseImponible>
+          <valor>3.51</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0183</codigoPrincipal>
+		<codigoAuxiliar>A0183</codigoAuxiliar>
+      	<descripcion>T/C CFS-63 800/5 AMP CLASE 1- CAMSCO</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>15.510000</precioUnitario>
+	  
+      <descuento>2.33</descuento>
+      <precioTotalSinImpuesto>13.18</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>13.18000</baseImponible>
+          <valor>1.98</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>B0019</codigoPrincipal>
+		<codigoAuxiliar>B0019</codigoAuxiliar>
+      	<descripcion>BREAKER RIEL DIN 10KA - 2P/16A - ABB</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>23.050000</precioUnitario>
+	  
+      <descuento>14.75</descuento>
+      <precioTotalSinImpuesto>31.35</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>31.35000</baseImponible>
+          <valor>4.70</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0108</codigoPrincipal>
+		<codigoAuxiliar>A0108</codigoAuxiliar>
+      	<descripcion>SUPERVISOR DE VOLTAJE DIGITAL TRIFASICO 3UG5616-1CR20/SIEMENS</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>231.040000</precioUnitario>
+	  
+      <descuento>57.76</descuento>
+      <precioTotalSinImpuesto>173.28</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>173.28000</baseImponible>
+          <valor>25.99</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A0474</codigoPrincipal>
+		<codigoAuxiliar>A0474</codigoAuxiliar>
+      	<descripcion>CINTA AUTOFUNDENTE #23 19mm x 9.15M ALTA TENSION SCOTCH - 3M</descripcion>
+      
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>18.520000</precioUnitario>
+	  
+      <descuento>6.67</descuento>
+      <precioTotalSinImpuesto>30.37</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>30.37000</baseImponible>
+          <valor>4.56</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>J5696</codigoPrincipal>
+		<codigoAuxiliar>J5696</codigoAuxiliar>
+      	<descripcion>TERMINAL COMPRESION # 600MCM (3/4)  CAÑA LARGA</descripcion>
+      
+      <cantidad>24.000000</cantidad>
+      <precioUnitario>23.230000</precioUnitario>
+	  
+      <descuento>100.35</descuento>
+      <precioTotalSinImpuesto>457.17</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>457.17000</baseImponible>
+          <valor>68.58</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>J7167</codigoPrincipal>
+		<codigoAuxiliar>J7167</codigoAuxiliar>
+      	<descripcion>TABLERO NO MODULAR METÁLICO AUTOSOPORTADO IP 65 180x80x60 cm - SBOX</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>796.870000</precioUnitario>
+	  
+      <descuento>159.37</descuento>
+      <precioTotalSinImpuesto>637.50</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>637.50000</baseImponible>
+          <valor>95.62</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>B0101</codigoPrincipal>
+		<codigoAuxiliar>B0101</codigoAuxiliar>
+      	<descripcion>BORNERA TIPO TORNILLO / RIEL DIN / PC4 600V 30A / 4MM2 / GRIS / DEGSON</descripcion>
+      
+      <cantidad>10.000000</cantidad>
+      <precioUnitario>0.661000</precioUnitario>
+	  
+      <descuento>0.99</descuento>
+      <precioTotalSinImpuesto>5.62</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>5.62000</baseImponible>
+          <valor>0.84</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>J1732</codigoPrincipal>
+		<codigoAuxiliar>J1732</codigoAuxiliar>
+      	<descripcion>VENTILADOR P&#x27; TABLERO 230VAC 120X120MMx38MM -DIXSEN</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>24.850000</precioUnitario>
+	  
+      <descuento>14.91</descuento>
+      <precioTotalSinImpuesto>84.49</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>84.49000</baseImponible>
+          <valor>12.67</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>A1291</codigoPrincipal>
+		<codigoAuxiliar>A1291</codigoAuxiliar>
+      	<descripcion>TERMOSTATO JWT6011F SALIDA 1NO - LEIPOLE</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>11.070000</precioUnitario>
+	  
+      <descuento>1.66</descuento>
+      <precioTotalSinImpuesto>9.41</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>9.41000</baseImponible>
+          <valor>1.41</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>J7168</codigoPrincipal>
+		<codigoAuxiliar>J7168</codigoAuxiliar>
+      	<descripcion>FILTRO P/VENTILADOR PLASTICO  12X12CM- DIXSEN</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>8.337500</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>33.35</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>33.35000</baseImponible>
+          <valor>5.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">VENTA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature316641">
+<ds:SignedInfo Id="Signature-SignedInfo421112">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID32676" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature316641-SignedProperties604412">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ODqEC+uSJX/wkjN7OeyPeJdJqWQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate275080">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>chj/MLcFaj2wl2XDIXqutLvJjzM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-356164" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PNZOLcfG48FreWgTYrQ8jaGt7U0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue17192">
+P7F11YT3qRTGNQCDdtmMhHNlwqF4BjVlbmPRl8CHfmTmVfENSU1rE3c9R4m76SBE9m8Of12qMoV5
+/4cOK8MwszOHerOFPZWZ/z8AwEPBM4yRkTC07ylnrTSiQfycsQmwadoVJujCTxmFGpaOgqLbsUPN
+SjG8f94nv23ZuK1RqhFM0kacteVBIH5fPDojvJFl7Ry4qjOBqjLH9NUxwJxUKB8P4/wp/noYCW3l
+K4G3scXoMu/nThP9i6TdUJbylNh62yzjsLQPlKCM/3L4RIgQ3KQwzV75pOK4avE7cFlpmtrRJoFL
+Hnq7eSjyx+664J1xYU8aVAicBxjLK8cvmjjsGw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate275080">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMODCCCiCgAwIBAgIEVovu7TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTExMjUyMTQzMjdaFw0yNjExMjUyMTQzMjdaMIGYMSEw
+HwYDVQQDDBhBTEVYIE9STEFORE8gTFVOQSBST01FUk8xFTATBgNVBAUTDDI1MTEyMTE2NTMxNTEw
+MC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQK
+DBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQCOTY3uQt3tiTVBGYbfcf4TO3J23UqXTLaFQG6AbFtPgPaHURkhqVDZRrP+13fW
+Vbzb3scFLq3L2JdDZQFzBdm2w/AeABlwj56vvYmQnHH5hx9fY5xgIsW8+sGMYdPd+Zc4qkJXGIBb
+KXdgm0KPxOTtPFw2t3hQGEOGkOABwoCB6hHmWQeCp8VkNdMZ25EvgyO8wvNMEldvIU9R5RtSmPId
+9r2FjNH8yw4Zn1IRtz6faaasklEs7x2qtaADPxAklyB8owEY8PPn2lRYnaLFe7pcbx4F50PdJm81
+5/kFF3BqkeaID2qUpV9iu+qFJmWAosruCiNuRCPVmLV5F8LCNQqzAgMBAAGjggeFMIIHgTAMBgNV
+HRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0w
+SzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBz
+ZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFz
+ZTAkBgNVHREEHTAbgRlhdGVjZWxlY3RyaWMuZWNAZ21haWwuY29tMIIBFQYDVR0gBIIBDDCCAQgw
+YgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABk
+AGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgID
+MIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29u
+dGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUg
+Q2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBB
+oD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+gceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJ
+REFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/
+Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwt
+b3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2Vy
+dGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFGKTpDiRlJ2fHv52VMNvFFGd
+F5WhMCsGA1UdEAQkMCKADzIwMjExMTI1MjE0MzI3WoEPMjAyNjExMjUyMTQzMjdaMAsGA1UdDwQE
+AwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjA3
+MDQxOTc4MTMwFwYKKwYBBAGCpnIDCQQJDAdNQUNIQUxBMBEGCisGAQQBgqZyAyIEAwwBLjA0Bgor
+BgEEAYKmcgMHBCYMJEFDQUNJQVMgUyBOIFkgUVVJTlRBIFkgU0VYVEEgQVZFTklEQTAcBgorBgEE
+AYKmcgMCBA4MDEFMRVggT1JMQU5ETzAfBgorBgEEAYKmcgMgBBEMDzAwNjAwMTAwMDAwMTYzODAT
+BgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFAYKKwYBBAGCpnID
+AwQGDARMVU5BMFwGCisGAQQBgqZyAwoETgxMSU5HRU5JRVJJQSBFTEVDVFJJQ0EgRUxFQ1RST05J
+Q0EgWSBURUxFQ09NVU5JQ0FDSU9ORVMgQVRFQ0VMRUNUUklDIENJQS5MVERBLjAdBgorBgEEAYKm
+cgMLBA8MDTA3OTE3OTAwNzcwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAWBgorBgEEAYKmcgMEBAgM
+BlJPTUVSTzAaBgorBgEEAYKmcgMIBAwMCjA5OTI3MTc2MTIwDQYJKoZIhvcNAQELBQADggIBAII6
+e8uz4do/n4nGCGeAC+gAgGYbJj5JpXwCvpECSXQGzBzQvl9krl9Yk7OV/DZjosvWrVFycCJ9T7ed
+BrbxNsPetOIeSTPcxdpqEJytmQxHUHNJl60D7LJQ+8ccBPI+FLRL6e0ElDOVghmEs9kcORjlRPrq
+SHp0qTye64AHAev8LpKMOb9ja5qT0kJ8ckVCHShPrf/+12z227mhS5/pbLrWHFcBTVFDnMDLOSod
+dIa80CNqnQ8iHcQjXuZGMwuy8uuQa3H7taQjoR6WkXZPvUd2w9ct58u3IORFEfbBWhjfcgY3GwOZ
+iBAVUwSj52C4b61ZUYRdxMS5/adASsrzJyT+zE1ey4ufRscvcmDsIpDc3HwnFfHXgN632dh0SLdz
+1yOHHeC/UeXhr1TDhA/PN6ZGrZkRJGJXXteFxYx5MerLpAzdVmTxb/0/H/inErouPBNoV7sK0+fj
+LtivD9shRWaNElpYJEDjdD5tNgfPx5WAfWLjowiHrzsV/hGWFRA9jwd36DMNs5asCT0DfN/GvEai
+tcVix/QZ/zmGZD3LTq2Tc6gMJaWKb+UHIxtRTUP37vCt9LIv9tgI3b7p6SQ7Ryyk+6aEUClF/PEZ
+VRE467+lcQi/Hsi0LkCnO7/UZFJZJdzYSM7BkLIu4CHBg+xGhDobAl5rvjGOlhVg3wKgYeQg
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+jk2N7kLd7Yk1QRmG33H+Eztydt1Kl0y2hUBugGxbT4D2h1EZIalQ2Uaz/td31lW8297HBS6ty9iX
+Q2UBcwXZtsPwHgAZcI+er72JkJxx+YcfX2OcYCLFvPrBjGHT3fmXOKpCVxiAWyl3YJtCj8Tk7Txc
+Nrd4UBhDhpDgAcKAgeoR5lkHgqfFZDXTGduRL4MjvMLzTBJXbyFPUeUbUpjyHfa9hYzR/MsOGZ9S
+Ebc+n2mmrJJRLO8dqrWgAz8QJJcgfKMBGPDz59pUWJ2ixXu6XG8eBedD3SZvNef5BRdwapHmiA9q
+lKVfYrvqhSZlgKLK7gojbkQj1Zi1eRfCwjUKsw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature316641-Object969624"><etsi:QualifyingProperties Target="#Signature316641"><etsi:SignedProperties Id="Signature316641-SignedProperties604412"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-03-06T09:38:25-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>vEnme8FhnmY7r54p+uZ2JnitgTw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>1452011245</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

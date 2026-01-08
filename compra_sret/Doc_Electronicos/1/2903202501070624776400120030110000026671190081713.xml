@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>ARROYO OROBIO MARIA LEONILDA</razonSocial>
+		<nombreComercial>IMPORMEDIKAL</nombreComercial>
+		<ruc>0706247764001</ruc>
+		<claveAcceso>2903202501070624776400120030110000026671190081713</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>003</estab>
+		<ptoEmi>011</ptoEmi>
+		<secuencial>000002667</secuencial>
+		<dirMatriz>AZUAY / CUENCA / YANUNCAY / AV. PRIMERO DE MAYO S/N</dirMatriz>
+		<contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+	</infoTributaria>
+<infoFactura>
+	<fechaEmision>29/03/2025</fechaEmision>
+	<dirEstablecimiento>10MA NORTE B V-111 Y ENRIQUE REINOSO E1</dirEstablecimiento>
+	<obligadoContabilidad>NO</obligadoContabilidad>
+	<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+	<razonSocialComprador>MINERA BELORO C.L.</razonSocialComprador>
+	<identificacionComprador>0992529679001</identificacionComprador>
+	<direccionComprador>GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</direccionComprador>
+	<totalSinImpuestos>5865.30</totalSinImpuestos>
+	<totalDescuento>0.00</totalDescuento>
+	<totalConImpuestos>
+		<totalImpuesto>
+		<codigo>2</codigo>
+		<codigoPorcentaje>0</codigoPorcentaje>
+		<descuentoAdicional>0.00</descuentoAdicional>
+		<baseImponible>5639.05</baseImponible>
+		<valor>0.00</valor>
+		</totalImpuesto>
+		<totalImpuesto>
+		<codigo>2</codigo>
+		<codigoPorcentaje>4</codigoPorcentaje>
+		<baseImponible>226.25</baseImponible>
+		<valor>33.94</valor>
+		</totalImpuesto>
+	</totalConImpuestos>
+	<propina>0.00</propina>
+	<importeTotal>5899.24</importeTotal>
+	<moneda>DOLAR</moneda>
+	<pagos>
+		<pago>
+		<formaPago>20</formaPago>
+		<total>5899.24</total>
+		<plazo>0</plazo>
+		<unidadTiempo>dias</unidadTiempo>
+		</pago>
+	</pagos>
+</infoFactura>
+<detalles>
+	<detalle>
+		<codigoPrincipal>000000003111</codigoPrincipal>
+		<descripcion>SOLUCION/SALINA/AL/0.9%//500ML//LIFE/(25)</descripcion>
+		<unidadMedida>Cajas: 50 Unidades: 0</unidadMedida>
+		<cantidad>50.000000</cantidad>
+		<precioUnitario>0.999800</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>49.99</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/03/2028"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2501177"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="01911-MAC-04-02"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>49.99</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002839</codigoPrincipal>
+		<descripcion>SOLUCION/SALINA/AL/0.9%//1000ML//LIFE(16)</descripcion>
+		<unidadMedida>Cajas: 50 Unidades: 0</unidadMedida>
+		<cantidad>50.000000</cantidad>
+		<precioUnitario>1.250000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>62.50</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/01/2028"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2500394"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="01911-MAC-04-02"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>62.50</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000003745</codigoPrincipal>
+		<descripcion>JERINGA//03CC//23GX1//FORTUMEDICAL(100)</descripcion>
+		<unidadMedida>Cajas: 300 Unidades: 0</unidadMedida>
+		<cantidad>300.000000</cantidad>
+		<precioUnitario>0.060000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>18.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="10/10/2029"></detAdicional>
+			<detAdicional nombre="Lote:" valor="20241010"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="121-DME-0614"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>18.00</baseImponible>
+			<valor>2.70</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>7861038120091</codigoPrincipal>
+		<descripcion>JERINGA//05CC//21GX11/2//CEGAMED(100)</descripcion>
+		<unidadMedida>Cajas: 300 Unidades: 0</unidadMedida>
+		<cantidad>300.000000</cantidad>
+		<precioUnitario>0.092000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>27.60</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="31/07/2029"></detAdicional>
+			<detAdicional nombre="Lote:" valor="24082"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="63-DME-0414"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>27.60</baseImponible>
+			<valor>4.14</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000001958</codigoPrincipal>
+		<descripcion>GUANTE/EXAMEN//M//CARICIA</descripcion>
+		<unidadMedida>Cajas: 15 Unidades: 0</unidadMedida>
+		<cantidad>15.000000</cantidad>
+		<precioUnitario>4.000000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/05/2029"></detAdicional>
+			<detAdicional nombre="Lote:" valor="0520240115"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="5735-DME-1018"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>60.00</baseImponible>
+			<valor>9.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002457</codigoPrincipal>
+		<descripcion>BISMUTOL/SUSP/FCO/180ML/SIEGFRIED</descripcion>
+		<unidadMedida>Cajas: 10 Unidades: 0</unidadMedida>
+		<cantidad>10.000000</cantidad>
+		<precioUnitario>7.090000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>70.90</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/08/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2408015"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>70.90</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002457</codigoPrincipal>
+		<descripcion>BISMUTOL/SUSP/FCO/180ML/SIEGFRIED</descripcion>
+		<unidadMedida>Cajas: 15 Unidades: 0</unidadMedida>
+		<cantidad>15.000000</cantidad>
+		<precioUnitario>7.090000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>106.35</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/08/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2408030"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="5861-MAN-09-10"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>106.35</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002247</codigoPrincipal>
+		<descripcion>COMPLEXIGEME/SIMPLE/10ML/IM/IV/INF/AMP/GM</descripcion>
+		<unidadMedida>Cajas: 100 Unidades: 0</unidadMedida>
+		<cantidad>100.000000</cantidad>
+		<precioUnitario>2.630000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>263.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/08/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="3314624"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="965-MEN-0117"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>263.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002241</codigoPrincipal>
+		<descripcion>POENBIOTIC/GOTA/OFTALMICA/5ML/MEGALAB</descripcion>
+		<unidadMedida>Cajas: 6 Unidades: 0</unidadMedida>
+		<cantidad>6.000000</cantidad>
+		<precioUnitario>11.230000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>67.38</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/04/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="197"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="27.317-10-06"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>67.38</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002505</codigoPrincipal>
+		<descripcion>EQUIPO/VENOCLISIS/HERENCO/VERDE/C/VALVULA/DE/AIRE</descripcion>
+		<unidadMedida>Cajas: 100 Unidades: 0</unidadMedida>
+		<cantidad>100.000000</cantidad>
+		<precioUnitario>0.450000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>45.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/04/2028"></detAdicional>
+			<detAdicional nombre="Lote:" valor="IL-5334"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="6645-DME-0319"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>45.00</baseImponible>
+			<valor>6.75</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002322</codigoPrincipal>
+		<descripcion>ORALYTE/90MCQ/POLVO//COCO/G/FARMA(10)</descripcion>
+		<unidadMedida>Cajas: 50 Unidades: 0</unidadMedida>
+		<cantidad>50.000000</cantidad>
+		<precioUnitario>0.600000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>30.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/01/2028"></detAdicional>
+			<detAdicional nombre="Lote:" valor="H2501557"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>30.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>7702003013980</codigoPrincipal>
+		<descripcion>ESPARADRAPO/ROLLO/HOSPITALARIO/LEUKOPLAST</descripcion>
+		<unidadMedida>Cajas: 2 Unidades: 0</unidadMedida>
+		<cantidad>2.000000</cantidad>
+		<precioUnitario>37.826100</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>75.65</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="28/11/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="34825909"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="DM-1714-02-10"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>75.65</baseImponible>
+			<valor>11.35</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002545</codigoPrincipal>
+		<descripcion>SINGRIPAL//TABLETA/ANTIGRIPAL/FARMAYALA(102)</descripcion>
+		<unidadMedida>Cajas: 102 Unidades: 0</unidadMedida>
+		<cantidad>102.000000</cantidad>
+		<precioUnitario>0.416666</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>42.50</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/03/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="0649-23"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>42.50</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002545</codigoPrincipal>
+		<descripcion>SINGRIPAL//TABLETA/ANTIGRIPAL/FARMAYALA(102)</descripcion>
+		<unidadMedida>Cajas: 306 Unidades: 0</unidadMedida>
+		<cantidad>306.000000</cantidad>
+		<precioUnitario>0.416666</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>127.50</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/03/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="0569-24"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="5889-MAN-11-10"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>127.50</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002165</codigoPrincipal>
+		<descripcion>PENICILINA/BENZAT/2.4MILL/AMP/GENAMERICA(10)</descripcion>
+		<unidadMedida>Cajas: 10 Unidades: 0</unidadMedida>
+		<cantidad>10.000000</cantidad>
+		<precioUnitario>1.833000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>18.33</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/09/2028"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2402999"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="04161-MAN-03-06"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>18.33</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002165</codigoPrincipal>
+		<descripcion>PENICILINA/BENZAT/2.4MILL/AMP/GENAMERICA(10)</descripcion>
+		<unidadMedida>Cajas: 10 Unidades: 0</unidadMedida>
+		<cantidad>10.000000</cantidad>
+		<precioUnitario>1.833000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>18.33</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/11/2028"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2403463"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="04161-MAN-0306"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>18.33</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002435</codigoPrincipal>
+		<descripcion>DOLOTAMOL/PARACETAMOL/1G/TAB/DANIVET(20)</descripcion>
+		<unidadMedida>Cajas: 800 Unidades: 0</unidadMedida>
+		<cantidad>800.000000</cantidad>
+		<precioUnitario>0.250000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>200.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="07/11/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="5311124"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="168-MEN-1114"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>200.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002772</codigoPrincipal>
+		<descripcion>ANALGAN/TAB./1GR/(20)</descripcion>
+		<unidadMedida>Cajas: 200 Unidades: 0</unidadMedida>
+		<cantidad>200.000000</cantidad>
+		<precioUnitario>0.350000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>70.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/08/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="74199"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="24.207-1-09-11"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>70.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000003102</codigoPrincipal>
+		<descripcion>FLUIDINE/600MG/TAB/LIFE(20)</descripcion>
+		<unidadMedida>Cajas: 300 Unidades: 0</unidadMedida>
+		<cantidad>300.000000</cantidad>
+		<precioUnitario>0.800000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>240.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/09/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="0316"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>240.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002712</codigoPrincipal>
+		<descripcion>CIPROFLOXACINO/500MG/TAB/LBOVIDA(24)</descripcion>
+		<unidadMedida>Cajas: 120 Unidades: 0</unidadMedida>
+		<cantidad>120.000000</cantidad>
+		<precioUnitario>0.480000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>57.60</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/04/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="4310424"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>57.60</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000003076</codigoPrincipal>
+		<descripcion>DEXAMETASONA/8MG/2ML/AMP/GENFAR(10)</descripcion>
+		<unidadMedida>Cajas: 100 Unidades: 0</unidadMedida>
+		<cantidad>100.000000</cantidad>
+		<precioUnitario>0.800000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="07/10/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="E02189A"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="5028-MEE-0320"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>80.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002166</codigoPrincipal>
+		<descripcion>CIPROFLOXACINO/200MG/100ML/AMP/INY/ACULIFE</descripcion>
+		<unidadMedida>Cajas: 6 Unidades: 0</unidadMedida>
+		<cantidad>6.000000</cantidad>
+		<precioUnitario>2.900000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>17.40</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/09/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2J24241960"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="481-MEE-1014"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>17.40</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002679</codigoPrincipal>
+		<descripcion>KETOROLACO/DOTEM//60MG/2ML/AMP/LIFE(5)</descripcion>
+		<unidadMedida>Cajas: 135 Unidades: 0</unidadMedida>
+		<cantidad>135.000000</cantidad>
+		<precioUnitario>3.480000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>469.80</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/09/2025"></detAdicional>
+			<detAdicional nombre="Lote:" valor="23001486"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>469.80</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002558</codigoPrincipal>
+		<descripcion>KETOROLACO//60MG//AMP/CAPLIN</descripcion>
+		<unidadMedida>Cajas: 365 Unidades: 0</unidadMedida>
+		<cantidad>365.000000</cantidad>
+		<precioUnitario>1.780000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>649.70</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="31/05/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="N026F24"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="1931-MEE-0316"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>649.70</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000003375</codigoPrincipal>
+		<descripcion>TRAMADOL/100MG/2ML/AMP/BIOSANO</descripcion>
+		<unidadMedida>Cajas: 500 Unidades: 0</unidadMedida>
+		<cantidad>500.000000</cantidad>
+		<precioUnitario>0.880000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>440.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/11/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="24.11.6167"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="25.402-10-03"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>440.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002395</codigoPrincipal>
+		<descripcion>CURAM/1000MG/CJAX14/TABL/SANDOZ</descripcion>
+		<unidadMedida>Cajas: 392 Unidades: 0</unidadMedida>
+		<cantidad>392.000000</cantidad>
+		<precioUnitario>1.041428</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>408.24</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/07/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="PA2964"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="362271012"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>408.24</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002528</codigoPrincipal>
+		<descripcion>MOXILAN/AMOXIC+A/CLAVUL/1G/TABL/CJAX10/FARMALIGHT</descripcion>
+		<unidadMedida>Cajas: 110 Unidades: 0</unidadMedida>
+		<cantidad>110.000000</cantidad>
+		<precioUnitario>1.041000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>114.51</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/10/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="4371024"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="631730812"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>114.51</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000000010</codigoPrincipal>
+		<descripcion>DICLOFENACO/RT/100MG/TAB/GENFAR/(20)</descripcion>
+		<unidadMedida>Cajas: 41 Unidades: 8</unidadMedida>
+		<cantidad>500.000000</cantidad>
+		<precioUnitario>0.250000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>125.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="28/02/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="E00408A"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="03571-MAE-04-05"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>125.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002234</codigoPrincipal>
+		<descripcion>CETIRIZINA/10MG/TABL/CJAX100/PORTUGAL</descripcion>
+		<unidadMedida>Cajas: 500 Unidades: 0</unidadMedida>
+		<cantidad>500.000000</cantidad>
+		<precioUnitario>0.140000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>70.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/06/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2063194"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="04683-MAE-03-07"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>70.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002278</codigoPrincipal>
+		<descripcion>IBUPROFENO/800MG/TBL/GENFAR(50)</descripcion>
+		<unidadMedida>Cajas: 700 Unidades: 0</unidadMedida>
+		<cantidad>700.000000</cantidad>
+		<precioUnitario>0.131600</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>92.12</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/05/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="E01100A"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="HG4380413"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>92.12</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002539</codigoPrincipal>
+		<descripcion>LEMONFLU/SOBRE//ANTIGRIPAL/SIEGFRIED(6)</descripcion>
+		<unidadMedida>Cajas: 1112 Unidades: 0</unidadMedida>
+		<cantidad>1112.000000</cantidad>
+		<precioUnitario>0.500000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>556.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/10/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2410032"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="6023-MAN-03-11"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>556.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002390</codigoPrincipal>
+		<descripcion>CLOTRIMAZOL/1%/CREMA//20GR/PORTUGAL</descripcion>
+		<unidadMedida>Cajas: 20 Unidades: 0</unidadMedida>
+		<cantidad>20.000000</cantidad>
+		<precioUnitario>1.400000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>28.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/01/2028"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2015324"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="GE-416-03-11"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>28.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002382</codigoPrincipal>
+		<descripcion>OTOZAMBON/GOTAS/8ML</descripcion>
+		<unidadMedida>Cajas: 6 Unidades: 0</unidadMedida>
+		<cantidad>6.000000</cantidad>
+		<precioUnitario>6.250000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>37.50</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/08/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="1560-24"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="04168-MAN-03-06"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>37.50</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000003908</codigoPrincipal>
+		<descripcion>METAMIZOL/SODICO/1G/2ML/AMP/CAPLIN</descripcion>
+		<unidadMedida>Cajas: 300 Unidades: 0</unidadMedida>
+		<cantidad>300.000000</cantidad>
+		<precioUnitario>0.460000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>138.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/09/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="N001J24"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="3255-MEE-0518"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>138.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000003541</codigoPrincipal>
+		<descripcion>DOLRAD/1G/2ML/AMP/GRUNENTHAL(25)</descripcion>
+		<unidadMedida>Cajas: 200 Unidades: 0</unidadMedida>
+		<cantidad>200.000000</cantidad>
+		<precioUnitario>0.500000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>100.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/01/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="2400002"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>100.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002606</codigoPrincipal>
+		<descripcion>AMBROXOL/JARABE/ADUL/30MG/120ML/MK</descripcion>
+		<unidadMedida>Cajas: 100 Unidades: 0</unidadMedida>
+		<cantidad>100.000000</cantidad>
+		<precioUnitario>2.600000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>260.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/05/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="4E6796"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="04621-MAE-01-12"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>260.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002722</codigoPrincipal>
+		<descripcion>UBRETOL/UNGUENTO/200GR/CAMPOSA</descripcion>
+		<unidadMedida>Cajas: 10 Unidades: 0</unidadMedida>
+		<cantidad>10.000000</cantidad>
+		<precioUnitario>6.500000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>65.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/10/2028"></detAdicional>
+			<detAdicional nombre="Lote:" valor="1225892"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>65.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000003464</codigoPrincipal>
+		<descripcion>ULCOZOL/RAPID/20MG/SOBRE//BAGO(30)</descripcion>
+		<unidadMedida>Cajas: 300 Unidades: 0</unidadMedida>
+		<cantidad>300.000000</cantidad>
+		<precioUnitario>1.878000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>563.40</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/07/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="109"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="8263-MEE-0823"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>563.40</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+</detalles>
+<infoAdicional>
+	<campoAdicional nombre="Direccion">GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</campoAdicional>
+	<campoAdicional nombre="Telefono">2947375</campoAdicional>
+	<campoAdicional nombre="Email">fernanda.paccha@grupodmg.ec</campoAdicional>
+	<campoAdicional nombre="Vencimiento">29/03/2025</campoAdicional>
+	<campoAdicional nombre="Comercio">MINERA BELORO C.L.</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature125365">
+<ds:SignedInfo Id="Signature-SignedInfo347920">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID391028" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature125365-SignedProperties28466">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>qZCxrlgP6k9/03mI8pYpRC8Vxwc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate186232">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>6PlgHQjIksmbS/vExw5zpKezeE0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-492794" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ElzgZ1HxvhRxiJGFODh6GpKqkyA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue71204">
+M1bos3xK1m2j09nZrWI/w6h2HlHfGxtufJertAPAIRXgkJQdhdDXlPar7fgQHPLvt4eEOcd6VLs2
+mQvTizkwEdmApN1Ch4r2wq8HYql67kvTX4wmPG4kw33HuRzA7U+7nmrfB8BmDDYF8Sv7dvEaYWz9
+JJZsYwGhTNr3oXZEtjxTTNB1gFvtwN0O0Ej5T9AQ9dytf2r/QItoYkfGb1j6hP3B09McFuteGQ13
+TEQz86bv3o5pUZZcHiVvQS2Vy+/cM08r8IiqXK8qe9JDx7pBJ5wUGII/9Su4oeFYjSg6QwmAC+mf
+MWgTWt8agdE1/XX/XEkcaVeCxGuSFkKiHKc31Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate186232">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJKDCCBxCgAwIBAgIIIuPWMI+TDsYwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDYyMTIzNTAwMFoXDTI2MDYyMTIzNTAwMFowgZ4xCzAJBgNVBAYTAkVDMRYwFAYDVQQEDA1B
+UlJPWU8gT1JPQklPMRcwFQYDVQQqDA5NQVJJQSBMRU9OSUxEQTEZMBcGA1UEBRMQSURDRUMtMDcw
+NjI0Nzc2NDElMCMGA1UEAwwcTUFSSUEgTEVPTklMREEgQVJST1lPIE9ST0JJTzEcMBoGA1UEYQwT
+VElORUMtMDcwNjI0Nzc2NDAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIgkwLL9
+If6z0Tw5CBop8ELKuiNfsMyR3HK1FlVsZsNowS8DpszZXbN410qgKoWfh/4nKz4PFuJ8vAqA4180
+iPDx1yQuJY3irYYI5F2LGI8wokKbwrx9dsdfgoz8D9xNQuRJ8oVfL1po7S+V9mdYAN610QblstC4
+pZP2E71Zencb9YHGBkbMnVRMCYzWlyaC9DYaVbGb+Of3YHtKUI0IQruE7z4XhqPyXlhrYDvizMpH
+zeDf/GYKGo5TtwnkqC/K/0mquKb4woOnEVz9nOEFhZYO3Ee7sWQWwrc2o/++P2QhCLib3N7kw6U3
+2ybpORNtXLFWZFExnbE8OTXO4eW81Q0CAwEAAaOCBEwwggRIMBsGCysGAQQBgvE2ZgMBBAwMCjA3
+MDYyNDc3NjQwHgYLKwYBBAGC8TZmAwsEDwwNMDcwNjI0Nzc2NDAwMTCB1wYIKwYBBQUHAQEEgcow
+gccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90
+c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3Nw
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3Ay
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBSIlBNbF+V09HMn28SqM8qj
+S2sq7zAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGZBgNV
+HSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5h
+dGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNFUlRJRklDQURPIERF
+IFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyG
+Omh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5j
+cmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJv
+cmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDCCAYIGA1UdEQSCAXkwggF1gRZvbGVzaXN0ZW1hc2NAZ21haWwuY29toBsGCysGAQQBgvE2ZgMB
+oAwMCjA3MDYyNDc3NjSgHwYLKwYBBAGC8TZmAwKgEAwOTUFSSUEgTEVPTklMREGgFwYLKwYBBAGC
+8TZmAwOgCAwGQVJST1lPoBcGCysGAQQBgvE2ZgMEoAgMBk9ST0JJT6A3BgsrBgEEAYLxNmYDB6Ao
+DCZZQU5VTkNBWSBDQUxMRSBBViBQUklNRVJPIERFIE1BWU9cLCBTTqAfBgsrBgEEAYLxNmYDCKAQ
+DA4wMDU5Mzk2MjUyMTM3NKAXBgsrBgEEAYLxNmYDCaAIDAZDVUVOQ0GgHgYLKwYBBAGC8TZmAwug
+DwwNMDcwNjI0Nzc2NDAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG
+9w0BAQsFAAOCAgEAgmB36OndlSX/Rc7QRtiK061uCBrlQdD4tIq8l7KnLdXyteWimb3pDoevdqVO
+HYD58Nb4rbwOh+F80CIN7/+hy655iPRcw+AHIqHqfx2WEvqvBXmvbLuOQOkoBwo3nXU4nbxC6E6H
+Mk5EtnGc2u2AmjdGhwebmGzQhypVXgLJshQ850TDxj25JyhnRhXyXG9E9Qul2QzPnqfIqnIzvYQP
+xqB9/pPH+l9AnVlAErxPed6aO7+rzIseMaWDb0z0nujkALcseqkWcU1qsYzzsPNgAIS70hgA7nJt
+PPHzWLBeGHwEN1rBdqqYcbfGsE89nDE6MgRee02pV7XVc3gskb9j1uaQv1oE6INVhr6PzS2y6kGp
+zzBy0aB+VrJ8mKSmg0hzBO0VeHJ2qWgdIgVuCwBG9iig4jVd6Wnu+3PYRvT3yz3lj04GOqtFDWhS
+mYjaOnRjFzE0W6OkllLXr+aRsAPLC5eQ6wCVuH19K0hh0JyNOlJqYqt4RDlkt6S1/IrU5gZe067Q
+6//6PYaxzgIjYP4ZMS0DW6PXPjxHt81j2A2QZI9T0CcWEpW3B/6NBXGuqZe7Z8UMwW7zjfRAbO8H
+qJg97gaVXTuObeg9aofj9wdtcxaAZz9bNq6gdEC3h2cCLv+xZ5adwF7wAM1CDclLRtHDW23FEIDU
+uRrESQls7OTTCCw=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iCTAsv0h/rPRPDkIGinwQsq6I1+wzJHccrUWVWxmw2jBLwOmzNlds3jXSqAqhZ+H/icrPg8W4ny8
+CoDjXzSI8PHXJC4ljeKthgjkXYsYjzCiQpvCvH12x1+CjPwP3E1C5EnyhV8vWmjtL5X2Z1gA3rXR
+BuWy0Lilk/YTvVl6dxv1gcYGRsydVEwJjNaXJoL0NhpVsZv45/dge0pQjQhCu4TvPheGo/JeWGtg
+O+LMykfN4N/8ZgoajlO3CeSoL8r/Saq4pvjCg6cRXP2c4QWFlg7cR7uxZBbCtzaj/74/ZCEIuJvc
+3uTDpTfbJuk5E21csVZkUTGdsTw5Nc7h5bzVDQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature125365-Object958163"><etsi:QualifyingProperties Target="#Signature125365"><etsi:SignedProperties Id="Signature125365-SignedProperties28466"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-03-29T11:53:51-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Wo6A2s5FYMnHpTrFEqoUdufZWfo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2514088521058422470</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-492794"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

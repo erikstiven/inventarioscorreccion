@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.0.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>INDUSTRIA ECUATORIANA DE PLASTICOS INPLASTIC S.A.</razonSocial>
+		<nombreComercial>INPLASTIC S.A.</nombreComercial>
+		<ruc>0991175784001</ruc>
+		<claveAcceso>0108202501099117578400120010020000400691234567816</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>002</ptoEmi>
+		<secuencial>000040069</secuencial>
+		<dirMatriz>Km 10.5 vía a Daule Guayaquil, Ecuador</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>01/08/2025</fechaEmision>
+		<dirEstablecimiento>Km 10.5 vía a Daule Guayaquil, Ecuador</dirEstablecimiento>
+		<contribuyenteEspecial>00577</contribuyenteEspecial>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+		<identificacionComprador>0992529679001</identificacionComprador>
+		<direccionComprador>EL ORO / MACHALA / MACHALA / GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</direccionComprador>
+		<totalSinImpuestos>4544.43</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<baseImponible>4544.43</baseImponible>
+				<tarifa>15.00</tarifa>
+				<valor>681.66</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0</propina>
+		<importeTotal>5226.09</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>5226.09</total>
+				<plazo>8</plazo>
+				<unidadTiempo>días</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>F2X14BDNATSP</codigoPrincipal>
+			<codigoAuxiliar>-</codigoAuxiliar>
+			<descripcion>FUNDA 2X14 X 0.002  B/D NATURAL</descripcion>
+			<cantidad>517.00</cantidad>
+			<precioUnitario>8.79</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>4544.43</precioTotalSinImpuesto>
+			<detallesAdicionales>
+<detAdicional nombre="Cantidad en bultos" valor="20,6800" />
+			</detallesAdicionales>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>4</codigoPorcentaje>
+					<tarifa>15.00</tarifa>
+					<baseImponible>4544.43</baseImponible>
+					<valor>681.66</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Dir.:">EL ORO / MACHALA / MACHALA / GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</campoAdicional>
+		<campoAdicional nombre="Email:">diego.alvear@grupodmg.ec</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-f53bc599-d0dc-4f1c-a147-42b15c20b2f9"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-aa30ee03-6426-4543-bb99-12d70f6614e2" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>uHZM0jqEd7aCnge+jP6rNppJawGXptyi8fBr+PH1Pzk=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-f53bc599-d0dc-4f1c-a147-42b15c20b2f9"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>JKtbzZrZGbP3IaX6sayPYC/N4IdK3G8gHoT869WYqGI=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-f53bc599-d0dc-4f1c-a147-42b15c20b2f9"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>thJQMXveKJLWhMfUpNxKc68SvzIigyrl2Ntz855ZIWY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-f53bc599-d0dc-4f1c-a147-42b15c20b2f9">V7jafVuyY9YPVePcklvT1KdR3ACFGhLU7Qr/h7H2foInnlYgBat4sw0Q69Q2LuYmVZX68OXEXaBW+eJyz5vZ575B9ls4I3415A2P8CtD4bz15nVE0rCsInkKLGYe75bnjn/m2fgLRazsvIyygJO7R+q3ueJ8D1Wb/TTVnGtlTnrwCXD4OzJVqsGSQsHAOkHr77I71vgdsm3vSFfMs4RUYbOP68Zw7Fj4bBZ/Qe97HIl6TGgis2svxY9wC3lLovgCx7XqhuA1dTAe7TH0UDCyK87M0m8U8bXEZUqDSifn0y5tFMFTuVws0e0E/I2u7oCc8XIPh0tb1Dw7WgXrTxBTcg==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-f53bc599-d0dc-4f1c-a147-42b15c20b2f9"><ds:X509Data><ds:X509Certificate>MIIMCTCCCfGgAwIBAgIEXE/kYjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA2MDYxODA0NDdaFw0yNzA2MDYxODA0NDdaMIGdMSYwJAYDVQQDDB1BTEVYQU5EUkEgREVMIFBJTEFSIE1FTkEgQ0FKTzEVMBMGA1UEBRMMMDYwNjIyMTMxNDM4MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKndpZ0Zd6s/dH/+TtwRL1EjJGMu15dbj+VV/gMhJyqjge8tw2LIPkcwqy/YUVrdPau9xikuJ4AOLb4AMxO1/0pr3MeMsZouD8emxRqaB0545f9sEFfrD1AOMFXVDHlZ/SJ5KWJNiQ6/fBaUXA1dgnzdRixRRJTFTL2UUgSguDhwZyBzy9qWG8JT5Y+u84SWfhJFM3x4NXYVmrTFX/SOwqmmIfcifxy72qj1snZOFZL5FA1KdMqqePAXFvVGmOg1phzwhcTeeTlPniNZZH/km4ev/tv8rlXgAHhcNy42t0youPsZLuIf2MR1EogIIUax/gJr5xxO9NYxNBLS4IKTedUCAwEAAaOCB1EwggdNMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCUGA1UdEQQeMByBGml2YWx2ZXJkZUBncnVwb21lbmEuY29tLmVjMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFMjQh3RD/URmqt5XKATZZC7e+MxsMCsGA1UdEAQkMCKADzIwMjIwNjA2MTgwNDQ3WoEPMjAyNzA2MDYxODA0NDdaMAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjA5MTM3NTk4MzMwGQYKKwYBBAGCpnIDCQQLDAlHVUFZQVFVSUwwEQYKKwYBBAGCpnIDIgQDDAEuMBMGCisGAQQBgqZyAwcEBQwDUyBOMCMGCisGAQQBgqZyAwIEFQwTQUxFWEFORFJBIERFTCBQSUxBUjAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMDM2NDQ5ODATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFAYKKwYBBAGCpnIDAwQGDARNRU5BMEEGCisGAQQBgqZyAwoEMwwxSU5EVVNUUklBIEVDVUFUT1JJQU5BIERFIFBMQVNUSUNPUyBJTlBMQVNUSUMgUy5BLjAdBgorBgEEAYKmcgMLBA8MDTA5OTExNzU3ODQwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAUBgorBgEEAYKmcgMEBAYMBENBSk8wGgYKKwYBBAGCpnIDCAQMDAowOTY3NzM0ODU0MA0GCSqGSIb3DQEBCwUAA4ICAQBLTqBZRIECV5QYi3cAOJsiwfIARA6BggzY0rrVrlM+6tDkdaB+7iVIDQc+vUFEJDNvJ6lgluOJHuaawVN6Caoap8Q0EqD2wcAO4USJQTgVvAZL7OqJ81pdT0XIpJuOeyrVsztp+0XwQ4vyWg01CbnkBQBog8qp2hkFY0yt+A2B8F3scYt8rT0YPeWXvgNvTGCi0bvGrI+vj6TqcWvF24zKE3wXILpZp6Fd45N6xxHl0izbAqrXE1jOcHk/wiXtKWMoxJOhYlBaM8+df0FxXdoWFHbFuW8juFpO8mqQ+hsl8IhuwaO0EgAOf0eofKgo/aahN8sCczHHfl1Cue0YkOjwHwSY6DEvdmf7FYgtUd5f6fTwCcaS95q7gMpmbNnL4iMKt+MShVmwN605zii2eiU9qj6X4xJ/qZWgDhAbLl1fUHttPQrF1UPjjmeSR+XFfB5+11pJ2JoCOS2yRNG8SGlhGelCgqAVYIYeMMKJBzOudisDFH5IK5t+x8GvvTfGdLRinv0QySoOI69nFvuHyp8pVWR8OgHDsC99osXBDTYGnLPYJLJNZXIJ9xKARZooCdsWgbaUlh9hymV/i9l+2GaGbNxwk2euYkfTg1E3F3e80qRdiww+D3w+snO6zT8s1JBkmqQtilcAa67T5tGVk05PfzXBOsPTEWAe1HpJ97OIAA==</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>qd2lnRl3qz90f/5O3BEvUSMkYy7Xl1uP5VX+AyEnKqOB7y3DYsg+RzCrL9hRWt09q73GKS4ngA4tvgAzE7X/Smvcx4yxmi4Px6bFGpoHTnjl/2wQV+sPUA4wVdUMeVn9InkpYk2JDr98FpRcDV2CfN1GLFFElMVMvZRSBKC4OHBnIHPL2pYbwlPlj67zhJZ+EkUzfHg1dhWatMVf9I7CqaYh9yJ/HLvaqPWydk4VkvkUDUp0yqp48BcW9UaY6DWmHPCFxN55OU+eI1lkf+Sbh6/+2/yuVeAAeFw3Lja3TKi4+xku4h/YxHUSiAghRrH+AmvnHE701jE0EtLggpN51Q==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-0ff921ab-f567-4ec9-9f8d-29208cb84af4"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-e22d3bb3-be65-4581-a963-401bc48589dd" Target="#Signature-f53bc599-d0dc-4f1c-a147-42b15c20b2f9"><xades:SignedProperties Id="SignedProperties-Signature-f53bc599-d0dc-4f1c-a147-42b15c20b2f9"><xades:SignedSignatureProperties><xades:SigningTime>2025-08-01T13:30:15-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>V1c1qMe9mGfkFbiqUexL7lWn/Y37HKezAw6bwj4XcUQ=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1548739682</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-aa30ee03-6426-4543-bb99-12d70f6614e2"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>

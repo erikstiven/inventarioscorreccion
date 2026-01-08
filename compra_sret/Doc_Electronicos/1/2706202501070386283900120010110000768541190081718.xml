@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>VASQUEZ CASTILLO DANNY DANIEL</razonSocial>
+		<nombreComercial>MUNDO FILTRO 1</nombreComercial>
+		<ruc>0703862839001</ruc>
+		<claveAcceso>2706202501070386283900120010110000768541190081718</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>011</ptoEmi>
+		<secuencial>000076854</secuencial>
+		<dirMatriz>EL ORO / MACHALA / 10 DE AGOSTO S/N Y BOLIVAR</dirMatriz>
+		<agenteRetencion>1</agenteRetencion>
+	</infoTributaria>
+<infoFactura>
+	<fechaEmision>27/06/2025</fechaEmision>
+	<dirEstablecimiento>EL ORO / MACHALA / 10 DE AGOSTO S/N Y BOLIVAR</dirEstablecimiento>
+	<obligadoContabilidad>SI</obligadoContabilidad>
+	<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+	<razonSocialComprador>MINERA BELORO</razonSocialComprador>
+	<identificacionComprador>0992529679001</identificacionComprador>
+	<direccionComprador>LOS JARDINES CALLE GUAYAQUIL</direccionComprador>
+	<totalSinImpuestos>406.95</totalSinImpuestos>
+	<totalDescuento>0.00</totalDescuento>
+	<totalConImpuestos>
+		<totalImpuesto>
+		<codigo>2</codigo>
+		<codigoPorcentaje>4</codigoPorcentaje>
+		<descuentoAdicional>0.00</descuentoAdicional>
+		<baseImponible>406.95</baseImponible>
+		<valor>61.04</valor>
+		</totalImpuesto>
+	</totalConImpuestos>
+	<propina>0.00</propina>
+	<importeTotal>467.99</importeTotal>
+	<moneda>DOLAR</moneda>
+	<pagos>
+		<pago>
+		<formaPago>20</formaPago>
+		<total>467.99</total>
+		<plazo>30</plazo>
+		<unidadTiempo>dias</unidadTiempo>
+		</pago>
+	</pagos>
+</infoFactura>
+<detalles>
+	<detalle>
+		<codigoPrincipal>000000006476</codigoPrincipal>
+		<descripcion>PA1649 P181036 6L3313 CAT 5L3313 CUMMINS 707664 TEREX 9030854</descripcion>
+		<unidadMedida>Cajas: 2 Unidades: 0</unidadMedida>
+		<cantidad>2.000000</cantidad>
+		<precioUnitario>95.652173</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>191.30</precioTotalSinImpuesto>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>191.30</baseImponible>
+			<valor>28.70</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000005921</codigoPrincipal>
+		<descripcion>LF691A C5502 LFP4005 P554005 PSL405</descripcion>
+		<unidadMedida>Cajas: 8 Unidades: 0</unidadMedida>
+		<cantidad>8.000000</cantidad>
+		<precioUnitario>26.956521</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>215.65</precioTotalSinImpuesto>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>215.65</baseImponible>
+			<valor>32.35</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+</detalles>
+<infoAdicional>
+	<campoAdicional nombre="Direccion">LOS JARDINES CALLE GUAYAQUIL</campoAdicional>
+	<campoAdicional nombre="Telefono">072937375</campoAdicional>
+	<campoAdicional nombre="nota">pedido por diego</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1018957">
+<ds:SignedInfo Id="Signature-SignedInfo83082">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID378894" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1018957-SignedProperties601623">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>fWrnsLa3jFkjwfuVvYGfYiW6/NA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1565249">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>xY/olgh6FbTW+bF56Fzr6m1yre0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-791616" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>lySfPJNYbLSh87hWXx7K9Xy4dU4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue535873">
+HbSASyGuvlUsaEeqo5o7JxM0ARoq67VeprXw30d+YO3644T9J5Prcv9qsZ4LrGdk+qHaTxvAzCmx
+PUv9fk38muzKva8EpLEer898lzwHMlYzACiQi3uLmyLhOqBaPIZdypSOhdYFOM37hDsKQtpb6FMr
+U66+/CvPgS5tY2rwXvg5BbZksU6JdqIRCsD6n8fduEBtV06Pp0ObrSmBtu42sdfVxOKwI1tcq1jy
++NzkcOcW0KRqqXsA9BtBm0hKvY1dUVdTUKWyEFRjHVrnsJFeRLLWxTNf9pJfOqQ4BiRs2ptgFr8J
+qq7xQ1rlKg4Nhh2gs9X5iUU78azCKzCK9bEUTA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1565249">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJITCCBwmgAwIBAgIICZdp5bVxexMwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDUyNTE5MTUwMFoXDTI3MDUyNDE5MTUwMFowgaAxCzAJBgNVBAYTAkVDMRkwFwYDVQQEDBBW
+QVNRVUVaIENBU1RJTExPMRUwEwYDVQQqDAxEQU5OWSBEQU5JRUwxGTAXBgNVBAUTEElEQ0VDLTA3
+MDM4NjI4MzkxJjAkBgNVBAMMHURBTk5ZIERBTklFTCBWQVNRVUVaIENBU1RJTExPMRwwGgYDVQRh
+DBNUSU5FQy0wNzAzODYyODM5MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnCsQ
+xtrdCuOPivysXdAi9nCIoa+UlFyTl7ELK94owL9OT31+Kkuhjs8YToDhVXBnsuHIyh5doQeSJRXO
+QbttLrzzsvkmksp604r7TLXau8SiCNOysxST03/gKTFIJ2O0GtsC0EleEXLGXsi3kNeKaBRe1Ah1
+CsfbqxoOEyeE6Hdkz53F40kSuuoBwyIGcb3aDtXDzPr9Jv4nb+IHHZfsEDVkSoV21F8k54ZQLKUM
+rcGxcl5Ou+Kp5tKKv9cZic0Itz0OzLVM+u0+XlbIvxh3GtOGUiLM9INv/5DGDgMIqGUJC0VL+asR
+VNf8l7SdNHqOpn6/qv9KT0LSYeSVRSScNwIDAQABo4IEQzCCBD8wGwYLKwYBBAGC8TZmAwEEDAwK
+MDcwMzg2MjgzOTAeBgsrBgEEAYLxNmYDCwQPDA0wNzAzODYyODM5MDAxMIHXBggrBgEFBQcBAQSB
+yjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2Fk
+L3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29j
+c3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2Nz
+cDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFNAstFDCTXT19NJ1FDy4
+xM2HXV9qMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkG
+A1UdIASBkTCBjjCBiwYMKwYBBAGC8TZmAgEBMHswNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVh
+bmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8wQAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8g
+REUgUEVSU09OQSBOQVRVUkFMIE8gRklTSUNBIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6g
+PIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRh
+LmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1
+Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUF
+BwMEMIIBeQYDVR0RBIIBcDCCAWyBFHNvbGNvbnRyaWJAZ21haWwuY29toBsGCysGAQQBgvE2ZgMB
+oAwMCjA3MDM4NjI4MzmgHQYLKwYBBAGC8TZmAwKgDgwMREFOTlkgREFOSUVMoBgGCysGAQQBgvE2
+ZgMDoAkMB1ZBU1FVRVqgGQYLKwYBBAGC8TZmAwSgCgwIQ0FTVElMTE+gLgYLKwYBBAGC8TZmAweg
+HwwdQVYuIDEwIERFIEFHT1NUTyBTTiBZIEJPTElWQVKgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5
+OTI0Njk0NjOgGAYLKwYBBAGC8TZmAwmgCQwHTUFDSEFMQaAeBgsrBgEEAYLxNmYDC6APDA0wNzAz
+ODYyODM5MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNPTkEg
+TkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEBCwUA
+A4ICAQCaft2LaZT14jbR507Ax31JWaxXUH8/LmENLXc5rZ/mnenQor7tBj6NqQe5syKOFvpI+vW0
+3ibfZx3L/RGUpbzA4NWTCX0BFeXCKHJ8uoUGUGYFKDwnbrqcs99VYMn4jg3tsc9nffMYuUs+s3tM
+HEXZW2U/nJrR/XmVQqZIdaecel8jIpcYesKEyxkhxpMEYkg2JsLNgd7kW1i1m+ucRgNeEw5W6mZz
+u2gYWOFINcZBO4wWwXnEkr8BT2Gjv6VMgkOk6lY6ryGmgB2rNJ+/wZIQ1hj7vF8TRFST9or17/8I
+qmVRk02AEMRTdMMa+JEDYnQjtGBDNzkoVuH2xwCCDjFUECw/0dkHfNASrYDDcBsoAObOzDJBGrai
+jd9eMa531laAq2fUe3Q1NhjI7bkDkYu84Vq0pG3COOcOD3WKouurlJ/UzNM+HjLgR0bA+b6u1GYp
+Cr6F9O7PxzFA7Pqly25uT/xXm3mvRkcuYsiixUZOMo5Pb99y/S5wK0jjLljAT77pv4cUISJLxrOB
+h29/2tTAGWEN2HQtHvYAaG6XG7Hz4XGdmYwIcZ2E2xeER5SgZzVl/Jxx4b8dfHdnOneS9I3S+u1A
+RFYLUdLjZ/cly1ENIneHM/5sl6CYYCGJQdAmDmM/z8KYLi9HqMIelu12YI9xosw+k/XUVa7h+j36
+mwYZ2g==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nCsQxtrdCuOPivysXdAi9nCIoa+UlFyTl7ELK94owL9OT31+Kkuhjs8YToDhVXBnsuHIyh5doQeS
+JRXOQbttLrzzsvkmksp604r7TLXau8SiCNOysxST03/gKTFIJ2O0GtsC0EleEXLGXsi3kNeKaBRe
+1Ah1CsfbqxoOEyeE6Hdkz53F40kSuuoBwyIGcb3aDtXDzPr9Jv4nb+IHHZfsEDVkSoV21F8k54ZQ
+LKUMrcGxcl5Ou+Kp5tKKv9cZic0Itz0OzLVM+u0+XlbIvxh3GtOGUiLM9INv/5DGDgMIqGUJC0VL
++asRVNf8l7SdNHqOpn6/qv9KT0LSYeSVRSScNw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1018957-Object122245"><etsi:QualifyingProperties Target="#Signature1018957"><etsi:SignedProperties Id="Signature1018957-SignedProperties601623"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-06-27T17:46:24-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>e4sHIkOXcAilUoWee27W1zpU7o0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>691137503137200915</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-791616"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

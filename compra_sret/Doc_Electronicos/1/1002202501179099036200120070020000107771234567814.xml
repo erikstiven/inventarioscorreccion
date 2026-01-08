@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>AMCECUADOR CIA LTDA</razonSocial><nombreComercial>AMCECUADOR CIA LTDA</nombreComercial><ruc>1790990362001</ruc><claveAcceso>1002202501179099036200120070020000107771234567814</claveAcceso><codDoc>01</codDoc><estab>007</estab><ptoEmi>002</ptoEmi><secuencial>000010777</secuencial><dirMatriz>QUITO - AV. ELOY ALFARO N40-590 y AV. GRANADOS</dirMatriz></infoTributaria><infoFactura><fechaEmision>10/02/2025</fechaEmision><dirEstablecimiento>CARRETERA DURAN - YAGUACHI S/N Y DIAGONAL A LA EMPRESA DEL MONT</dirEstablecimiento><contribuyenteEspecial>143</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MINERA BELORO C.L.</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><totalSinImpuestos>4009.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>4009.000000</baseImponible><valor>601.35</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>4610.35</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>4610.35</total><unidadTiempo>Dia</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>1012403</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>FILTRO ARMOR 703 VAPORES ORGANICOS Y GASES ÁCIDOS</descripcion><cantidad>60.00</cantidad><precioUnitario>8.150000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>489.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>489.00</baseImponible><valor>73.35</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1012531</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>LENTES NEMESIS V30 OSCURO ANTIEMPAÑANTE (BASIC)</descripcion><cantidad>20.00</cantidad><precioUnitario>3.630000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>72.60</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>72.60</baseImponible><valor>10.89</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1011452</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>GUANTES MASTER NITRITEX PLUS AZUL T. LARGE</descripcion><cantidad>1000.00</cantidad><precioUnitario>2.750000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2750.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2750.00</baseImponible><valor>412.49</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1013456</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>DELANTAL DE CUERO 90 X 60</descripcion><cantidad>10.00</cantidad><precioUnitario>3.350000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>33.50</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>33.50</baseImponible><valor>5.03</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1011507</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>MANGAS DE CUERO</descripcion><cantidad>10.00</cantidad><precioUnitario>2.500000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>25.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>25.00</baseImponible><valor>3.75</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1012398</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>MASCARA ARMOR 705 MEDIA CARA DE SILICÓN</descripcion><cantidad>30.00</cantidad><precioUnitario>13.630000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>408.90</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>408.90</baseImponible><valor>61.34</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1012407</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>PREFILTRO ARMOR 7N11 PARA PARTÍCULAS</descripcion><cantidad>100.00</cantidad><precioUnitario>0.750000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>75.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>75.00</baseImponible><valor>11.25</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1012406</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>RETENEDOR ARMOR 510</descripcion><cantidad>100.00</cantidad><precioUnitario>0.800000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>80.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>80.00</baseImponible><valor>12.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1021148</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>TAPON HOWARLEIGTH-HONEYWELL SMF-30 ELASTOMERICO 25 Db CON CORDON Y CAJA</descripcion><cantidad>100.00</cantidad><precioUnitario>0.750000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>75.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>75.00</baseImponible><valor>11.25</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="UNIDAD DE NEGOCIO:">N</campoAdicional><campoAdicional nombre="DIRECCION CLIENTE:">CALLE GUAYAQUIL S/N INTERSECCION QUINTA A NORTE</campoAdicional><campoAdicional nombre="EMAIL CLIENTE:">johanna.enriquez@grupodmg.ec;segundo.ramos@grupodmg.ec</campoAdicional><campoAdicional nombre="COMENTARIO:">Pedido: 2054032 Solicita: Diego Alvear Basado en Pedidos de cliente 200079223. NUMERO SAP: 210010777 TELEFONO: 72937375</campoAdicional><campoAdicional nombre="CONDICIÓN PAGO:">contado</campoAdicional><campoAdicional nombre="ORDEN DE COMPRA:">N/A</campoAdicional><campoAdicional nombre="NOTA:">Cualquier inconformidad relacionada con los productos detallados en las facturas deberán ser
+notificados en el plazo de 8 días, contados desde la fecha de emisión de facturación.</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature455602">
+<ds:SignedInfo Id="Signature-SignedInfo275746">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID266137" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature455602-SignedProperties913365">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>drDeXU6HIj8L1Spv/xrd0CWsB5M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1254693">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>bHaSlzm496mDpkX/O995bX0hXsk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-473840" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>lPU1vkTeQmlbUFPKkrWlU7QWeG8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue840899">
+dPPLYTNaj/a/qgWq3luuYutA7k2KYggJ9hwPP6ibV55sV8Q9l0qTO4rZUds/NL6Fr9Y8NZX/Pji3
+4OviSlWmqY+20EyrsqRvvugukeFNEyyh9rWvrcEKRzUriEINvhhxE2uu4OLKPYH7/YmqHrYrMbyz
+iXZPJoh4SwJosjWJQ9mhdbb3tqoYhE/v1NzCSWO4E6ocJilRnHPmIEqE6e54DO+9aeWjUcmg3n54
+pLgBiV0Mi2SDCrE+CkaTH5Suy79RjUOnaNLAjrrYISpFACGd8VKTCxMjuNZGqzCCbXSx/ZsCojdo
+DMvbE1WBE6AS1tV0Rcss3vL+CccT9iozkvR5hg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1254693">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMbDCCClSgAwIBAgIEEt/wfzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA1MDIxODQyMjJaFw0yOTA1MDIxODQyMjJaMIGmMSQw
+IgYDVQQDDBtNQVRFTyBKQVZJRVIgR0FSQ0lBIE1PTlRFUk8xIDAeBgNVBAUTFzE3MTEyNDc3ODEt
+MDIwNTI0MTM1MjAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBALAv1tOcBxtP9vDq1nEBbKIkoJqE5BzqUeSreZJvrM9v
+mT5u1aFBRCVlSQBw4B8ygFx/rUCMbmrIu1vLK/jYFsIlbqK6kKJi4XkXRd22g+dkEZ/0sfBLwo20
+CnKpChiTKFRB3cLVQzO3+0zblTcBZehtURD9ZJDXVkozrPDeSnhFQvOodUEDJ9366zbZLzl+qjPI
+8WdSFc0Gfk3bUfhEY2SggaGzoj2r9vSYRFE5TJzH139Mm66rbRADLYyCLKjBKiuQVQvvQPTzEprs
+bUCjKHSpEwVxOz5XseABmcXdw7KosAC54ztm+2waQ8MKsXboPzRwUdlkMhHfq3CmNuyHxA0CAwEA
+AaOCB6swggenMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8w
+WQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuG
+gbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZv
+Y2F0aW9uTGlzdD9iYXNlMCEGA1UdEQQaMBiBFm1nYXJjaWFAYW1jZWN1YWRvci5jb20wggEVBgNV
+HSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkA
+YwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEG
+CisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5l
+dC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1Bv
+bGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSC
+ApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQsw
+CQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRw
+czovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+d2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU8YiCiy6L
+ACo96zOwVJHcKtlw1tkwKwYDVR0QBCQwIoAPMjAyNDA1MDIxODQyMjJagQ8yMDI5MDUwMjE4NDIy
+MlowCwYDVR0PBAQDAgXgMBcGCisGAQQBgqZyAwUECQwHR0VSRU5URTAaBgorBgEEAYKmcgMBBAwM
+CjE3MTEyNDc3ODEwbwYKKwYBBAGCpnIDCQRhDF9RVUlUTyBESVNUUklUTyBNRVRST1BPTElUQU5P
+IENBQkVDRVJBIENBTlRPTkFMIENBUElUQUwgUFJPVklOQ0lBTCBZIERFIExBIFJFUFVCTElDQSBE
+RUwgRUNVQURPUjARBgorBgEEAYKmcgMiBAMMAS4wOwYKKwYBBAGCpnIDBwQtDCtBViBFTE9ZIEFM
+RkFSTyBONDAgNTkwIFkgQVYgREUgTE9TIEdSQU5BRE9TMBwGCisGAQQBgqZyAwIEDgwMTUFURU8g
+SkFWSUVSMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwODEyNzQyMBMGCisGAQQBgqZyAyEEBQwD
+UEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBkdBUkNJQTAsBgor
+BgEEAYKmcgMKBB4MHEFNQ0VDVUFET1IgQ09NUEFOSUEgTElNSVRBREEwHQYKKwYBBAGCpnIDCwQP
+DA0xNzkwOTkwMzYyMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAXBgorBgEEAYKmcgMEBAkMB01PTlRF
+Uk8wGgYKKwYBBAGCpnIDCAQMDAowOTk0MjM3Mjg0MA0GCSqGSIb3DQEBCwUAA4ICAQA7IhVsqjUr
+zYcZUCKE5D63gnG2dbxx/IucmdQIWyGk89jAJYK/kXNBv6zcrXTYuoM6MOPceWRGNvk27M1Vdko7
+5gNHHmno+AfRVZ4q1vMC3SufHMR5RJsoR/neejgLqiuRybzqE6vth8Hbr+jJapyqh4yx8pf3qU9J
+gyVNUJaBdkqgDuxMwL1/QGexX24+nfEZIXHevnGfGh+gTZF9MHJPuVtSOznl2IIGoQhChkZ3im6r
+WzgRRnJtbrLU6xQ4B1dWB+FIrSFcyE7y7vtoejztaCmamirvPhV2s/PiKw8Ac86IwfXj6WowlIWu
+bI0P4yjxsEJFRvTqLSh4oY+JhAxK989/ILS2VfzoAAaan0O9q/LO4cVQT55kt2U2VMVCdkyvol2g
+2Geelghed03Oq/aiCAj+4cz7CO6gF8vEikKcSGf7jPtOOJo/b3ORp7O8XLV6q/Ce3j0MWhhrtFAd
+jdjzQydY+wNu5HmSWoLN0+p40pf42Crrabj2uLlZiVQIVzkkhBdZdb6v0ZpiRYYl0VzqE+/iWctk
+wWVT4S1HRD498OMtESMjrZKOSROVujU7r2VGCl8DTV+9gqWC5wk2pk1ZO7AYfVAHNUdLtcZEpFFX
+SXSmwzY0jXuY40uJ5FkxLxOhHo31On9bGpvA2r3CPGdClTDginbtWP4L2pWwjI7mxQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sC/W05wHG0/28OrWcQFsoiSgmoTkHOpR5Kt5km+sz2+ZPm7VoUFEJWVJAHDgHzKAXH+tQIxuasi7
+W8sr+NgWwiVuorqQomLheRdF3baD52QRn/Sx8EvCjbQKcqkKGJMoVEHdwtVDM7f7TNuVNwFl6G1R
+EP1kkNdWSjOs8N5KeEVC86h1QQMn3frrNtkvOX6qM8jxZ1IVzQZ+TdtR+ERjZKCBobOiPav29JhE
+UTlMnMfXf0ybrqttEAMtjIIsqMEqK5BVC+9A9PMSmuxtQKModKkTBXE7Plex4AGZxd3DsqiwALnj
+O2b7bBpDwwqxdug/NHBR2WQyEd+rcKY27IfEDQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature455602-Object742448"><etsi:QualifyingProperties Target="#Signature455602"><etsi:SignedProperties Id="Signature455602-SignedProperties913365"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-02-10T12:53:15-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>RRdE05LAG/vtEyC4IOC7pPQ+sYY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>316665983</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-473840"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

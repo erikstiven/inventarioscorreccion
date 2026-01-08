@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>TECSEAL CIA LTDA</razonSocial>
+    <nombreComercial>TECSEAL CIA LTDA</nombreComercial>
+    <ruc>1793203621001</ruc>
+    <claveAcceso>0511202501179320362100120019010000002451234567814</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>901</ptoEmi>
+    <secuencial>000000245</secuencial>
+    <dirMatriz>OBISPO DIAS DE LA MADRID</dirMatriz>
+    <agenteRetencion>10</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>05/11/2025</fechaEmision>
+    <dirEstablecimiento>GARCIA DE LEON OE4-109 Y FRAY GASPAR DE CARVAJAL</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <direccionComprador>GUAYAQUIL S/N Y 5TA NORTE</direccionComprador>
+    <totalSinImpuestos>595.94</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>595.94</baseImponible>
+        <valor>89.39</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>685.33</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>685.33</total>
+        <plazo>1</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>P000000282</codigoPrincipal>
+      <codigoAuxiliar>P000000282</codigoAuxiliar>
+      <descripcion>SICONIT F (LIQUIDO)</descripcion>
+      <cantidad>4</cantidad>
+      <precioUnitario>99.99</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>399.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>399.96</baseImponible>
+          <valor>59.99</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P000000293</codigoPrincipal>
+      <codigoAuxiliar>P000000293</codigoAuxiliar>
+      <descripcion>SICONIT (PASTA)</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>97.99</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>195.98</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>195.98</baseImponible>
+          <valor>29.4</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="vendedor ">VENTAS JE</campoAdicional>
+    <campoAdicional nombre="correo ">diego.alvear@grupodmg.eclogistica.001@grupoadmg.comjvargasr5@yahoo.es</campoAdicional>
+    <campoAdicional nombre="ciudad ">PIÑAS</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-a479d126-8d5b-463c-b6cb-c63f11f72229"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-3a26bd83-c328-4d80-956f-1d5a5943e04c" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>6LZhb+yYSW62SvqlQ7Ug7U5utYk=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-a479d126-8d5b-463c-b6cb-c63f11f72229"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>QgR8eHE+Ct4vPUROVdbSOpLYrCs=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-a479d126-8d5b-463c-b6cb-c63f11f72229"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>rjKXQTim/T8YHgGwzUCAu0Of7UE=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-a479d126-8d5b-463c-b6cb-c63f11f72229">AjOdAbFFErM0HUd91wm90VdFFGFTBPNG2j7jPBGucQ5j+DV//lW6mqUsrIMQF/dPSf2KvVeA9W5/vhDnf/CCmt0jRJkW/oTVhuDpM84A8B0KD9iQWnbejy8l6Iv7nLaIpwB/6WNXvmSiIPXVsbXJY8+20+nDIJPg3zJgkT6wDVibBlejVM4VOjg7np5vHKWy0D2UBhxDDQdIN9HZJXWNYHuFCVXczFyRsoloK3IhSdtpIitf16ppgmmMFAsFl5QpKGoKZ1SDzcDNwggh6iE8sVX8HarYh8tlLR54F7Qf4XMyrlRwAHnTvR7Jr0q8OMXw7JRT0JKfQE77XuS/M03tKQ==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-a479d126-8d5b-463c-b6cb-c63f11f72229"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>mftJV94AlLCu5IeH5+bGKV9XO+dskCRzO7SiC9Wln/YSb+NI2LXD//uzhoZVF4h538YX0x0xh/gj+e+o1KxpJkDoRksWLiIxQRN0cPkwC2bzockvXXRw6GqYWNbHa6ZindqsG/NnoZotJFsyMaV7aFxai4MKKJHwGrmLTCpdcIfH0+hGinS7OqMGUqTM8jtHlzCGqM4X1Ev5ZmiGVsD2gM/dtTyjI/dxNc0j/xCOISwNNokc2lNiDnc2kFuGELVZcSTtJETlSxMvnUc0c3XedLw6He6U2j6cORxhMujyPPK6RXUq8bqfyo7iZf9nzpVpSs17D0SQlFd+leCGdkw64w==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-9073e63d-0912-4ea4-8a20-7954b43541bc"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-ef89cd1f-6c59-4f9d-9825-38345410ffba" Target="#Signature-a479d126-8d5b-463c-b6cb-c63f11f72229"><xades:SignedProperties Id="SignedProperties-Signature-a479d126-8d5b-463c-b6cb-c63f11f72229"><xades:SignedSignatureProperties><xades:SigningTime>2025-11-05T13:24:40-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>NL417G/Y0loQGdtlN4mtzKc0SYg=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA, OU=ANF Autoridad intermedia  EC, O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A., C=EC, SERIALNUMBER=1792601215001</ds:X509IssuerName><ds:X509SerialNumber>997598789773548379842544569</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-3a26bd83-c328-4d80-956f-1d5a5943e04c"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>

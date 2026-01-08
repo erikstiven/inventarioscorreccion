@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>CUEVA LUZON PATRICIO</razonSocial>
+        <nombreComercial>ELECTROTELSA</nombreComercial>
+        <ruc>0702250796001</ruc>
+        <claveAcceso>2909202501070225079600120010010000007456260147713</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000000745</secuencial>
+        <dirMatriz>Calle: ROCAFUERTE Numero: 1005 Interseccion: 9 DE MAYO </dirMatriz>
+        <contribuyenteRimpe>CONTRIBUYENTE NEGOCIO POPULAR - RÉGIMEN RIMPE</contribuyenteRimpe>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>29/09/2025</fechaEmision>
+        <dirEstablecimiento>Calle: ROCAFUERTE Numero: 1005 Interseccion: 9 DE MAYO </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+        <identificacionComprador>0992529679001</identificacionComprador>
+        <totalSinImpuestos>1476.04</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>1476.04</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>1476.04</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>1476.04</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>023</codigoPrincipal>
+            <descripcion>DS-2CD1143G2-LIU CAMARA IP DOMO LUZ HIBRIDA 4MP L 28MM CON MICR</descripcion>
+            <cantidad>10.0</cantidad>
+            <precioUnitario>80.22</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>802.20</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>802.20</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>014</codigoPrincipal>
+            <descripcion>CAJAS SOLERAS PARA CONEXIOND DE CAMARAS 100 X 100 X 55</descripcion>
+            <cantidad>10.0</cantidad>
+            <precioUnitario>6.49</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>64.90</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>64.90</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>037</codigoPrincipal>
+            <descripcion>DS-3E1518P-EI SWITCH POE 16 CH 10/100/1000MB + 1 10/100/1000MB + 1</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>227.68</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>227.68</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>227.68</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>038</codigoPrincipal>
+            <descripcion>UPS HIKVISION 2000VA/1200W 4 SALIDAS 2 BATERIAS 12</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>156.92</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>156.92</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>156.92</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>015</codigoPrincipal>
+            <descripcion>CABLE UTP CAT6 305 MTS EXTERIOR NEWLINK</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>224.34</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>224.34</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="CABLE UTP CAT6 305 MTS EXTERIOR NEWLINK"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>224.34</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">072937375</campoAdicional>
+        <campoAdicional nombre="Email">fernanda.paccha@grupoadmg.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-b14f24a6-3f3c-463a-80b6-a3a1c2ad7c15"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-b14f24a6-3f3c-463a-80b6-a3a1c2ad7c15-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ZSsLU/XfG37xYaUFqs1VMiJCh1A/wuRv2fKZaHkHxmU=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-b14f24a6-3f3c-463a-80b6-a3a1c2ad7c15-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>WbeKOGmhWh7gjdKUvUs/v4ehaYDK0Hrz3w5GDfkO4L4=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-b14f24a6-3f3c-463a-80b6-a3a1c2ad7c15-sigvalue">YFiHwi2VHaDa+YrmUkn7t3dOhpLgcXXkNmnmOqkEoGmQeMRABK3j/AoZN3Ms4OgZRr31oEGITitePJiDmRHMiXkGI8JTIfDEYz1E1p+vli39cEyLoVOJOrYKDrmd+6MgoZJLwkjL00k2JjYkmrCnYCjyd6ZlJnKabtX4z46UxKsJu6Mk1xyHNAICkckQRyhfaoRuPbGz8iykppkv3/i7Og6Y0dBAkgKzaa50kmlRKGfoLpNOA+8t8HX4zX6PgLwS1pggdoDR19lqPg6TBGlAk8BM3ZO8eSYVE6AyGmpWt497w1H8ReR3za2+9eGQVWiZYca5z6o7Lj8c43VPZI1u8A==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIILvzCCCaegAwIBAgIEA5NYPDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEwMTgxNzI0MTBaFw0yNTEwMTcxNzI0MTBaMIGUMR0wGwYDVQQDDBRQQVRSSUNJTyBDVUVWQSBMVVpPTjEVMBMGA1UEBRMMMTgxMDIyMTIzMzU2MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALEwHI3EI3PPvFAkhVX5+q/FKPciuB8kFMYO1aIkg1CMWAIa3hUw4NFWL4opzJxh2/cWi9oviCiPFCKjWaqZAo+FswSBrVMMFTgLMjlenVN2rZb+A2cfNJfI8jgaIsdUiqdVLBqdWvQyp+aTkIZgvKU1qoDm4jesTClrxX8CPAuqb8FQRgYPQAj+3BrEFxmfckNhUoGVrvSI9U19mKuzyYv0ld1YTfkQQN6STGd89LZrpffbKjWxzCHUIhhEchYP1wJf+aTT05ZNMQ2U/OlTS+LERqEEiWjSniAgFtFoqvV3UCh885V2y8dWgkfbTgnQEUvMJsfFI1E+HV+5E9rd7ksCAwEAAaOCBxAwggcMMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCUGA1UdEQQeMByBGmVsZWN0cm90ZWxzYS5uZXRAZ21haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFNQQnlDCIlEm5CREfgNYk/uaedseMCsGA1UdEAQkMCKADzIwMjIxMDE4MTcyNDEwWoEPMjAyNTEwMTcxNzI0MTBaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjA3MDIyNTA3OTYwFwYKKwYBBAGCpnIDCQQJDAdNQUNIQUxBMBEGCisGAQQBgqZyAyIEAwwBLjArBgorBgEEAYKmcgMHBB0MG1JPQ0FGVUVSVEUgMTAwNSBZIDkgREUgTUFZTzAYBgorBgEEAYKmcgMCBAoMCFBBVFJJQ0lPMB8GCisGAQQBgqZyAyAEEQwPMDA2MDAxMDAwMDE4MjIxMBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFQYKKwYBBAGCpnIDAwQHDAVDVUVWQTARBgorBgEEAYKmcgMeBAMMAS4wHQYKKwYBBAGCpnIDCwQPDA0wNzAyMjUwNzk2MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAVBgorBgEEAYKmcgMEBAcMBUxVWk9OMBoGCisGAQQBgqZyAwgEDAwKMDk4MTM2Nzc4NjANBgkqhkiG9w0BAQsFAAOCAgEAPnRqb5w7bPoqEibQ8KDohTIeWFNIMpMYe8Ghsl3EML6arAbVytO275dbviBiIrhCwo5waHbxw/bPLwl0e5CDs1pyOZ56KxXg5rmNn9/z+80KJ3VSBZEe7Cc4TzDBQViDWQLkW8k7UEyHnmWEA/fhj7nKaCqHb9IAeQ74aNEEZUAHhQt6S3A8B7PMB5Lqqf+Qo7itT76h4zW4uOcMo1n1MtGd/sDNgNqtXNT78BYBqo23oeDi7q78MRXYHVHoYmDwg49vhpTgJn/Crgf/i5C7b8mkRezUFGcY4esctQ3r2fJHZQsHIQsTl0QAxGs1q2krHq5S/z2RdutDCn5mjBjyCyUuMhUX8mgJyWqKGv93ngIw0F28ZIT92aATbAP1eXDQbwj9iMATfWbvFWbGCtonW0gGEXYJcWxpzuad0o3He4u7jzJjqpTn30fqzGlUUqjz71rFrqxbxn1JwgHzSP5haed3G4oV/z+s2FNppYO0t2P5SYbFGQ6r4GQtn92WuEQyeOXunyFqMgWvsWbWBtAYqZCIU6oRE965b0cZNi4UAsyG3QdiMlGUlyCFnJ8s/0mLecOB2vCdI3z73RhUqSGWZc5WD8mxCaJysXyPg8AvU8+MbUzWgKdoyb816wEAo7S2B4BXGC3XrHtGKCn59jou+IvvMHD/nPto6p84kKSh0R0=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-b14f24a6-3f3c-463a-80b6-a3a1c2ad7c15"><xades:SignedProperties Id="xmldsig-b14f24a6-3f3c-463a-80b6-a3a1c2ad7c15-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2025-09-29T08:22:27.950-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>XCyZYNWqR2OwxygQsJo6uifaKkfncPOxAbPFL3tDMlI=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>59988028</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-b14f24a6-3f3c-463a-80b6-a3a1c2ad7c15-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>

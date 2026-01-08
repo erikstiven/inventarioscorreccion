@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>EDUARDO ABEL VEINTEMILLA GUERRA  </razonSocial><nombreComercial>ARTESANO CALIFICADO 210894</nombreComercial><ruc>0704256619001</ruc><claveAcceso>2610202501070425661900120010010000019903234567815</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000001990</secuencial><dirMatriz>CIUDADELA NUEVA PONCE ATRAS DE FERRETERIA BRAVO</dirMatriz></infoTributaria><infoFactura><fechaEmision>26/10/2025</fechaEmision><dirEstablecimiento>YANTZAZA BARRIO PITA TRONCAL AMAZONICA Y SUCUMBIOS</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>BELORO</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><direccionComprador>GUAYAQUIL S/N Y QUINTA NORTE ESQUINA </direccionComprador><totalSinImpuestos>130</totalSinImpuestos><totalDescuento>0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><descuentoAdicional>0</descuentoAdicional><baseImponible>130</baseImponible><valor>0</valor></totalImpuesto></totalConImpuestos><importeTotal>130.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>130.00</total><plazo>10</plazo><unidadTiempo>dia</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>8</codigoPrincipal><codigoAuxiliar>8</codigoAuxiliar><descripcion>ELABORACION DE MANGUERA R1 3/16 acoples originales </descripcion><cantidad>2.00</cantidad><precioUnitario>45.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>90</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>90</baseImponible><valor>0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>3</codigoPrincipal><codigoAuxiliar>3</codigoAuxiliar><descripcion>acopladas en manguera  3/16</descripcion><cantidad>4.00</cantidad><precioUnitario>10.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>40</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>40</baseImponible><valor>0</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="RÉGIMEN GENERAL">RÉGIMEN GENERAL</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature667586">
+<ds:SignedInfo Id="Signature-SignedInfo524377">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID817042" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature667586-SignedProperties931893">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>QHidfv2M7v5EUKrwuzl0kQ+SiXg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate123081">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>A33vy7KshE/Ms8LOtvLWCuSWFfo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-788212" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>F97oI7rseg7oyKLiEHF01KoFxos=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue355320">
+d9Zzuq4KrNBmT/CnRO2Rwp6mJSbb3kkWnWPQ3kepJ49h3NT7byQ4RYO57InRIRy5pJ5seoFg4ZyX
+jGC2MhAHcsIZ87iND3Wd5QaIWmOsYZdPiVG6jFEybLuWT6uM/xdiBBzeK7hT5uQX6TA071v9lhPh
+bhNgaPkUwKDKz38U3P7yQWlTxbPiVY4IIrkfzVP5Zr2nLPHqO2EoArxewW+axALjWZHN8n43SqZD
+9TcUxNx1IAR44Ft0m3eHUx0OG2Lo8yz/TFDRM7pXRSuEtH+JyWeSZTDnDAp/J2doWLbp7BMRqYge
+0JtBQSTsRZ8gT2PqiqahbMVXYC2V6xuUKsvyPQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate123081">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHxTCCBq2gAwIBAgIFAMIAc4MwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI0
+MTEyMTIwNDQxNVoXDTI2MTEyMTIwNDQxNVowgZ8xCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEpMCcGA1UEAwwg
+RURVQVJETyBBQkVMICBWRUlOVEVNSUxMQSBHVUVSUkExKDAmBgkqhkiG9w0BCQEWGWluZm9AY29u
+bmVjdGFzZXJ2aWNlcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCqwoPkzZIu
+mPHOT5jwPWXI6IJQbxS6FBqLWDA07IQgidhBPbPHgd/pFoIAYcBOwbMqs61ljIv8Tb9IqqX4671V
+qHr1bXV2TjiUIQH0To0txpS8oHga6aduQaCcl2gjb6Mz82jbBIQcAg+E6rd9XGL04fIOqtigA+Yu
+GMEVDJkWyjOxh0wqgKxlkkldrERt8w9SBLppl9p7PX4S5rZQSASFEWpu3sPwVKt1bFzIVtCWCu7Q
+J/g7ZU9lskmZ7s3pwHio0lhPe7VqCiu3VZL5yxJqCQiVemWUuTJaLx4Or1lXxJk/ntKX+PjE28cz
+jOU5SyuiHR8HJRgER1BeVxReAREXAgMBAAGjggRdMIIEWTAaBgorBgEEAYPPdgMBBAwMCjA3MDQy
+NTY2MTkwHAYKKwYBBAGDz3YDAgQODAxFRFVBUkRPIEFCRUwwGwYKKwYBBAGDz3YDAwQNDAtWRUlO
+VEVNSUxMQTAWBgorBgEEAYPPdgMEBAgMBkdVRVJSQTAXBgorBgEEAYPPdgMHBAkMB01BQ0hBTEEw
+GgYKKwYBBAGDz3YDCAQMDAowOTg3MzY5MTYzMBcGCisGAQQBg892AwkECQwHTWFjaGFsYTAXBgor
+BgEEAYPPdgMMBAkMB0VDVUFET1IwHQYKKwYBBAGDz3YDCwQPDA0wNzA0MjU2NjE5MDAxMAwGA1Ud
+EwEB/wQCMAAwHQYDVR0OBBYEFC4CeEl0+jdyQK9yQqGyij8AK6D/MB8GA1UdIwQYMBaAFO12SLAK
+8cmGhgxMRmTSBvjM1b0+MA4GA1UdDwEB/wQEAwIF4DA6BgNVHR8EMzAxMC+gLaArhilodHRwOi9l
+bmV4dDIueHl6L0xhenphdGVDQTIvZW1pc29yQ0EyLmNybDCCAYQGA1UdIASCAXswggF3MHwGCisG
+AQQBg892AgEwbjBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0
+aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEu
+IEx0ZGEuMIH2BgkrBgEEAYPPdgIwgegwbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUgY2VydGlm
+aWNhZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRl
+IExhenphdGUgQ2lhLiBMdGRhLjB4BggrBgEFBQcCAjBsGmpFbCBwcmVzZW50ZSBjZXJ0aWZpY2Fk
+byBzdWJvcmRpbmFkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1
+cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMIIBAAYDVR0RBIH4MIH1oBoGCisGAQQBg892AwGg
+DAwKMDcwNDI1NjYxOaAcBgorBgEEAYPPdgMCoA4MDEVEVUFSRE8gQUJFTKAbBgorBgEEAYPPdgMD
+oA0MC1ZFSU5URU1JTExBoBYGCisGAQQBg892AwSgCAwGR1VFUlJBoBcGCisGAQQBg892AwegCQwH
+TUFDSEFMQaAaBgorBgEEAYPPdgMIoAwMCjA5ODczNjkxNjOgFwYKKwYBBAGDz3YDCaAJDAdNYWNo
+YWxhoBcGCisGAQQBg892AwygCQwHRUNVQURPUqAdBgorBgEEAYPPdgMLoA8MDTA3MDQyNTY2MTkw
+MDEwPAYIKwYBBQUHAQEEMDAuMCwGCCsGAQUFBzABhiBodHRwOi8vZW5leHQyLnh5ejo4Nzc3L2Fk
+c3Mvb2NzcDANBgkqhkiG9w0BAQsFAAOCAQEAz7Lk1gFd1pYbSvHIekCjrQJwQQtkgH5VN1hQM0Nw
+b+hdx/IjY9GLax/wlgM+OMrh0vsdFwjVYJI6kalcrnIjNlDg4HJ2c8EtdK29Ne8ddYujHwk+xxia
+6MXuZm+UC9fBA/HRog9cKo/g/p3CXJsd/mFTeMh1VbQeS6R+XvCZPPQFrsaDWuUhgTa3MEIYRl7A
+oX1D6C6k6dRp02bYI6gkfMEB4Qzwm+FKHfPYjLSdWjCBJC+OfdupedWw1R25ggXhMRn2g9lD8/ht
+l80wN29q00ivFDzLMg0x6S82jk7mJCKAfSUHno2GqC1dzHe3h4zBrGoOa2cLYFTvr0rfxk31Fw==
+
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qsKD5M2SLpjxzk+Y8D1lyOiCUG8UuhQai1gwNOyEIInYQT2zx4Hf6RaCAGHATsGzKrOtZYyL/E2/
+SKql+Ou9Vah69W11dk44lCEB9E6NLcaUvKB4GumnbkGgnJdoI2+jM/No2wSEHAIPhOq3fVxi9OHy
+DqrYoAPmLhjBFQyZFsozsYdMKoCsZZJJXaxEbfMPUgS6aZfaez1+Eua2UEgEhRFqbt7D8FSrdWxc
+yFbQlgru0Cf4O2VPZbJJme7N6cB4qNJYT3u1agort1WS+csSagkIlXpllLkyWi8eDq9ZV8SZP57S
+l/j4xNvHM4zlOUsroh0fByUYBEdQXlcUXgERFw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature667586-Object630738"><etsi:QualifyingProperties Target="#Signature667586"><etsi:SignedProperties Id="Signature667586-SignedProperties931893"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-10-26T09:28:05-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Kx0Z6DxVqnVZA8M5ElLmAv6P2D4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>C=EC,O=Lazzate Cia. Ltda.,CN=Lazzate Emisor CA2</ds:X509IssuerName><ds:X509SerialNumber>3254809475</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-788212"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

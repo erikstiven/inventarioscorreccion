@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MURILLO VERA ANGEL FERNANDO</razonSocial>
+        <nombreComercial>MURILLO VERA ANGEL FERNANDO</nombreComercial>
+        <ruc>0703286138001</ruc>
+        <claveAcceso>1709202501070328613800120011000000003007168736815</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000300</secuencial>
+        <dirMatriz>Barrio: EL JARDIN Calle: VIA A LAS 2 PIEDRAS Numero: S/N Interseccion: A POCOS METROS DE LA CHORRERA Manzana: SN Supermanzana: SN </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>17/09/2025</fechaEmision>
+        <dirEstablecimiento>Barrio: EL JARDIN Calle: VIA A LAS 2 PIEDRAS Numero: S/N Interseccion: A POCOS METROS DE LA CHORRERA Manzana: SN Supermanzana: SN </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>COMPANIA MINERA MACHALA S.A. COMIMACH</razonSocialComprador>
+        <identificacionComprador>0991369236001</identificacionComprador>
+        <totalSinImpuestos>1390.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>1390.00</baseImponible>
+                <valor>208.50</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>1598.50</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>1598.50</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>008</codigoPrincipal>
+            <descripcion>LITRO DE ALCOHOL INDUSTRIAL..</descripcion>
+            <cantidad>1000.0</cantidad>
+            <precioUnitario>1.39</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1390.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>1390.00</baseImponible>
+                    <valor>208.50</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">sleitercorte2000@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-ce744e5d-7aba-4553-80fd-827c8f4b17dc"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-ce744e5d-7aba-4553-80fd-827c8f4b17dc-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>sZeo4tuqEY6LGeeENKgb494HWSOJsHAp/Kt5joySuUA=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-ce744e5d-7aba-4553-80fd-827c8f4b17dc-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>DMCS85iyebi0neOlMwhFZ2xQyFkLFCZIweCUyzDZaf0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-ce744e5d-7aba-4553-80fd-827c8f4b17dc-sigvalue">ZlGeqCz2HaD0JUTkKe7fQzzK4CQl8q9Cn7FEBhltcLxG+b9r+dEumfDQ9L2LP8zlUuuZsaKvO9h+hAS3CihTmh2zJD982WgYgZDulskkEnnAeJasD/aXrcOmZrq4OokfUAUy66t26atlNppPQxf2sZPLICa3prdeM7Trdq2ia9XYQF9U8/x2OFt2gNz8mwbZBmI9xMb4oKbtLwp8OdVS46+ttjbP+9IKvG72RK01eTreU3TXTyInDlQOvAQtLS8ZolUt+BrY3DkoYMfci5dOolWOEmhjqfPVrbE7NMx9EWBljktL5gr1lV7ls9KscNJX4VoxB6dcWIIKHAAM2uzKpQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-ce744e5d-7aba-4553-80fd-827c8f4b17dc"><xades:SignedProperties Id="xmldsig-ce744e5d-7aba-4553-80fd-827c8f4b17dc-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2025-09-17T11:13:18.413-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>fC0curYpIBW1cnqoXuOqO2eb+xZm1SZekRJDveUmkg4=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA,OU=Ente de Certificacion,O=Lazzate Cia. Ltda.,2.5.4.97=#13053539333832,1.2.840.113549.1.9.1=#1615636572746966696361646f7340656e6578742e6563,L=Quito,ST=Quito - Pichincha,C=EC</ds:X509IssuerName><ds:X509SerialNumber>554960182256558215337699973333501848167283938587</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-ce744e5d-7aba-4553-80fd-827c8f4b17dc-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>

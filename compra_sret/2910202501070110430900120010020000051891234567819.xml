@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<factura id="comprobante" version="2.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>JIMENEZ ASTUDILLO REY CLOTARIO</razonSocial>
+        <nombreComercial>REPUESTOS PARA MINERIA "JIMENEZ"</nombreComercial>
+        <ruc>0701104309001</ruc>
+        <claveAcceso>2910202501070110430900120010020000051891234567819</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>002</ptoEmi>
+        <secuencial>000005189</secuencial>
+        <dirMatriz>ROCAFUERTE E/NAPOLEON MERA Y 23 ABRIL</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>29/10/2025</fechaEmision>
+        <dirEstablecimiento>ROCAFUERTE E/NAPOLEON MERA Y 23 ABRIL</dirEstablecimiento>
+        <contribuyenteEspecial>011</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>BELORO CL</razonSocialComprador>
+        <identificacionComprador>0992529679001</identificacionComprador>
+        <direccionComprador>CDLA LOS JARDINES</direccionComprador>
+        <totalSinImpuestos>27478.27</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+        <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>4</codigoPorcentaje>
+            <baseImponible>27478.27</baseImponible>
+            <valor>4121.74</valor>
+        </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>31600.01</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+        <pago>
+            <formaPago>20</formaPago>
+            <total>31600.01</total>
+            <plazo>30.00</plazo>
+            <unidadTiempo>Días</unidadTiempo>
+        </pago>
+    </pagos>
+    <valorRetIva>0</valorRetIva>
+    <valorRetRenta>0</valorRetRenta>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>MAQ01</codigoPrincipal>
+            <codigoAuxiliar>MAQ01</codigoAuxiliar>
+            <descripcion>MAQUINA NEUMATICA EPIROC CON PIE AVANCE YT27</descripcion>
+            <cantidad>30.0000</cantidad>
+            <precioUnitario>652.170000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>19565.22</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>19565.22</baseImponible>
+                    <valor>2934.78</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>LUBR01</codigoPrincipal>
+            <codigoAuxiliar>LUBR01</codigoAuxiliar>
+            <descripcion>LUBRICADORAS ATLAS COPCO</descripcion>
+            <cantidad>10.0000</cantidad>
+            <precioUnitario>86.960000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>869.57</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>869.57</baseImponible>
+                    <valor>130.44</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>MAG039</codigoPrincipal>
+            <codigoAuxiliar>MAG039</codigoAuxiliar>
+            <descripcion>MANG ALFFLEX MAYA NEGRA 100 R-1 1"</descripcion>
+            <cantidad>100.0000</cantidad>
+            <precioUnitario>13.040000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1304.35</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>1304.35</baseImponible>
+                    <valor>195.65</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>YT27062</codigoPrincipal>
+            <codigoAuxiliar>YT27062</codigoAuxiliar>
+            <descripcion>PARTE #1 MAQUINA FRONT HEAD  YT27 # 62</descripcion>
+            <cantidad>15.0000</cantidad>
+            <precioUnitario>156.520000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2347.83</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>2347.83</baseImponible>
+                    <valor>352.17</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>LINTWISD01</codigoPrincipal>
+            <codigoAuxiliar>LINTWISD01</codigoAuxiliar>
+            <descripcion>LINTERNA WISDOM BATERIA KL5M</descripcion>
+            <cantidad>60.0000</cantidad>
+            <precioUnitario>56.520000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>3391.30</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>3391.30</baseImponible>
+                    <valor>508.70</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="DIRECCION:">CDLA LOS JARDINES</campoAdicional>
+        <campoAdicional nombre="CORREO:">beloro.facturacion@grupodmg.ec</campoAdicional>
+    </infoAdicional>
+<ds:Signature Id="Signature70650" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo Id="Signature-SignedInfo57444"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID76326" URI="#Signature70650-SignedProperties53168" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>WDP4XGxKu9+IKg/F8G0C/5Sn6mo=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate64794"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>CwDZNkaKc9loS3lxjrtIuV5YzVg=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-92838" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>nW/Px7Pkoo+jOUYnFrwdBIbZA74=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue79585">EC4g/OuSkYFuifU+OzPHRBMRJYi4rCTXl4yuegDwaUygeHKTzbQsLxMi7NnV/44vjw8lEMjXwUr4
+NeAkRwyxqsf/k4u0g1cXpXeEZi/t9NpBD9r79nnLi9bPokky4TriMs0EdfRKgcY4Zr89dY2HKaxQ
+H8EyC/zZIUZnQJBMujHQoxRUr5Y7ij4KqixcsmNxmmgTVYRfFRXC+E11+05mcKFAx3rXfSgH+uQ4
+im3OZxkrb5HIg7Ppvkt43lCmiMrma/bPymmD06ktOOQpASXRy2S955+SqXv2v2lMIX1EJYKt3jO8
+9ZZTESDUT0WFunxxX6YytBHq+9BqhMy1Qv1xiA==</ds:SignatureValue><ds:KeyInfo Id="Certificate64794"><ds:X509Data><ds:X509Certificate>MIIL7DCCCdSgAwIBAgIEQYXGNjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDAxMjcxNTE2MjVaFw0yNjAxMjYxNTE2MjVaMIGpMScw
+JQYDVQQDDB5SRVkgQ0xPVEFSSU8gSklNRU5FWiBBU1RVRElMTE8xIDAeBgNVBAUTFzA3MDExMDQz
+MDktMjcwMTI0MTAyNjExMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMRiE2EI6b5pTHOH0Ktssf5WJyph0MOlB5HS6Ea6
+ITZtzuwfTQgXGADYfdr44uqoHXNBp7tWcAHaeJS0rElzzMt2c/EPh+r8A1V5/T829IKvWUa4xq+W
+NRnZHH+Q3IgMXJByYcF3qpfcP5Wsm+E6h8Q2bEJDBQeNqSrrcartycF1/4IHjU7cfupAROfXVQRI
+HCrstX3IGoYYvaxWaL2mXCArQtsY/qDH/7fD4tE/Io0WK6brhEOpgQlk+OWht5/536l+UW/4wQcj
+qBARtLnJJTFMlcT5ngf6TP+GfpiD5qXeUckFaVvU3W50+Gu2mVwvXHvbcuue3pnlAkJGka0fd10C
+AwEAAaOCBygwggckMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMCUGA1UdEQQeMByBGnJleWppbWVuZXoyMDI0QG91dGxvb2suY29t
+MIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABp
+AGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisG
+AQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVj
+L3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRp
+Y2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB
+5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0
+YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3Qv
+Y2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFBq89X+FNXljCYCuFLfP
+WktvelyTMCsGA1UdEAQkMCKADzIwMjQwMTI3MTUxNjI1WoEPMjAyNjAxMjYxNTE2MjVaMAsGA1Ud
+DwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjA3MDExMDQzMDkwFwYKKwYBBAGCpnIDCQQJDAdNQUNI
+QUxBMBEGCisGAQQBgqZyAyIEAwwBLjA8BgorBgEEAYKmcgMHBC4MLFJPQ0FGVUVSVEUgUyBOIFkg
+MjMgREUgQUJSSUwgWSBOQVBPTEVPTiBNRVJBMBwGCisGAQQBgqZyAwIEDgwMUkVZIENMT1RBUklP
+MB8GCisGAQQBgqZyAyAEEQwPMDA2MDAxMDAwMDU3ODQwMBEGCisGAQQBgqZyAyMEAwwBLjATBgor
+BgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJ
+DAdKSU1FTkVaMBgGCisGAQQBgqZyAx4ECgwIRU1QTEVBRE8wHQYKKwYBBAGCpnIDCwQPDA0wNzAx
+MTA0MzA5MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAZBgorBgEEAYKmcgMEBAsMCUFTVFVESUxMTzAQ
+BgorBgEEAYKmcgMIBAIMADANBgkqhkiG9w0BAQsFAAOCAgEArhlIPq6PCjmMLei+ZWhFkcc/mh4/
+wKNf2Bx79D18KhkN3kPGJKRa3KNDWyJDwzXp49KTY8uJBf14++1EKmL9ncx/q79euLE7eIHJPipS
+zRBXt77Jf8xmDYbtep834nyKPgMNd6LV8E3Br20j0uQ2ubBO1IsfnZffe8XWQv75NMRKZ9cXy91/
+Pnh9WQsSuNmuKRfRWASyXKXPhEA69EDNX9116mippLy2F/R2OyEkwXZ1NUtkkOiZ5nTBr/U/S8ax
+yhOM8fhe9lwrWaxHm59rDwW3MVVJrlUsIynCTFT6BnCuHG4JzCEygyzHdotmJGTR96jmQ7J0H6k6
+i/hSo3ovHnatiw3UFdZw9ilC/HhKR15Jr97BZDauw0H0eD1iy+icaxRa6480AoeXrgdBov0N623T
+KjIgOftcZ1eX5UrNo13/D76sAn1tXLimGflhOlugwxIhzBlCI+0w+rFwIjVoTuHzCqWtYD1cuKbr
+A4Ak5kGkhHkdjoidfDha94tYgJEwtquDWFKEb4IWH1Ok3j5KrRzYyg1BFXZ+0KGqLdHi3TCI+XXY
+aHZHjPIpBot054Tca6WAz014xZwTBYLjE50hbtb5JAmp8jeAoThX437CJgUoV1ypjAF0qSJrsiGm
+RRpVOc4wZka/Uj4QRrpkSdI4+KKEGLTWvgDeiR6vmKTG1qI=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>xGITYQjpvmlMc4fQq2yx/lYnKmHQw6UHkdLoRrohNm3O7B9NCBcYANh92vji6qgdc0Gnu1ZwAdp4
+lLSsSXPMy3Zz8Q+H6vwDVXn9Pzb0gq9ZRrjGr5Y1Gdkcf5DciAxckHJhwXeql9w/layb4TqHxDZs
+QkMFB42pKutxqu3JwXX/ggeNTtx+6kBE59dVBEgcKuy1fcgahhi9rFZovaZcICtC2xj+oMf/t8Pi
+0T8ijRYrpuuEQ6mBCWT45aG3n/nfqX5Rb/jBByOoEBG0ucklMUyVxPmeB/pM/4Z+mIPmpd5RyQVp
+W9TdbnT4a7aZXC9ce9ty657emeUCQkaRrR93XQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature70650-Object55616"><etsi:QualifyingProperties Target="#Signature70650" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#"><etsi:SignedProperties Id="Signature70650-SignedProperties53168"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-10-29T11:06:33-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>3TKJMPMv+Ndf5Mvy4MEpXoo5ND0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1099286070</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-92838"><etsi:Description>Servicios IT, Luis Orellana Escalante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

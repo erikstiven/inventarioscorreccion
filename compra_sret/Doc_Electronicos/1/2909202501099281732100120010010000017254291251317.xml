@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>GRUAPOLI S.A. GRUAS Y POLIPASTOS DEL ECUADOR</razonSocial>
+	    <nombreComercial>GRUAPOLI S.A. GRUAS Y POLIPASTOS DEL ECUADOR</nombreComercial>
+	    <ruc>0992817321001</ruc>
+	    <claveAcceso>2909202501099281732100120010010000017254291251317</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000001725</secuencial>
+	    <dirMatriz>AV. JOSE RODRIGUEZ BONIN Y SANTA ANA / SOLAR 21 MZ. 305 SAN EDUARDO II, DIAGONAL AL CONSULADO AMERICANO</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>29/09/2025</fechaEmision>
+		
+			<dirEstablecimiento>AV. JOSE RODRIGUEZ BONIN Y SANTA ANA / SOLAR 21 MZ. 305 SAN EDUARDO II, DIAGONAL AL CONSULADO AMERICANO</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>MINERA BEORO C.L.</razonSocialComprador>
+	    <identificacionComprador>0992529679001</identificacionComprador>
+		<direccionComprador>Calle 5ta Norte y Guayaquil e/ Machala</direccionComprador>
+	    
+	    <totalSinImpuestos>4450.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>4450.00</baseImponible>
+				<valor>667.50000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>5117.50000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>5117.50</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>TCEELE-TXK50T00M</codigoPrincipal>
+		<codigoAuxiliar>TCEELE-TXK50T00M</codigoAuxiliar>
+      	<descripcion>TECLE TRIF. 5 TON TXK CON TROLEY 220/440V</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>4450.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4450.00</precioTotalSinImpuesto>
+	  
+	  
+	  	<detallesAdicionales>
+			
+    			<detAdicional nombre="Detalle" valor="4 m de recorrido"/>
+    		
+      	</detallesAdicionales>
+      
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4450.00000</baseImponible>
+          <valor>667.50</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">PED #2058046 _ CG 3001</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature814389">
+<ds:SignedInfo Id="Signature-SignedInfo306988">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID772149" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature814389-SignedProperties980169">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rFFGhXeabrOFjGPmu2wKKaesHFI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate355916">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ZdDiFLCbMkXokgjZo0gfNqfJ/Dg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-439182" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>XfbfTewOxJFWjGIVMo+FUds7kq0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue337588">
+MXDslx89EcbVU8M8lIlGJpu6XXZTzeWmNYCTAtl/1EAemAJJV/ZD1WbjeLP1kA1NsDegJgz24DPz
+hhYwTVfcQrCjBSZCQ6umglZiwEIuI4db5S8egsDwvIJvJ8P1+F74UfX8W7PoE/NQrdUSslsOMa0r
+vOsgoySEM1E1TU+Rtk/aJgjOzJL8Ky/A1WTlBz5X9v11ERbzmWfXshEJOBP7fabnaLgE2yE2PbJy
+Fcy9XjWFGzhvTlhJcsJiwZp+7vO35CbWWi9zHp88dYbcB3nxy60YiR40QkVSco1L7VKqoVnOTdp2
+3/UHgNJxJtxOLy2gQoe0HzhaV8ial2SpWvAtmA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate355916">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ4jCCB8qgAwIBAgIIMkJ1DnYBnGAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDYyNDIyMjgwMFoXDTI2MDYyNDIyMjgwMFowge8xCzAJBgNVBAYTAkVDMTUwMwYDVQQKDCxH
+UlVBUE9MSSBTLkEuIEdSVUFTIFkgUE9MSVBBU1RPUyBERUwgRUNVQURPUjEYMBYGA1UEDAwPR0VS
+RU5URSBHRU5FUkFMMRYwFAYDVQQEDA1ST0JMRVogVVJFw5FBMRcwFQYDVQQqDA5NSUxUT04gVklD
+RU5URTEZMBcGA1UEBRMQSURDRUMtMTEwMzI5MjA4MDElMCMGA1UEAwwcTUlMVE9OIFZJQ0VOVEUg
+Uk9CTEVaIFVSRcORQTEcMBoGA1UEYQwTVkFURUMtMDk5MjgxNzMyMTAwMTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAIzsUjGF7UKX5/piHZpTkaOqzMEo7ss7bxiPCT67ZmB2AN+pt7sG
+auBtXG35CG5gw5ORAC5vweRUbXFTySk4cH6JEowSc5ynkK6zZcHpECySRtiDJO5blkRLj2BckGvr
+Kx34deOT7aQjfxIuVCd+PcX4PglymWjw+awdSYOnvhCbJ3wiUkQQMMjgzuA9dLkFYzN7A2g0Y1rU
+Qezom6K2RTu2u7cpgvIT8eWBijNHYhVVzsX06BsO/sMVaQxiYwk8Ber4ERnTBQdRjcVa06aeQt7q
+uKqPUi08qOVoebX7DGfQEOgjN2KIM5dgHnELzb57D7OumeDpujjpPJzI+aX2630CAwEAAaOCBLUw
+ggSxMBsGCysGAQQBgvE2ZgMBBAwMCjExMDMyOTIwODAwHgYLKwYBBAGC8TZmAwsEDwwNMDk5Mjgx
+NzMyMTAwMTCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQw
+NgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2
+BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0G
+A1UdDgQWBBTscAKI84u6TL0Y+w7y/Jtoiu+sGTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X
+52BzzgdGqeKjaPDhEbJ0knP9MIGOBgNVHSAEgYYwgYMwgYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsG
+AQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMDUGCCsG
+AQUFBwICMCkMJ0NFUlRJRklDQURPIERFIFJFUFJFU0VOVEFOVEUgRU4gQVJDSElWTzCBjwYDVR0f
+BIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Ey
+c3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3Br
+aS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEF
+BQcDAgYIKwYBBQUHAwQwggH2BgNVHREEggHtMIIB6YEVZ2VyZW5jaWFAZ3J1YXBvbGkuY29toBsG
+CysGAQQBgvE2ZgMBoAwMCjExMDMyOTIwODCgHwYLKwYBBAGC8TZmAwKgEAwOTUlMVE9OIFZJQ0VO
+VEWgFwYLKwYBBAGC8TZmAwOgCAwGUk9CTEVaoBcGCysGAQQBgvE2ZgMEoAgMBlVSRcORQaAgBgsr
+BgEEAYLxNmYDBaARDA9HRVJFTlRFIEdFTkVSQUygTQYLKwYBBAGC8TZmAwegPgw8VEFSUVVJIC8g
+QVYuIEpPU0UgUk9EUklHVUVaIEJPTklOIFNPTEFSIDIxIFkgQ0FMTEUgU0FOVEEgQU5BoB8GCysG
+AQQBgvE2ZgMIoBAMDjAwNTkzOTg1MTExMTc0oBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKA9
+BgsrBgEEAYLxNmYDCqAuDCxHUlVBUE9MSSBTLkEuIEdSVUFTIFkgUE9MSVBBU1RPUyBERUwgRUNV
+QURPUqAeBgsrBgEEAYLxNmYDC6APDA0wOTkyODE3MzIxMDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVD
+oCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VOVEFOVEUgTEVHQUygGAYLKwYBBAGC8TZmAzOgCQwH
+QVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAaQqyFl5w0KpEngiVNaHO43v3CjS5hGDSQUFZo44g
+Tl4aJqxG364WK07AogX47ZEhAs0/HRAvpPmYlLwZZYxfcLQC6ejShhzscA5tMERSB/ml3BegYcPO
+KcfU5eVVk+O887mxkiZlCRinOhOuXs3JJzrEzZzLXX4ufSlYppuNqWFv73XvOxMzPAPBaUNdXuue
+1voEovx/U3LAY90LbAHHGLEdGI68taKDRM3GlogjtwXhwN+oZO3FuJNkfFxI35PFtVhndLs7+Y02
+9mPeaujG2Z993v90kWbiGR8X+qy0SYRtO8KsG3tOv8Dn1Luk/JO8aKle2Bdmphce+VNmtdA7fFKf
+EvuLTxd9wDo/E7EMhGof4eNMdXkUUIsOolqDCF7JaQLck33TVycMCZk3BEC6EGbEj1iSPVYQ48aa
+tfmO9n53ZNPngme5IliFl3StOiXJpocIB2hvmt42Mwf2DEhhxjy+lcvqQ/t2Cn/o+OhDmg3y9qEH
+MU85+QRzWZTEMz0oSWL+3zJuo3DGWjwbDj0tgnAE2Br6vv4bf9fsFizaBOke47ulo7pAs4US85Uq
+gBfYXopWDUsIpYWkkNXODPFR89P6lpx2tso2daIOTwqbhDc7VAfgOkcOE5dcPjkLhTHW7Uj0y/ZB
+zYxoTFrnqiVp+FGwXJdbx7jpQQwkHbVyR8s=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+jOxSMYXtQpfn+mIdmlORo6rMwSjuyztvGI8JPrtmYHYA36m3uwZq4G1cbfkIbmDDk5EALm/B5FRt
+cVPJKThwfokSjBJznKeQrrNlwekQLJJG2IMk7luWREuPYFyQa+srHfh145PtpCN/Ei5UJ349xfg+
+CXKZaPD5rB1Jg6e+EJsnfCJSRBAwyODO4D10uQVjM3sDaDRjWtRB7OiborZFO7a7tymC8hPx5YGK
+M0diFVXOxfToGw7+wxVpDGJjCTwF6vgRGdMFB1GNxVrTpp5C3uq4qo9SLTyo5Wh5tfsMZ9AQ6CM3
+Yogzl2AecQvNvnsPs66Z4Om6OOk8nMj5pfbrfQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature814389-Object99864"><etsi:QualifyingProperties Target="#Signature814389"><etsi:SignedProperties Id="Signature814389-SignedProperties980169"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-09-29T08:45:09-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>1l2/Djn3mAehOPZP9Ipy5vbfqGI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>3621585755329109088</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

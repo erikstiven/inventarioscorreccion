@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"> 
+      <infoTributaria> 
+         <ambiente>2</ambiente> 
+         <tipoEmision>1</tipoEmision> 
+         <razonSocial>VILLACIS ARREAGA ELSY CONSUELO</razonSocial> 
+         <nombreComercial>EVASA</nombreComercial> 
+         <ruc>0913159687001</ruc> 
+         <claveAcceso>1109202501091315968700120010020000057640000576418</claveAcceso> 
+         <codDoc>01</codDoc> 
+         <estab>001</estab> 
+         <ptoEmi>002</ptoEmi> 
+         <secuencial>000005764</secuencial> 
+         <dirMatriz>VIA A LA COSTA KM 17.5 PUERTO HONDO</dirMatriz> 
+         <agenteRetencion>1</agenteRetencion> 
+      </infoTributaria> 
+      <infoFactura> 
+         <fechaEmision>11/09/2025</fechaEmision> 
+         <dirEstablecimiento>VIA A LA COSTA KM 17.5 PUERTO HONDO</dirEstablecimiento> 
+         <obligadoContabilidad>SI</obligadoContabilidad> 
+         <tipoIdentificacionComprador>04</tipoIdentificacionComprador> 
+         <razonSocialComprador>MINERA BELORO C L</razonSocialComprador> 
+         <identificacionComprador>0992529679001</identificacionComprador> 
+         <direccionComprador>GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</direccionComprador> 
+         <totalSinImpuestos>4510.62</totalSinImpuestos> 
+         <totalDescuento>0.00</totalDescuento> 
+         <totalConImpuestos> 
+            <totalImpuesto> 
+               <codigo>2</codigo> 
+               <codigoPorcentaje>4</codigoPorcentaje> 
+               <baseImponible>4510.62</baseImponible> 
+               <valor>676.59</valor> 
+            </totalImpuesto> 
+         </totalConImpuestos> 
+         <propina>0.00</propina> 
+         <importeTotal>5187.21</importeTotal> 
+         <moneda>DOLAR</moneda> 
+         <pagos> 
+            <pago> 
+            <formaPago>20</formaPago> 
+            <total>5187.21</total> 
+            <plazo>30</plazo> 
+            <unidadTiempo>DIAS</unidadTiempo> 
+            </pago> 
+         </pagos> 
+      </infoFactura> 
+      <detalles> 
+         <detalle> 
+            <codigoPrincipal>04-3800-03-07</codigoPrincipal> 
+            <codigoAuxiliar>04-3800-03-07</codigoAuxiliar> 
+            <descripcion>SHAFT, STRA, T4, NON-PTFE, SS</descripcion> 
+            <cantidad>2.000000</cantidad> 
+            <precioUnitario>90.100000</precioUnitario> 
+            <descuento>0.00</descuento> 
+            <precioTotalSinImpuesto>180.20</precioTotalSinImpuesto> 
+            <impuestos> 
+               <impuesto> 
+                  <codigo>2</codigo> 
+                  <codigoPorcentaje>4</codigoPorcentaje> 
+                  <tarifa>15</tarifa> 
+                  <baseImponible>180.20</baseImponible> 
+                  <valor>27.03</valor> 
+               </impuesto> 
+            </impuestos> 
+         </detalle> 
+         <detalle> 
+            <codigoPrincipal>15-3800-03-07</codigoPrincipal> 
+            <codigoAuxiliar>15-3800-03-07</codigoAuxiliar> 
+            <descripcion>SHAFT, STRAIGHT, COMBO, SS, T15</descripcion> 
+            <cantidad>3.000000</cantidad> 
+            <precioUnitario>94.070000</precioUnitario> 
+            <descuento>0.00</descuento> 
+            <precioTotalSinImpuesto>282.21</precioTotalSinImpuesto> 
+            <impuestos> 
+               <impuesto> 
+                  <codigo>2</codigo> 
+                  <codigoPorcentaje>4</codigoPorcentaje> 
+                  <tarifa>15</tarifa> 
+                  <baseImponible>282.21</baseImponible> 
+                  <valor>42.33</valor> 
+               </impuesto> 
+            </impuestos> 
+         </detalle> 
+         <detalle> 
+            <codigoPrincipal>15-3650-01</codigoPrincipal> 
+            <codigoAuxiliar>15-3650-01</codigoAuxiliar> 
+            <descripcion>CHAMBER, AIR, T15, ALUM</descripcion> 
+            <cantidad>2.000000</cantidad> 
+            <precioUnitario>348.500000</precioUnitario> 
+            <descuento>0.00</descuento> 
+            <precioTotalSinImpuesto>697.00</precioTotalSinImpuesto> 
+            <impuestos> 
+               <impuesto> 
+                  <codigo>2</codigo> 
+                  <codigoPorcentaje>4</codigoPorcentaje> 
+                  <tarifa>15</tarifa> 
+                  <baseImponible>697.00</baseImponible> 
+                  <valor>104.55</valor> 
+               </impuesto> 
+            </impuestos> 
+         </detalle> 
+         <detalle> 
+            <codigoPrincipal>15-5000-01</codigoPrincipal> 
+            <codigoAuxiliar>15-5000-01</codigoAuxiliar> 
+            <descripcion>CHAMBER, LIQUID</descripcion> 
+            <cantidad>2.000000</cantidad> 
+            <precioUnitario>609.450000</precioUnitario> 
+            <descuento>0.00</descuento> 
+            <precioTotalSinImpuesto>1218.90</precioTotalSinImpuesto> 
+            <impuestos> 
+               <impuesto> 
+                  <codigo>2</codigo> 
+                  <codigoPorcentaje>4</codigoPorcentaje> 
+                  <tarifa>15</tarifa> 
+                  <baseImponible>1218.90</baseImponible> 
+                  <valor>182.84</valor> 
+               </impuesto> 
+            </impuestos> 
+         </detalle> 
+         <detalle> 
+            <codigoPrincipal>08-3800-03-07</codigoPrincipal> 
+            <codigoAuxiliar>08-3800-03-07</codigoAuxiliar> 
+            <descripcion>SHAFT, STRAIGHT,T8, SS, NON-PTFE</descripcion> 
+            <cantidad>1.000000</cantidad> 
+            <precioUnitario>68.850000</precioUnitario> 
+            <descuento>0.00</descuento> 
+            <precioTotalSinImpuesto>68.85</precioTotalSinImpuesto> 
+            <impuestos> 
+               <impuesto> 
+                  <codigo>2</codigo> 
+                  <codigoPorcentaje>4</codigoPorcentaje> 
+                  <tarifa>15</tarifa> 
+                  <baseImponible>68.85</baseImponible> 
+                  <valor>10.33</valor> 
+               </impuesto> 
+            </impuestos> 
+         </detalle> 
+         <detalle> 
+            <codigoPrincipal>15-1010-51</codigoPrincipal> 
+            <codigoAuxiliar>15-1010-51</codigoAuxiliar> 
+            <descripcion>DIAPHRAGM, PRIMARY, NEOPRENE</descripcion> 
+            <cantidad>10.000000</cantidad> 
+            <precioUnitario>86.275000</precioUnitario> 
+            <descuento>0.00</descuento> 
+            <precioTotalSinImpuesto>862.75</precioTotalSinImpuesto> 
+            <impuestos> 
+               <impuesto> 
+                  <codigo>2</codigo> 
+                  <codigoPorcentaje>4</codigoPorcentaje> 
+                  <tarifa>15</tarifa> 
+                  <baseImponible>862.75</baseImponible> 
+                  <valor>129.41</valor> 
+               </impuesto> 
+            </impuestos> 
+         </detalle> 
+         <detalle> 
+            <codigoPrincipal>15-3520-52</codigoPrincipal> 
+            <codigoAuxiliar>15-3520-52</codigoAuxiliar> 
+            <descripcion>GASKET, CENTER BLK, T15, TURBO</descripcion> 
+            <cantidad>20.000000</cantidad> 
+            <precioUnitario>3.612500</precioUnitario> 
+            <descuento>0.00</descuento> 
+            <precioTotalSinImpuesto>72.25</precioTotalSinImpuesto> 
+            <impuestos> 
+               <impuesto> 
+                  <codigo>2</codigo> 
+                  <codigoPorcentaje>4</codigoPorcentaje> 
+                  <tarifa>15</tarifa> 
+                  <baseImponible>72.25</baseImponible> 
+                  <valor>10.84</valor> 
+               </impuesto> 
+            </impuestos> 
+         </detalle> 
+         <detalle> 
+            <codigoPrincipal>15-7100-08</codigoPrincipal> 
+            <codigoAuxiliar>15-7100-08</codigoAuxiliar> 
+            <descripcion>CLAMP BAND, SMALL, NESTED</descripcion> 
+            <cantidad>20.000000</cantidad> 
+            <precioUnitario>32.623000</precioUnitario> 
+            <descuento>0.00</descuento> 
+            <precioTotalSinImpuesto>652.46</precioTotalSinImpuesto> 
+            <impuestos> 
+               <impuesto> 
+                  <codigo>2</codigo> 
+                  <codigoPorcentaje>4</codigoPorcentaje> 
+                  <tarifa>15</tarifa> 
+                  <baseImponible>652.46</baseImponible> 
+                  <valor>97.87</valor> 
+               </impuesto> 
+            </impuestos> 
+         </detalle> 
+         <detalle> 
+            <codigoPrincipal>15-1120-51</codigoPrincipal> 
+            <codigoAuxiliar>15-1120-51</codigoAuxiliar> 
+            <descripcion>SEAT, VALVE, NEOPRENE</descripcion> 
+            <cantidad>20.000000</cantidad> 
+            <precioUnitario>23.800000</precioUnitario> 
+            <descuento>0.00</descuento> 
+            <precioTotalSinImpuesto>476.00</precioTotalSinImpuesto> 
+            <impuestos> 
+               <impuesto> 
+                  <codigo>2</codigo> 
+                  <codigoPorcentaje>4</codigoPorcentaje> 
+                  <tarifa>15</tarifa> 
+                  <baseImponible>476.00</baseImponible> 
+                  <valor>71.40</valor> 
+               </impuesto> 
+            </impuestos> 
+         </detalle>      </detalles> 
+         <infoAdicional> 
+            <campoAdicional nombre="Agente de Retencion">No. Resolucion: 1</campoAdicional> 
+            <campoAdicional nombre="Direccion">GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</campoAdicional> 
+            <campoAdicional nombre="Telefono">098 154 66 54</campoAdicional> 
+            <campoAdicional nombre="email">diego.alvear@grupodmg.ec</campoAdicional> 
+            <campoAdicional nombre="Nota">NUMERO DE PEDIDO: 2057729</campoAdicional> 
+               <campoAdicional nombre="Plazo">30 dias</campoAdicional> 
+               <campoAdicional nombre="Fecha de Vencimiento">11/Oct/25</campoAdicional> 
+         </infoAdicional> 
+      <ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature802679">
+<ds:SignedInfo Id="Signature-SignedInfo391096">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID762415" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature802679-SignedProperties146547">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>8R93py2ageKoSDqex7MjJRrZGY8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1836678">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Mqo8FIg0JrIhRDH0kNLpsb2wsvE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-817920" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>g7TluQsZiAS/K5SfGZbu2urzy/I=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1041291">
+vUZqpaacKIyr4xz/Q5J1KDHz4neJPnBVOMhaZP7ehUVXoLumtkuekVjQzk+/txT2KM3bxYeprHmZ
+lcXwGkKXt/zq6luyu/Qoqd/Z9VY5ef6zoGhLvWjoBuHtsY+2qEddUVAkbuQZfh0yOW4XYxLEM7o4
+DD/9LijMe2cVOAjccmo7yzvAAva09DFJEjlpVXYCbNc+dDBbKmEg/EXS1ysFV9UzP/fkrRUitBcr
+KZKP5ODlEJxkYd/GMIZLWhD61+GiB1uY1J5SXcKBGZuGXtl3UcMln/slzp4HUcnPkp0VsjMdM16+
+f/7bU4k6GfC8wl7VIoELcRf6OUBg9MuMJBdP5w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1836678">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL0zCCCbugAwIBAgIEB1KTwTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTA2MjIxNDUzNDNaFw0yNjA2MjIxNDUzNDNaMIGeMScw
+JQYDVQQDDB5FTFNZIENPTlNVRUxPIFZJTExBQ0lTIEFSUkVBR0ExFTATBgNVBAUTDDIyMDYyMTEw
+MDM0MDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDFiPCwJ0wZmNJc9atABF8/oYC7FRsWWR4AQJzFE3gRkfklR1ngAs9z
+0iKUGcvjNeKt+2+WTq6wQDaOy7zWNXSYX9xv7M0ESOWcJYVaRMYQgWISpOcELOhCtblA+2ueXhOh
+8DJXJPBhGal6rK0Ci4yk1OikajrEnAgl8rXNa8cffm7V5ayCs7hnzf7HKcg8+id2P1wb3TVQzjRZ
+cJtVb0Gl46f2SmxC6Uc9L6E74CNWwO64ZnRjO6L1AxV6Vo5+3zHB5NV0i0ZA1eaHAfJQXepeptKt
+QTRYVn95ZU9tM34Gv0oeeE4dceHgX0ht8kWtlxmIOi+voHXWuTxzGjkbhMybAgMBAAGjggcaMIIH
+FjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTAhBgNVHREEGjAYgRZldmlsbGFjaXNAZXZhc2EuY29tLmVjMIIBBgYDVR0gBIH+MIH7
+MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAA
+ZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoG
+CCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93
+bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmlj
+YWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9v
+Y3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+k
+gZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJ
+VFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5s
+ZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVS
+ZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNy
+bCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE
+QVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZ
+IERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFE0JrTsy6hQ7CbXRsJHdBpzIULIUMCsGA1UdEAQk
+MCKADzIwMjEwNjIyMTQ1MzQzWoEPMjAyNjA2MjIxNDUzNDNaMAsGA1UdDwQEAwIF4DAaBgorBgEE
+AYKmcgMBBAwMCjA5MTMxNTk2ODcwGQYKKwYBBAGCpnIDCQQLDAlHVUFZQVFVSUwwEQYKKwYBBAGC
+pnIDIgQDDAEuMCsGCisGAQQBgqZyAwcEHQwbUFJJTUVSQSBTT0xBUiAxMyBZIFNBTiBKT1NFMB0G
+CisGAQQBgqZyAwIEDwwNRUxTWSBDT05TVUVMTzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDEy
+NzM5MDARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnID
+DAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwIVklMTEFDSVMwEQYKKwYBBAGCpnIDHgQDDAEu
+MB0GCisGAQQBgqZyAwsEDwwNMDkxMzE1OTY4NzAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYB
+BAGCpnIDBAQJDAdBUlJFQUdBMBwGCisGAQQBgqZyAwgEDgwMNTkzOTk3NjU2NDE1MA0GCSqGSIb3
+DQEBCwUAA4ICAQCNquEwca814Dvyt0/n1Hya4TDum1TFsD1kFg+Y2wVPFo6KjhbAmWVzaot4eN0f
+Qa4PBuVtYSiQVvnG0o2xlZFJXFjWYwGjC1hyj779a16F+a89Pa/XsmgEN+ASZjn8hQy7XMHholu4
+IDRjGp9vpsFkit9wMovaYL8lPIQzW/dTemy6dPNjhDaCnXvi8JcEdTi4YQ4NCDhcGVK7m1LAlR7L
+Hcrk2bA4Mf6KD9SWdREr5OOE7Zsbkn52m5LV1OwPu4uSSO3gCzUPXub4tnqELEdA/YguDqQj6U7K
+vEIVWF7AgC436/XZR/zKCiIAaOmTyIXM8NXca/mScLpU16iJnG6L2sKS1XdbjNaSdELFfvdhsAFr
+hp17DV19wPsqhTQCo6o+0Uui489n0P7TQ7iruFe/lb3YW8Q72hsLO5Gqy0siviaWfI9Tf6izSCIe
+/HWy0dLP6EbvJhCszFH8ZIjI5WNbk4JOo7AdAd+10RqvAJlt2A4tpKLOI5uN0ubvoJYgtdoJZSUk
+KNIfmPclS9MbafvGlDonEA4qTcrdlSL+0e/zQ3iiocPNHSuabIfwnVwb6bSwE4C1kBx1bqpxmeww
+ThhvMeAt7e4HW9SDjEBTuD9zYIv+/wsi6zg/CfHy7WhNnMKXF0/Sd0tUCyX613tD21fouo/r41fP
+p8gXhjEjjmYzmg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xYjwsCdMGZjSXPWrQARfP6GAuxUbFlkeAECcxRN4EZH5JUdZ4ALPc9IilBnL4zXirftvlk6usEA2
+jsu81jV0mF/cb+zNBEjlnCWFWkTGEIFiEqTnBCzoQrW5QPtrnl4TofAyVyTwYRmpeqytAouMpNTo
+pGo6xJwIJfK1zWvHH35u1eWsgrO4Z83+xynIPPondj9cG901UM40WXCbVW9BpeOn9kpsQulHPS+h
+O+AjVsDuuGZ0Yzui9QMVelaOft8xweTVdItGQNXmhwHyUF3qXqbSrUE0WFZ/eWVPbTN+Br9KHnhO
+HXHh4F9IbfJFrZcZiDovr6B11rk8cxo5G4TMmw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature802679-Object267159"><etsi:QualifyingProperties Target="#Signature802679"><etsi:SignedProperties Id="Signature802679-SignedProperties146547"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-09-11T16:11:40-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>6KzisTY9eq5rW1zLcQ1hoegVQCU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>122852289</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-817920"><etsi:Description>contedido del comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

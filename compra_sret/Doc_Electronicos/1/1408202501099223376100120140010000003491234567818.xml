@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>AINSA S.A.</razonSocial><nombreComercial>AINSA S.A.</nombreComercial><ruc>0992233761001</ruc><claveAcceso>1408202501099223376100120140010000003491234567818</claveAcceso><codDoc>01</codDoc><estab>014</estab><ptoEmi>001</ptoEmi><secuencial>000000349</secuencial><dirMatriz>Guayaquil - AV. JUAN TANCA MARENGO KM 2.5 Y AV. AGUSTIN FREIRE</dirMatriz></infoTributaria><infoFactura><fechaEmision>14/08/2025</fechaEmision><dirEstablecimiento>AV. JUAN TANCA MARENGO KM 2.5 Y AV. AGUSTIN FREIRE   GUAYAQUIL ECUADOR</dirEstablecimiento><contribuyenteEspecial>833</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MINERA BELORO C L</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><direccionComprador>EL ORO / MACHALA  GUAYAQUIL S N Y QUINTA A NORTE ESQUINAMACHALAECUADOR</direccionComprador><totalSinImpuestos>1704.00</totalSinImpuestos><totalDescuento>426.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>1704.000000</baseImponible><valor>255.60</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>1959.60</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>1959.60</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>002763</codigoPrincipal><codigoAuxiliar>250034-082</codigoAuxiliar><descripcion>SULLAIR USA - ELEMENT, OIL SEP 14.75 X 23.75</descripcion><cantidad>1.00</cantidad><precioUnitario>2130.00</precioUnitario><descuento>426.00</descuento><precioTotalSinImpuesto>1704.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1704.00</baseImponible><valor>255.60</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION CLIENTE:">EL ORO / MACHALA GUAYAQUIL S N Y QUINTA A NORTE ESQUINA</campoAdicional><campoAdicional nombre="TELEFONO CLIENTE:">0981546654</campoAdicional><campoAdicional nombre="EMAIL CLIENTE:">diego.alvear@grupodmg.ec</campoAdicional><campoAdicional nombre="CONDICIONES DE PAGO:">CL Credito 30 dias</campoAdicional><campoAdicional nombre="VENDEDOR:">ANDY PIÑA</campoAdicional><campoAdicional nombre="OBSERVACIONES:">PEDIDO: 2056979 / FILTRO SEPARADOR EQUIPO SULLAIR 1600 Basado en Ofertas de ventas 12000817. Basado en Pedidos de cliente 12000415. Basado en Entregas 9000384.</campoAdicional><campoAdicional nombre="No OC Cliente:">2056979</campoAdicional><campoAdicional nombre="OBLIGACIONES AGENTES RETENCION:">Art. 50.- Los agentes de retencion estan obligados a entregar el respectivo comprobante de retencion, dentro del termino no mayor de cinco dias de recibido el comprobante de venta, a las personas a quienes deben efectuar la retencion.</campoAdicional><campoAdicional nombre="DOCUMENTO CATEGORIZADO:">:</campoAdicional><campoAdicional nombre="VINCULO CONTRACTUAL No:">:</campoAdicional><campoAdicional nombre="ORDEN DE TRABAJO No:">:</campoAdicional><campoAdicional nombre="PERIODO DE SERVICIO:">:</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature665320">
+<ds:SignedInfo Id="Signature-SignedInfo820317">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID323013" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature665320-SignedProperties180744">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>SPdnHKaxz1d/BX7TD9ilFFvLgEs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate185720">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>v/ztOjLvjgVDEREtehxGLNMJIS0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-9249" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Lk3f1iEbAWY+6OiyqOmJqfr/gGQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue669913">
+OLyDteO+ugd6050ten4DfVpHVjAcYzpg0k8naGtKLeZFC8kfDpizNeWhXkE6uxuZ5CVVGfqXJAmJ
+AqSpCDRr8UshS9/hr/0FqitmcYcKN8QJb37QXO+06cvkv/MLQ3/mJuYY5u16vSd0MMbHj7zaHSeP
+WNxiEYAg0WgusbT2oMps0Hm5sYzFADEL3lt/DFpV4xsSQK9jvTbN4Z3NlMm4NK3QF+SMLh4OlJWb
+N3w5WQeN6th52/MdAIn9ApQiullNU0ITQZayZ9ReXpZmAwkWrM05ouAdokteqKMrt+cUY18T+c1m
+XQ3A0hIlAZKYqg8VYZxK214RfikBjw2TtClpnA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate185720">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMAzCCCeugAwIBAgIEECOb3TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzEyMjExOTU4NDBaFw0yNTEyMjAxOTU4NDBaMIGgMSkw
+JwYDVQQDDCBNQVJDRUxPIERBVklEIE1VUklMTE8gTU9OVEVORUdSTzEVMBMGA1UEBRMMMjExMjIz
+MTUwODI3MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBALlo8jCYHGUxG6FhSp36/SRTYlI7gdvlynsxByIwnoXR5zeIgEjA
+rJp6nm1EqrXDz+VIFiP7kvNOln0uewqvOsE9MwaObnSoMr2S5EqWvJNE5ZiY+XTtwVyVK56wrpTj
+44lIMy/eN3mj36fsHeQ+no5xbp4/invltsskXO5YQUuK+7SalDpGx55o9zYC3RHAimp0cPCUC/CL
+DDKFqTMecqpbBOwmiIB7p5Vvqqoj++pYJ+wRIvRjdeW8GVTjU2cIYghehZhBWVCxNc5ZIxmEaSkI
+WoVC82WiX7HFMh3/1kQLIqwlJvf0s17LQFW4PacrxIjnv7Q26/DFQJCj6oF3hTUCAwEAAaOCB0gw
+ggdEMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYB
+BQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9u
+TGlzdD9iYXNlMCQGA1UdEQQdMBuBGURhdmlkbXVyaWxsb0BhaW5zYS5jb20uZWMwggEVBgNVHSAE
+ggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBh
+AGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisG
+AQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0
+aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkw
+ggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczov
+L3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2Vi
+ZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUWRvhagvd6EGH
+DgjMFwaOnjSp5e8wKwYDVR0QBCQwIoAPMjAyMzEyMjExOTU4NDBagQ8yMDI1MTIyMDE5NTg0MFow
+CwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZy
+AwEEDAwKMDkyMTkwMjEzNjAZBgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDARBgorBgEEAYKmcgMi
+BAMMAS4wLwYKKwYBBAGCpnIDBwQhDB9BViBKVUFOIFRBTkNBIE1BUkVOR08gMiAzIDIyIDIzMB0G
+CisGAQQBgqZyAwIEDwwNTUFSQ0VMTyBEQVZJRDAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDUw
+MzMzNjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYKKwYB
+BAGCpnIDAwQJDAdNVVJJTExPMBoGCisGAQQBgqZyAwoEDAwKQUlOU0EgUy5BLjAdBgorBgEEAYKm
+cgMLBA8MDTA5OTIyMzM3NjEwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAaBgorBgEEAYKmcgMEBAwM
+Ck1PTlRFTkVHUk8wGgYKKwYBBAGCpnIDCAQMDAowOTk2NTY1NjE4MA0GCSqGSIb3DQEBCwUAA4IC
+AQDCm07gd2VUc1xSHvC0eCvhFVn1Uo/QUcD6YqKJN5QRb2gWp+D2y+TXdtz/R/24bKxuNXHWNI1O
+NFNC9w1HvC27dK219VocwUMbARHUanXTIzlklpmCYtKgXk3E/XibLRLjt1XOqt0ARNEryPcuV3JT
+hwSVYxjrN3Xh4wHyxau18mEaAThEOEm4StxICki8X/C2dvn/u2LBTDRaULjNiTbCxyfcBS2Cp9yQ
+6h2mxEer1wf2wBNswHvK/jQY8Stx6bTtDigJMtlXbo20TaiYn5sMAI8Saga4HkwufOGvfQUlNZHa
+O94EWyVH5TEI4UumsuxsJTwdr/Jkm9IceBHW9cZnwxsB0hW+jiD1Oe3UHKOai/YHo1gxslJBFWqr
+a9XWXr0PYI7q4tEbzVTx41YCETVHgiQrhSFAHeAviHsipjQrrB/GZ7rtZo8lUwOpZ8V6zz6rwxBV
+vvTCdcoeoU0694XvS+lBus8QOCDpmJCLwm5WDAkwpBJFb5CHOHOMyYVh/Kj5wh7ttfsMTX242nU7
+QfH/f/w9n+Mo7GyVLXZ1OlCUdzWwg6GjO0avSZA3mLSN57epw0qdlOnd769NKGya060xlh5jLlHS
+s8G8bSkGbQ8uRJz5INLkuX/+gAMLz3DjHTpM6Tmb0iyk1e2yxacJBt7sQjRITocZW//qNyxTT7Hc
+aw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uWjyMJgcZTEboWFKnfr9JFNiUjuB2+XKezEHIjCehdHnN4iASMCsmnqebUSqtcPP5UgWI/uS806W
+fS57Cq86wT0zBo5udKgyvZLkSpa8k0TlmJj5dO3BXJUrnrCulOPjiUgzL943eaPfp+wd5D6ejnFu
+nj+Ke+W2yyRc7lhBS4r7tJqUOkbHnmj3NgLdEcCKanRw8JQL8IsMMoWpMx5yqlsE7CaIgHunlW+q
+qiP76lgn7BEi9GN15bwZVONTZwhiCF6FmEFZULE1zlkjGYRpKQhahULzZaJfscUyHf/WRAsirCUm
+9/SzXstAVbg9pyvEiOe/tDbr8MVAkKPqgXeFNQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature665320-Object884876"><etsi:QualifyingProperties Target="#Signature665320"><etsi:SignedProperties Id="Signature665320-SignedProperties180744"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-08-14T09:17:56-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>ce+UVRbycGhOIHCiUmuapezGDmk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>270769117</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-9249"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

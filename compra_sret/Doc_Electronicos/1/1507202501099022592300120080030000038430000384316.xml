@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>IASA-TRANSPORTE S.A.</razonSocial>
+    <nombreComercial>IASA-TRANSPORTE S.A.</nombreComercial>
+    <ruc>0990225923001</ruc>
+    <claveAcceso>1507202501099022592300120080030000038430000384316</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>008</estab>
+    <ptoEmi>003</ptoEmi>
+    <secuencial>000003843</secuencial>
+    <dirMatriz>AV. JUAN TANCA MARENGO KM. 4.5 LOT.ZATIRON PASAJE 38 MZ 113</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>15/07/2025</fechaEmision>
+    <dirEstablecimiento>AV. CIRCUNVALACION NORTE S/N Y MARCEL LANIADO</dirEstablecimiento>
+    <contribuyenteEspecial>6925</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <totalSinImpuestos>4543.50</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>4543.50</baseImponible>
+        <tarifa>15.00</tarifa>
+        <valor>681.53</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>5225.03</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>5225.03</total>
+        <plazo>90</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>5229003</codigoPrincipal>
+      <codigoAuxiliar>112</codigoAuxiliar>
+      <descripcion>ARO 22.5 X 9 12K 1 N</descripcion>
+      <cantidad>50.00</cantidad>
+      <precioUnitario>90.87</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4543.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>4543.50</baseImponible>
+          <valor>681.53</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">GLADYS.LALANGUI@GRUPODMG.EC</campoAdicional>
+    <campoAdicional nombre="glosa1">Referencia: 48C009351 . Cod. Cliente: D018075 .PC: 1D .MC: 1T .VEND: TCJ .T: 2 .MARCA: IA .MODELO: AROS .NO. DE SERIE: AROS SUNRISE .FEC.DOC: 10/07/2025</campoAdicional>
+    <campoAdicional nombre="glosa2">Numero de Orden: 2056631</campoAdicional>
+    <campoAdicional nombre="glosa7">FAVOR CANCELAR ESTE DOCUMENTO CON CHEQUE CRUZADO. GIRADO A FAVOR DE ESTA COMPAÑÍA. QUE INCLUYA LA LEYENDA " SOLO PARA DEPOSITAR EN LA CUENTA DEL PRIMER BENEFICIARIO".</campoAdicional>
+    <campoAdicional nombre="glosa8">ESTE DOCUMENTO SERÁ PAGADERO INMEDIATAMENTE A LA FECHA DE SU VENCIMIENTO. SU FALTA DE PAGO DARÁ DERECHO AL VENDEDOR A COBRAR. ADEMÁS. EL MÁXIMO DE INTERÉS DE MORA LEGALMENTE PERMITIDO. PLAZO DE CRÉDITO A: 30/60/90 DIAS</campoAdicional>
+    <campoAdicional nombre="glosa9">EL NO PAGO DE UNA O MÁS CUOTAS. EN LOS PLAZOS AQUÍ ESTIPULADOS. DARÁ DERECHO AL ACREEDOR PARA DECLARAR DE PLAZO VENCIDO LA TOTALIDAD DE LA PRESENTE FACTURA Y DEMANDAR SU COBRO TOTAL EN VÍA CORRESPONDIENTE.</campoAdicional>
+    <campoAdicional nombre="glosa24">SALIDA LA MERCADERÍA DE NUESTRO ALMACÉN. VIAJA POR CUENTA Y RIESGO DEL COMPRADOR. NO SE ACEPTAN DEVOLUCIONES DESPUÉS DE DOS DÍAS DE HABER SIDO ENTREGADOS.</campoAdicional>
+    <campoAdicional nombre="glosa18">DECLARO BAJO LA SOLEMNIDAD DE JURAMENTO QUE LOS VALORES EMPLEADOS EN LA PRESENTE TRANSACCIÓN SON DE ORIGEN LÍCITO Y QUE. NI ÉSTOS. NI MIS ACTIVIDADES (Y/O AQUÉLLAS DE MI REPRESENTADA). SE ENCUENTRAN RELACIONADOS CON ACTIVIDADES TIPIFICADAS EN LA LEY DE PREVENCIÓN.</campoAdicional>
+    <campoAdicional nombre="glosa19">DETECCIÓN Y ERRADICACIÓN DEL DELITO DE LAVADO DE ACTIVOS Y DEL FINANCIAMIENTO DE DELITOS Y/O EN LA LEY DE SUSTANCIAS ESTUPEFACIENTES Y PSICOTRÓPICAS.</campoAdicional>
+    <campoAdicional nombre="DatosPoliza">MACHALA;01;31-08-2025;1741.68;02;30-09-2025;1741.68;03;31-10-2025;1741.67</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature907803">
+<ds:SignedInfo Id="Signature-SignedInfo984387">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID875143" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature907803-SignedProperties562498">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ZfLH9V6pHmm2Qhekk/70PIMcJng=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1466809">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6uv2wWEw3Zwzc+vJTR7bnTwMQNM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-840310" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cqKyiUx9D/wv27ErbBa27Vq2AMw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue242913">
+r5NUCcLwRuPwAk0O2Y+baCT6o2ZT4GN/cO242woIwU4hYR/TUh0U7Aud22C9rQgPPK95UfYxWa4h
+sr0NOV9PN0iazqAIIqF7rYTnbhFYpM/izb0MVdp3PcGAsfDg+02BqHsv+bW+5HC6FlszNKngKRHb
+Dnceh9wK1cuHVPdGDk1AQUj/+9VB1NzCrc0DDfpXuusgv+9l5IwIW50owZKXG5UY8BD5yHGIuy1O
+0H3ga+kVWWyx7Nu8SYI2yAvE3G1uf8601QhCbOGvX6PH2PxnqOqXTEoh72MwSWSlFu/S0af4ET6A
+jVsBUKJ3xyTFBrd38jUTbSNybBbIp6zQOlWIfA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1466809">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK1DCCCLygAwIBAgIEQXyjYTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA1MDkyMTQwMDNaFw0yNjA1MDkyMTQwMDNaMIGqMSgw
+JgYDVQQDDB9MVUlTIEZFUk5BTkRPIEdPTUVaIElMTElOR1dPUlRIMSAwHgYDVQQFExcwOTA4OTA0
+MDU1LTA5MDUyNTE2NDk1MzEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDFWO00gn2VUbEola9bJr1RpBl8D/nuNuli3Mfn
+nkZ9yo2LDC3Egs2sVsAhDA4jjEAU9SQ5nwJ5BYblEkUN4T/nESyXXq3troWbPwI01qWP1sn9MPB4
+LRZfaNke1yr5ze/RL3OHNhuJPEx8KKuNH0KdP3qWEC7vLzeEq1zczpdAFpLoovK7q6nqCaHgD25b
+8QTvugUxfVxmDkp4KOSQSW1QcU73ZW0AHSg+wNndm0epbUmAiOiwaUON2fM5+Aiyip0jUoOfwUZ3
+15cTN4uWEYZPYWbXy40I3uNluWnPBSkVntap1OsC9mjW93A6QGCX76A6d8qkjatY3HYTO64yaaf9
+AgMBAAGjggYPMIIGCzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAkBgNVHREEHTAbgRlnb21lel9s
+dWlzQGlhc2FnbG9iYWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsG
+AQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4A
+dABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0
+dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0
+aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50
+YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIIC
+BjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEv
+Y3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxm
+aWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDMB0GA1UdDgQWBBQRDC7OHF9q5BVNwrFmq7py6CtjCDArBgNVHRAEJDAigA8yMDI1MDUw
+OTIxNDAwM1qBDzIwMjYwNTA5MjE0MDAzWjALBgNVHQ8EBAMCBeAwJAYKKwYBBAGCpnIDBQQWDBRQ
+UkVTSURFTlRFIEVKRUNVVElWTzAaBgorBgEEAYKmcgMBBAwMCjA5MDg5MDQwNTUwFgYKKwYBBAGC
+pnIDCQQIDAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMDMGCisGAQQBgqZyAwcEJQwjQVYgSlVB
+TiBUQU5DQSBNQVJFTkdPIDMgWSBQQVNBSkUgMzgwHQYKKwYBBAGCpnIDAgQPDA1MVUlTIEZFUk5B
+TkRPMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwOTkyOTQ2MBMGCisGAQQBgqZyAyEEBQwDUEZY
+MBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAVBgorBgEEAYKmcgMDBAcMBUdPTUVaMCMGCisGAQQB
+gqZyAwoEFQwTSUFTQSBUUkFOU1BPUlRFIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTAyMjU5MjMw
+MDEwEQYKKwYBBAGCpnIDHQQDDAEuMBsGCisGAQQBgqZyAwQEDQwLSUxMSU5HV09SVEgwGgYKKwYB
+BAGCpnIDCAQMDAowOTkxNTgwODkwMA0GCSqGSIb3DQEBCwUAA4ICAQAxNDqzeK9/N4cRiDKN/HX8
+Kj6HO05SM8IpMAd4Ykt95PMr9DTClJUKSvz1kaYirJrSJ1y6ZGM+0hyGz/GW1t7gMoFhsDw0J4+0
+yT7YVZgl5qhLBOKBUxTPCYtqr99NSdOd2bEYQ5j+L3VbNa0ioVpaaXMTmaUsE0FFQuQYCQKM9xhz
+GIIrI5j/EJHczk6R506w+jaeNcjOndojHJvOW0rXSGAalWmHrblEU1eeFquQFNhFvavhgfW7gv0X
+mDouCPGfTYad6aTjpS+8iZCgN2rtk+9FU7XcWXasgTYJGZIGg0qbWKUlEcvIpJCbAGSjlRdG6PvY
+OJ1Yyx5v9+kMigxwwB4ufzI6FBghKtjuEZ2yDr58H2d4E1egRB4u6RgzyDofGWuIKzsGdv2A8tbV
+LzmOP3w19pP0siGIds50+6hr77P3dVplLCfewj1Er2rG6RiBb8OhPIzglSJrUE4Ro7iCDUg50WPq
+mIl7RKAp9wqvk9y9J5u4+vSA97fo+xk6uqQWnSuacFT26uiAbLIbMZ8XJ6Uv8N6zOHELyHsHOtK/
+Dtu6DDLapi7VnHhOo+gSuVEjRrutfaBCTTxo8I+JY04yBkZtkLo2aHeJHoG+rVZdUqxn+be3EFRy
+HP3lKKa7Mj0RB7+aRFwLtdOrzTLftAVXqJrVeNZCLFrbxApuud1j9A==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xVjtNIJ9lVGxKJWvWya9UaQZfA/57jbpYtzH555GfcqNiwwtxILNrFbAIQwOI4xAFPUkOZ8CeQWG
+5RJFDeE/5xEsl16t7a6Fmz8CNNalj9bJ/TDweC0WX2jZHtcq+c3v0S9zhzYbiTxMfCirjR9CnT96
+lhAu7y83hKtc3M6XQBaS6KLyu6up6gmh4A9uW/EE77oFMX1cZg5KeCjkkEltUHFO92VtAB0oPsDZ
+3ZtHqW1JgIjosGlDjdnzOfgIsoqdI1KDn8FGd9eXEzeLlhGGT2Fm18uNCN7jZblpzwUpFZ7WqdTr
+AvZo1vdwOkBgl++gOnfKpI2rWNx2EzuuMmmn/Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature907803-Object665228"><etsi:QualifyingProperties Target="#Signature907803"><etsi:SignedProperties Id="Signature907803-SignedProperties562498"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-07-15T12:59:05-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>yO0E3pEAczmyRUYeCsrLz7Ch4Bg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1098687329</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-840310"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

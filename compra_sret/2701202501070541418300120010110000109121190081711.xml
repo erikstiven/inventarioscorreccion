@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>SANCHEZ GUERRERO HERNAN ELADIO</razonSocial>
+		<nombreComercial>FERRETERIA SANCHEZ</nombreComercial>
+		<ruc>0705414183001</ruc>
+		<claveAcceso>2701202501070541418300120010110000109121190081711</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>011</ptoEmi>
+		<secuencial>000010912</secuencial>
+		<dirMatriz>AZUAY / CAMILO PONCE ENRIQUEZ / BUENOS AIRES SN</dirMatriz>
+		<agenteRetencion>1</agenteRetencion>
+	</infoTributaria>
+<infoFactura>
+	<fechaEmision>27/01/2025</fechaEmision>
+	<dirEstablecimiento>AZUAY / CAMILO PONCE ENRIQUEZ / BUENOS AIRES SN</dirEstablecimiento>
+	<obligadoContabilidad>SI</obligadoContabilidad>
+	<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+	<razonSocialComprador>MINERA    BELORO C.L.</razonSocialComprador>
+	<identificacionComprador>0992529679001</identificacionComprador>
+	<direccionComprador>CDLA. LOS JARDINES CALLE GUAYAQUIL SN Y 5TA NORTE ESQUINA</direccionComprador>
+	<totalSinImpuestos>834.61</totalSinImpuestos>
+	<totalDescuento>0.00</totalDescuento>
+	<totalConImpuestos>
+		<totalImpuesto>
+		<codigo>2</codigo>
+		<codigoPorcentaje>4</codigoPorcentaje>
+		<descuentoAdicional>0.00</descuentoAdicional>
+		<baseImponible>834.61</baseImponible>
+		<valor>125.19</valor>
+		</totalImpuesto>
+	</totalConImpuestos>
+	<propina>0.00</propina>
+	<importeTotal>959.80</importeTotal>
+	<moneda>DOLAR</moneda>
+	<pagos>
+		<pago>
+		<formaPago>20</formaPago>
+		<total>959.80</total>
+		<plazo>15</plazo>
+		<unidadTiempo>dias</unidadTiempo>
+		</pago>
+	</pagos>
+</infoFactura>
+<detalles>
+	<detalle>
+		<codigoPrincipal>CLAVOIG4</codigoPrincipal>
+		<descripcion>CAJA CLAVO IDEAL 4P 25K 100X5.20</descripcion>
+		<unidadMedida>Cajas: 2 Unidades: 0</unidadMedida>
+		<cantidad>2.000000</cantidad>
+		<precioUnitario>53.043478</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>106.09</precioTotalSinImpuesto>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>106.09</baseImponible>
+			<valor>15.91</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>CLAVOAG6</codigoPrincipal>
+		<descripcion>CAJA CLAVO ADELCA 150X6.10 6P-25KG</descripcion>
+		<unidadMedida>Cajas: 4 Unidades: 0</unidadMedida>
+		<cantidad>4.000000</cantidad>
+		<precioUnitario>48.695652</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>194.78</precioTotalSinImpuesto>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>194.78</baseImponible>
+			<valor>29.22</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>FLEXOMETROS5M</codigoPrincipal>
+		<descripcion>FLEXOMETRO STANLEY 5M/16-30615</descripcion>
+		<unidadMedida>Cajas: 36 Unidades: 0</unidadMedida>
+		<cantidad>36.000000</cantidad>
+		<precioUnitario>5.043478</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>181.57</precioTotalSinImpuesto>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>181.57</baseImponible>
+			<valor>27.24</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>PLAYOS8</codigoPrincipal>
+		<descripcion>PLAYO ALICATE PRO N8 STANLEY-203-84056</descripcion>
+		<unidadMedida>Cajas: 24 Unidades: 0</unidadMedida>
+		<cantidad>24.000000</cantidad>
+		<precioUnitario>9.130434</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>219.13</precioTotalSinImpuesto>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>219.13</baseImponible>
+			<valor>32.87</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>FRANCESAS12</codigoPrincipal>
+		<descripcion>LLAVE FRANCESA ORIG STANLEY #12</descripcion>
+		<unidadMedida>Cajas: 12 Unidades: 0</unidadMedida>
+		<cantidad>12.000000</cantidad>
+		<precioUnitario>11.086956</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>133.04</precioTotalSinImpuesto>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>133.04</baseImponible>
+			<valor>19.96</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+</detalles>
+<infoAdicional>
+	<campoAdicional nombre="Direccion">CDLA. LOS JARDINES CALLE GUAYAQUIL SN Y 5TA NORTE ESQUINA</campoAdicional>
+	<campoAdicional nombre="Telefono">2984073*208 J</campoAdicional>
+	<campoAdicional nombre="Email">logistica.001@grupodmg.ec</campoAdicional>
+	<campoAdicional nombre="Vencimiento">11/02/2025</campoAdicional>
+	<campoAdicional nombre="Comercio">MINERA    BELORO C.L.</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature703135">
+<ds:SignedInfo Id="Signature-SignedInfo868560">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID207706" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature703135-SignedProperties779516">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>CHZx5k8FJe+QE0wLQNzxTUwAty4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1755885">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>vV/s8jZOXX45URAvTGK/kuXFIj8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-821627" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>61aT7JuamWhq6Flkuc+FnGQcc1o=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue205299">
+SUuFgTSmwFNxXNm/Xy37V+R1orwcaMjrEtvB9KppWg4vBCsC7ttftV5dcM/MB9dBdpaGJk51du3p
+wPI+TisJjL14c2Iy21XOeYkLEd4rBT5Li0+Pac6OuDaoVQ/a3tb4CBem9WLcCx0/hXMLp6r1+rDN
+VHyfrfwvM95WTpEphkj/7UKMJl6ksv9npVKU9QxQDM8ENuH+6IXnyVGQqQf98jPpTx+DXMUb9Amm
+JKz3gAQtLH6rmum2HmG2qAx3P53v5yxEHtw2fIZp/46sD7JD0FehsGMGHoOeBA2gFks6wvXHV3G2
+YO9v1A5wP//SWB/jU6NggCwRxpJwrauIXejnpA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1755885">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILzzCCCbegAwIBAgIEB0TEczANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA5MjMyMDIwMTdaFw0yNzA5MjMyMDIwMTdaMIGeMScw
+JQYDVQQDDB5IRVJOQU4gRUxBRElPIFNBTkNIRVogR1VFUlJFUk8xFTATBgNVBAUTDDIzMDkyMjE1
+Mjk1NDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDjUYlQdA4dj7S0GdGtFqwhQnDtMtxd022LQe+ogmHg1zV8oQV/jSgK
+S+isF7oq/6guUbASWr50XcrpM31yunuCFwXXEyR5kIiXLx5nHkLtdb9O/XKxR1hFsh6cxw5q5HE0
+eIFoqOY00lpbSVanii0o4YMJx+Xij9J37vZX17uqETpHz0AKYa8n4ETj/LihMCsXHhvU9DsbWtXa
+M5DYn5vjXMAavQK4tmLcVhGwGXMV+H9fLaVlhOlaJ2LmVEssRTI1kujxorK6qW3opkzWh0bNinWU
+ZY1LuREWvTUqwGaa8qf/r9wlcBgSFicAuyqaEW1cbCPTd0Nx1qTICJZfoHZXAgMBAAGjggcWMIIH
+EjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUF
+BwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxp
+c3Q/YmFzZTArBgNVHREEJDAigSBqYXF1ZWxpbmViYXV0aXN0YS04OUBob3RtYWlsLmNvbTCCAQYG
+A1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkA
+YwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKm
+cgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1j
+b250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBk
+ZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/
+hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1
+cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHH
+oIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURB
+RCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2Nl
+cnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9w
+ZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRk
+aXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIg
+U0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04s
+Tz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBRQ3klY+kfWPD7fZOYq76yK7hH9
+dDArBgNVHRAEJDAigA8yMDIyMDkyMzIwMjAxN1qBDzIwMjcwOTIzMjAyMDE3WjALBgNVHQ8EBAMC
+BeAwGgYKKwYBBAGCpnIDAQQMDAowNzA1NDE0MTgzMCUGCisGAQQBgqZyAwkEFwwVQ0FNSUxPIFBP
+TkNFIEVOUklRVUVaMBEGCisGAQQBgqZyAyIEAwwBLjATBgorBgEEAYKmcgMHBAUMA1MgTjAdBgor
+BgEEAYKmcgMCBA8MDUhFUk5BTiBFTEFESU8wHwYKKwYBBAGCpnIDIAQRDA83Nzc3Nzc3Nzc3Nzc3
+NzcwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwE
+CQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB1NBTkNIRVowEQYKKwYBBAGCpnIDHgQDDAEuMB0G
+CisGAQQBgqZyAwsEDwwNMDcwNTQxNDE4MzAwMTARBgorBgEEAYKmcgMdBAMMAS4wGAYKKwYBBAGC
+pnIDBAQKDAhHVUVSUkVSTzAaBgorBgEEAYKmcgMIBAwMCjA5ODI4NjMwMTUwDQYJKoZIhvcNAQEL
+BQADggIBAKA0QOtf+dHrB1RLiClPDUeyQCYZwkJMdE8c1thFtQl828eKaeo6HWUoy7u0tZlto3Ip
+KZOIsEqle3wCMXavgntC/SmmG90D2e1+khk5+E6dSVJz36eGOTRA61QDNjmlsRtVdldSCifl8p01
+GrbjmNHydgnrVJa0SED1OvaC4Ax93Imo7vjrQpRNNicNlMInlyBqVmV9fdXW6IDzP0d6loBX1Sf9
+SPFgm4PLwEAejGyoCYnKC2RUeAcmCa0sNZZIYYpvopYCfP7+0gJ6LWuqtjSZ+UyRrH1AdMaAc2g+
+IJQFP0tKdU9ep1qAjJo9sUKzkbGh5VHZNKOXNfboJTACXd+UXgJpGK+YQQvccW8Dcuz75M1fsp++
+Q84PAAE79WteD6WJffrVppmmtahnWvNO0cRK3l4aC+xtewi4KM0mWpAiaDT1L6LnK2GpUMFR/D+t
+2COGmFJswK0Birg5mZ6ER0JfSE0t2QwCcK6cb/LUaXDOgJxbkzM1eW1XY33qCilLnAi45pOGJSED
+fRmNuT3HtDniLPJxycH0svf5h8xB0skqFMw9h7SaD4EccPMKZaHErvh83M9bVsDLzqoxjmQXs2VL
+RoGSeA4Jyqil1S12ZlBqs/4jpfDRvzNnGIx0P+S8kfXDNhlHmPhWY55GgPFqNS+fpCY2bb2aSV2g
+kHdZTYml
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+41GJUHQOHY+0tBnRrRasIUJw7TLcXdNti0HvqIJh4Nc1fKEFf40oCkvorBe6Kv+oLlGwElq+dF3K
+6TN9crp7ghcF1xMkeZCIly8eZx5C7XW/Tv1ysUdYRbIenMcOauRxNHiBaKjmNNJaW0lWp4otKOGD
+Ccfl4o/Sd+72V9e7qhE6R89ACmGvJ+BE4/y4oTArFx4b1PQ7G1rV2jOQ2J+b41zAGr0CuLZi3FYR
+sBlzFfh/Xy2lZYTpWidi5lRLLEUyNZLo8aKyuqlt6KZM1odGzYp1lGWNS7kRFr01KsBmmvKn/6/c
+JXAYEhYnALsqmhFtXGwj03dDcdakyAiWX6B2Vw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature703135-Object357639"><etsi:QualifyingProperties Target="#Signature703135"><etsi:SignedProperties Id="Signature703135-SignedProperties779516"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-01-28T07:56:52-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>wkyGIJMwE9xJaT7N56GKjbJtVeY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>121947251</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-821627"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

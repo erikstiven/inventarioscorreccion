@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MAQUINARIAS HENRIQUES CA</razonSocial>
+    <nombreComercial>MAQUINARIAS HENRIQUES CA</nombreComercial>
+    <ruc>0990010870001</ruc>
+    <claveAcceso>0608202501099001087000120010040001272942761843511</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>004</ptoEmi>
+    <secuencial>000127294</secuencial>
+    <dirMatriz>KM 6.5 VIA A DAULE</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>06/08/2025</fechaEmision>
+    <dirEstablecimiento>KM 6.5 VIA A DAULE</dirEstablecimiento>
+    <contribuyenteEspecial>6925</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <guiaRemision>001-004-000091195</guiaRemision>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <totalSinImpuestos>1104.13</totalSinImpuestos>
+    <totalDescuento>122.69</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>1104.13</baseImponible>
+        <tarifa>15.00</tarifa>
+        <valor>165.62</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>1269.75</importeTotal>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>1269.75</total>
+        <plazo>45</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>PIHMU227</codigoPrincipal>
+      <codigoAuxiliar>PIHMU227</codigoAuxiliar>
+      <descripcion>PIÑON  SENCILLO TRANSLINK TL  80B X 17T</descripcion>
+      <cantidad>4.00</cantidad>
+      <precioUnitario>25.54</precioUnitario>
+      <descuento>10.22</descuento>
+      <precioTotalSinImpuesto>91.94</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>91.94</baseImponible>
+          <valor>13.79</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PIHMU225</codigoPrincipal>
+      <codigoAuxiliar>PIHMU225</codigoAuxiliar>
+      <descripcion>PIÑON  SENCILLO TRANSLINK TL  80B X 15T</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>22.09</precioUnitario>
+      <descuento>4.42</descuento>
+      <precioTotalSinImpuesto>39.76</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>39.76</baseImponible>
+          <valor>5.96</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PIHMU230</codigoPrincipal>
+      <codigoAuxiliar>PIHMU230</codigoAuxiliar>
+      <descripcion>PIÑON  SENCILLO TRANSLINK TL  80B X 20T</descripcion>
+      <cantidad>3.00</cantidad>
+      <precioUnitario>32.96</precioUnitario>
+      <descuento>9.89</descuento>
+      <precioTotalSinImpuesto>88.99</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>88.99</baseImponible>
+          <valor>13.35</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PIHMU221</codigoPrincipal>
+      <codigoAuxiliar>PIHMU221</codigoAuxiliar>
+      <descripcion>PIÑON  SENCILLO TRANSLINK TL  80B X 11T</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>13.24</precioUnitario>
+      <descuento>2.65</descuento>
+      <precioTotalSinImpuesto>23.83</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>23.83</baseImponible>
+          <valor>3.57</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CATRU012</codigoPrincipal>
+      <codigoAuxiliar>CATRU012</codigoAuxiliar>
+      <descripcion>CADENA TRANSLINK TL ASA 080.10  (1 in) 3.05m</descripcion>
+      <cantidad>6.00</cantidad>
+      <precioUnitario>68.82</precioUnitario>
+      <descuento>41.29</descuento>
+      <precioTotalSinImpuesto>371.63</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>371.63</baseImponible>
+          <valor>55.75</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CATRP012</codigoPrincipal>
+      <codigoAuxiliar>CATRP012</codigoAuxiliar>
+      <descripcion>ESLABON PARA CADENA 080.10 (1pulg)</descripcion>
+      <cantidad>20.00</cantidad>
+      <precioUnitario>1.65</precioUnitario>
+      <descuento>3.30</descuento>
+      <precioTotalSinImpuesto>29.70</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>29.70</baseImponible>
+          <valor>4.46</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CATRP040</codigoPrincipal>
+      <codigoAuxiliar>CATRP040</codigoAuxiliar>
+      <descripcion>MEDIO ESLABON PARA CADENA 080.10 (1pulg)</descripcion>
+      <cantidad>20.00</cantidad>
+      <precioUnitario>3.80</precioUnitario>
+      <descuento>7.60</descuento>
+      <precioTotalSinImpuesto>68.40</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>68.40</baseImponible>
+          <valor>10.26</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PIHMU222</codigoPrincipal>
+      <codigoAuxiliar>PIHMU222</codigoAuxiliar>
+      <descripcion>PIÑON  SENCILLO TRANSLINK TL  80B X 12T</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>15.03</precioUnitario>
+      <descuento>3.01</descuento>
+      <precioTotalSinImpuesto>27.05</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>27.05</baseImponible>
+          <valor>4.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PIHMU233</codigoPrincipal>
+      <codigoAuxiliar>PIHMU233</codigoAuxiliar>
+      <descripcion>PIÑON  SENCILLO TRANSLINK TL  80B X 23T</descripcion>
+      <cantidad>3.00</cantidad>
+      <precioUnitario>42.47</precioUnitario>
+      <descuento>12.74</descuento>
+      <precioTotalSinImpuesto>114.67</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>114.67</baseImponible>
+          <valor>17.20</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>PIHMU248</codigoPrincipal>
+      <codigoAuxiliar>PIHMU248</codigoAuxiliar>
+      <descripcion>PIÑON  SENCILLO TRANSLINK TL  80B X 38T</descripcion>
+      <cantidad>3.00</cantidad>
+      <precioUnitario>91.91</precioUnitario>
+      <descuento>27.57</descuento>
+      <precioTotalSinImpuesto>248.16</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>248.16</baseImponible>
+          <valor>37.22</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email">diana.rodriguez@grupodmg.ec/</campoAdicional>
+    <campoAdicional nombre="Condicion pago">CR45</campoAdicional>
+    <campoAdicional nombre="Vendedor">SI01</campoAdicional>
+    <campoAdicional nombre="Vencimiento">20/09/2025</campoAdicional>
+    <campoAdicional nombre="Direccion">CDLA.LOS JARDINES S/N Y QUINTA A NORTE ESQUINA P.B. A 100 MTS.ESCUELA JUAN DIOS - MACHALA</campoAdicional>
+    <campoAdicional nombre="Telefono">072937375</campoAdicional>
+    <campoAdicional nombre="Transporte">LAAR COURI</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature878853">
+<ds:SignedInfo Id="Signature-SignedInfo1043643">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID702605" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature878853-SignedProperties971648">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hg6OiYD7Ksvf38Q+wCGfJR2/gXc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1791816">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>RxebfZXdKGuNvVSX8mtYduXtSbM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-122605" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>gw1zcJEoikix8R5Pd8T1E8wUK1M=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue359817">
+b9VfKT0ISZx+RVabVLCDhNaaRS8n1BjABW/x85Uaqe8yePP/zGa5fyLdkULzEp7eaFf7oZYYG5nF
+vMYrJmqOMGRBoOogaiz8TPQzy1i2xvUVk5lZhb3sm6I2u0MxAgAKxsRPeDBzDPl3o+pyIV2fxRkV
+KF1smS9K+d/GaOx3BWLphPCnLyjVy8eck/Gs4cgkY1BotkIcP1imcPWUvyzxj0pEv2ZdgfrjSpxC
+eYl9hS3VLH70ywchGPeJDpJkJmyBSfX/MsXmbpbc/K+hMpBghk+Fki6qrLm7TuT9XzOAjM9tdaZi
+JiyfeMwq0wzBGuntkpbDc33RoX0c/eL7TEY2Hg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1791816">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ5jCCB86gAwIBAgIEW3ST9TANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIzMDkwNTE1MjE0M1oXDTI1MDkwNTE1NTE0
+M1owga8xCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzEzMBEGA1UEBRMKMDAwMDIzMzMzMDAeBgNVBAMTF0dBTEEgQ0FST0xJTkEg
+Tk9CT0EgQVVaMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApsNie7pO62uHAQcVBTOs
+AVmVvDu01Uail9iLcphWZuf2svAMDX7F2P9bouHkWDq3M6ORqnpi3hWot4cpIkmdxbkQxVhzDWaU
+lm0Isr9ca66XN6+uCc9StPSjxJlsG3t6b+Yhf0sQ+8iCrLLVJa7KiVWsBWTTu7ZymZkC8p38gBDR
+71W6BCHZMMFKfJvyBRLoCqyYMXvBhwQ3o0vJ7Md1B65ut/kzt3uGw639e2uw7Jy9Wous+uiR1iF9
+zQtXjHy37QoPZGUdzMJn+TvUOQnb4MUKA+Al8wex4euYTS8UW+SVFXUhlP9Rn+Mzm9oIDPIa6Z3o
+xWbhgNix3+mukBmEqwIDAQABo4IFFDCCBRAwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYLKwYB
+BAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNhLWNl
+cnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+BggrBgEF
+BQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Aw
+PwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0
+dXMvb2NzcDAqBgorBgEEAYKoOwMKBBwTGk1BUVVJTkFSSUFTIEhFTlJJUVVFUyBDLkEuMB0GCisG
+AQQBgqg7AwsEDxMNMDk5MDAxMDg3MDAwMTAaBgorBgEEAYKoOwMBBAwTCjA5MTAyMjQyNjAwHgYK
+KwYBBAGCqDsDAgQQEw5HQUxBIENBUk9MSU5BIDAVBgorBgEEAYKoOwMDBAcTBU5PQk9BMBMGCisG
+AQQBgqg7AwQEBRMDQVVaMBkGCisGAQQBgqg7AwUECxMJQ09OVEFET1JBMCAGCisGAQQBgqg7AwcE
+EhMQS00gNi41IFZJQSBEQVVMRTAZBgorBgEEAYKoOwMIBAsTCTA0MjI1NDMwMDAZBgorBgEEAYKo
+OwMJBAsTCUdVQVlBUVVJTDAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQS
+ExBTT0ZUV0FSRS1BUkNISVZPMCsGA1UdEQQkMCKBIGNub2JvYUBtYXF1aW5hcmlhcy1oZW5yaXF1
+ZXMuY29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJw
+MS5iY2UuZWMvY249Q1JMMTg4OSxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFE
+T1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1B
+Q0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlm
+aWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9i
+Y2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08g
+Q0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENF
+TlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDE4ODkwKwYDVR0QBCQwIoAPMjAyMzA5MDUx
+NTIxNDNagQ8yMDI1MDkwNTE1NTE0M1owHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKsw
+HQYDVR0OBBYEFCtxe4MF+sP6wF/r+7ArYVqa1sAtMAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAww
+ChsEVjguMQMCBDAwDQYJKoZIhvcNAQELBQADggIBAJ+2IfgLyBWJS3bamA/uKSxE9B+7XiG1LY5r
+xOHsjPjG6LUxIA/28YS8nbrjeF3u6IsVHYfojuG3R45O1yrzCsKG04HvLjc9JGusnoAnnbaKHX4C
+ni80bUC4GJmQD3cKyQfROUKZoFrbhU4g2NI+kfSwvNfQrkp8Mx8plDO/3qUjO784X3JVEWg+PoH1
+zlRkJlV9D1/NbcB9ZIRHVQI4EqVLyDg3KIjihru/I/cNHckfBRAwIC0m0n/jpLrAtNiicNlc9lsm
+3U9onYD+zZghWm4nbi1hfu7V9CZ/ElK9A/lIXhe/8Sq8tM7vpp8MXoQ4M8DPF849Kev0DcybKS+U
+G9sARdXAA2xqC1PcAg/hZTs0Y9hOdcTD0+lnxclR9LkV/MlLlszm5KQgdQsaM5NhuVcDU/nWFuzb
+M05tcR8czo/UOl7AWEqxhjJwdLEZrX/U3TbKW0wzYVg8suEA7hBkhbJnx6pCBRCtJGu6ro4TABSh
+dBLlBlXdB8EOe2FYSLwlQuVjBmCwJFjRIEbU1QDPQtwsFU50kZopCAoL1O9sLvIbVAHQTo8tRV05
+VZE2TlhVV4wESNiU1JW1uclTRsaBJ4qd8D6IxykwYbUu12vqcw+Ud7su846zp3lboYBO8k/zoV+N
+wKbQAIGxKTA6FlkbHLNPwJg9xu6rcsIGAKobTF9o
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+psNie7pO62uHAQcVBTOsAVmVvDu01Uail9iLcphWZuf2svAMDX7F2P9bouHkWDq3M6ORqnpi3hWo
+t4cpIkmdxbkQxVhzDWaUlm0Isr9ca66XN6+uCc9StPSjxJlsG3t6b+Yhf0sQ+8iCrLLVJa7KiVWs
+BWTTu7ZymZkC8p38gBDR71W6BCHZMMFKfJvyBRLoCqyYMXvBhwQ3o0vJ7Md1B65ut/kzt3uGw639
+e2uw7Jy9Wous+uiR1iF9zQtXjHy37QoPZGUdzMJn+TvUOQnb4MUKA+Al8wex4euYTS8UW+SVFXUh
+lP9Rn+Mzm9oIDPIa6Z3oxWbhgNix3+mukBmEqw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature878853-Object50346"><etsi:QualifyingProperties Target="#Signature878853"><etsi:SignedProperties Id="Signature878853-SignedProperties971648"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-08-06T12:44:43-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>/9zZsSr6CYFvi2KX9ApoKMRmC8k=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1534366709</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-122605"><etsi:Description>GuruSoft S.A Tel.045109312</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Niki Omar Pazmiño Sanmartin</razonSocial><nombreComercial>Niki Omar Pazmiño Sanmartin</nombreComercial><ruc>0703411041001</ruc><claveAcceso>1511202401070341104100120020100000000111337822213</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>010</ptoEmi><secuencial>000000011</secuencial><dirMatriz>HEROES DE PANUPALI Y LOJA</dirMatriz></infoTributaria><infoFactura><fechaEmision>15/11/2024</fechaEmision><dirEstablecimiento>HEROES DE PANUPALI Y 8 DE NOVIEMBRE</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MINERA BELORO C L</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><direccionComprador>EL ORO / MACHALA / GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</direccionComprador><totalSinImpuestos>12869.57</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><descuentoAdicional>0.00</descuentoAdicional><baseImponible>12869.57</baseImponible><valor>1930.44</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>14800.01</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>14800.01</total></pago></pagos><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta></infoFactura><detalles><detalle><codigoPrincipal>PLT013</codigoPrincipal><codigoAuxiliar>PLT013</codigoAuxiliar><descripcion>PLATANES METÁLICOS</descripcion><cantidad>40.000000</cantidad><precioUnitario>26.086957</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1043.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1043.48</baseImponible><valor>156.52</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>ARTAFR01</codigoPrincipal><codigoAuxiliar>ARTAFR01</codigoAuxiliar><descripcion>Alfombra Roja (Pelo corto)</descripcion><cantidad>400.000000</cantidad><precioUnitario>25.217400</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>10086.96</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>10086.96</baseImponible><valor>1513.04</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>LINGOTERAS-5KILOS</codigoPrincipal><codigoAuxiliar>LINGOTERAS-5KILOS</codigoAuxiliar><descripcion>LINGOTERA - 10 Kg</descripcion><cantidad>1.000000</cantidad><precioUnitario>1739.130435</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1739.13</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1739.13</baseImponible><valor>260.87</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Correo de cliente">jennifer05062009@hotmail.com</campoAdicional><campoAdicional nombre="Enviar los comprobantes de retenciones electrónicas al correo">nikichuleta@yahoo.com</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature42454">
+<ds:SignedInfo Id="Signature-SignedInfo347984">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID801803" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature42454-SignedProperties515206">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>gBOZ+I39bo699yLBJvd/Ufq4VVU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11028440">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rPms+v7TAEvJxVsfgICmO6mgYzE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-820299" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>bjC3OsyV2G1i6cWVdtMF5IJRTVU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue58268">
+t+0Oh+LceThoAvdNX7yZ+XhZ7SKIFZQxki6Qmh2yusOrMb/R8lrxm8JTgaAczY7V6Vjf/RQejSyC
+YsX0KvtIws1FOedfdPBJkGmO8I9pjV7NOenPd9i/azB7j4AsPKqt31sbFktMI7WmLROLHfwm7TJl
+/2pijfs1zIrjjAjR+WNVec8S7ri5v7mUmAMG8A2czO8RXYOvq6HBWmK0nCsoMGkFU3IhuLXfA8kW
+mXin4GBW1Yw0tJvDkIoV6ztO4fR6MJWxACkVkp1PgPM9JkPOhQyk7EEosRHVBF4MVszzAZWdC4F9
+aJznbtXdmaiIOCK5/N9YvVYDEO5jhX7ZyaN5Lg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11028440">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILwDCCCaigAwIBAgIENN15WzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAyMDkxNTUxNTNaFw0yNTAyMDgxNTUxNTNaMIGbMSQw
+IgYDVQQDDBtOSUtJIE9NQVIgUEFaTUlOTyBTQU5NQVJUSU4xFTATBgNVBAUTDDA5MDIyMzExMDEz
+MTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYD
+VQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDpvF/R5MzZMNuMYjWeVc39FqwXF7LNIvEWriqkm5xh87nqA5TBVmx/IgMA
+GvMnnicci1GdICBI7z9PpMRBVqbYAMP8UzTuSavM0Y+utGBhhUXQz4Z8VOkzBlUVZXy13RitTtzs
+Ynu35xoNZUEOrfDpSLdvJas8JepSr4Bg9TufQrVLI1kkVlIOQIhP7yyVKtZSpBYBKXDipyf44veF
+MaYKemMGyykuAyc3o0g9o0xfxNcWrLL6kT2hvBIQF2DqPw4Z95fgbs75gxSrmW/3Yol1XMyEfyaS
+WiqfoiShM4APPEIKghZZHsdkEkhhUMjmiVM7l1+EXQADfN1t+MYKD5WvAgMBAAGjggcKMIIHBjAM
+BgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEB
+BE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xk
+YXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/
+YmFzZTAgBgNVHREEGTAXgRVuaWtpY2h1bGV0YUB5YWhvby5jb20wggEGBgNVHSAEgf4wgfswWgYK
+KwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUA
+IABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYB
+BQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9h
+ZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8g
+UGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bn
+dy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCB
+mTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE
+QVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6
+Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9j
+YXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlz
+c3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEs
+T1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFU
+QSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU+OIcMLmn3PEtC0P2URvoVgDu310wKwYDVR0QBCQwIoAP
+MjAyMzAyMDkxNTUxNTNagQ8yMDI1MDIwODE1NTE1M1owCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZy
+AwEEDAwKMDcwMzQxMTA0MTAXBgorBgEEAYKmcgMJBAkMB01BQ0hBTEEwEQYKKwYBBAGCpnIDIgQD
+DAEuMCMGCisGAQQBgqZyAwcEFQwTQk9MSVZBUiBNQURFUk8gMjA3NTAZBgorBgEEAYKmcgMCBAsM
+CU5JS0kgT01BUjAfBgorBgEEAYKmcgMgBBEMDzAwNjAwMTAwMDAzMTMzNzARBgorBgEEAYKmcgMj
+BAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisG
+AQQBgqZyAwMECQwHUEFaTUlOTzARBgorBgEEAYKmcgMeBAMMAS4wHQYKKwYBBAGCpnIDCwQPDA0w
+NzAzNDExMDQxMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAZBgorBgEEAYKmcgMEBAsMCVNBTk1BUlRJ
+TjAaBgorBgEEAYKmcgMIBAwMCjA5NjkyNDA0NzUwDQYJKoZIhvcNAQELBQADggIBAIK2dU5aUT7U
+zND3VqHTHwV0OA8VmNa5AAOltg5Ofn4FZNaHKmFWw6F7dEY6GfAGTtykXXIRzbXhV/yxh8qZ4MR9
+PLdxM9AiwJwOC16ZR7SLqsK/bPVrVHFQVkVJszfDBlT7Ni3dBeDoArEW4Hd8P9GCZSlReGDOmUQW
+WcTpmQ8a9unDNN9lfqFvjZiwq34ANRD2OgdN615rrReNI8/v36SV5WnH+oetMeNaogRG5xvBkT5N
+KwMY/SkGgVZJ3iL7cvEr4Ba/KV6zZoaLPpcgVdw8uwyXKv+xNIeSFf/J+8UXVLJzwxB4UP8OWhpN
+Ocbn46L48G0sdzGT4ZQC1psiI3IFzGzBuvxV0ZMf5Ce1mjrwzuu1r+YyQKeDsazAotABkgCvuES4
+yz7wA64Aee+j2Z2MX1o+2qeMWCbb189+nwmDW94Mfp5BDdv3x+nOh5mONhCJ4YQbXKNIECzILlPJ
+KqN2qu9bDw69VKb0XtR39FImq/UlumnLB3qujP38C2ffrmzPgWSsxjfYgtMk+UbSUUdrQDC5oRMK
+oJYzkfDGyFPQRktfU60xz33hxJg1+xB/wBL/ZkJFnLqisgJRgXH+SzwwVX61If/OglS99VrAs8IH
+Ff+cDwVaRMdRZxtcb7Eu/28lm51HeqgIlgNqmaXzLJl6HKv5TJIrLRQXEHJooXdG
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+6bxf0eTM2TDbjGI1nlXN/RasFxeyzSLxFq4qpJucYfO56gOUwVZsfyIDABrzJ54nHItRnSAgSO8/
+T6TEQVam2ADD/FM07kmrzNGPrrRgYYVF0M+GfFTpMwZVFWV8td0YrU7c7GJ7t+caDWVBDq3w6Ui3
+byWrPCXqUq+AYPU7n0K1SyNZJFZSDkCIT+8slSrWUqQWASlw4qcn+OL3hTGmCnpjBsspLgMnN6NI
+PaNMX8TXFqyy+pE9obwSEBdg6j8OGfeX4G7O+YMUq5lv92KJdVzMhH8mkloqn6IkoTOADzxCCoIW
+WR7HZBJIYVDI5olTO5dfhF0AA3zdbfjGCg+Vrw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature42454-Object365571"><etsi:QualifyingProperties Target="#Signature42454"><etsi:SignedProperties Id="Signature42454-SignedProperties515206"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-11-15T15:31:03-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>amyVvnk2oOABmTun2csKtuInreo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>886929755</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-820299"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

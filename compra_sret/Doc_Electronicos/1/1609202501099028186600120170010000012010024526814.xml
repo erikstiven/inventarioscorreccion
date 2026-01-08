@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>TUVAL S. A.</razonSocial><nombreComercial>TUVAL S. A.</nombreComercial><ruc>0990281866001</ruc><claveAcceso>1609202501099028186600120170010000012010024526814</claveAcceso><codDoc>01</codDoc><estab>017</estab><ptoEmi>001</ptoEmi><secuencial>000001201</secuencial><dirMatriz>CEDROS SOLAR 5 Y CALLE C</dirMatriz></infoTributaria><infoFactura><fechaEmision>16/09/2025</fechaEmision><dirEstablecimiento>EL ORO/MACHALA/LA PROVIDENCIA CALLE EDGAR CORDOVA POLO Y VIA LIMON</dirEstablecimiento><contribuyenteEspecial>176</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MINERA BELORO C L</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><direccionComprador>EL ORO / MACHALA / MACHALA / GUAYAQUIL S/N Y QUINTA A NORTE</direccionComprador><totalSinImpuestos>556.64</totalSinImpuestos><totalDescuento>166.27</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>556.64</baseImponible><valor>83.50</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>640.14</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>640.14</total><plazo>30</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>680-000100-I</codigoPrincipal><descripcion>PLANCHA AC A36 L/C 1 1/4(30MM) - 1.22X2.44M(4'X8')</descripcion><cantidad>1.000000</cantidad><precioUnitario>709.570000</precioUnitario><descuento>163.20</descuento><precioTotalSinImpuesto>546.37</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>546.37</baseImponible><valor>81.96</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>520-000043-S</codigoPrincipal><descripcion>PLATINA ACERO A36 L/C - 1 1/4X1/4 (30X6) X 6M</descripcion><cantidad>1.000000</cantidad><precioUnitario>13.340000</precioUnitario><descuento>3.07</descuento><precioTotalSinImpuesto>10.27</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>10.27</baseImponible><valor>1.54</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Email">johanna.enriquez@grupodmg.ec</campoAdicional><campoAdicional nombre="Vendedor">LIYUAN TANG</campoAdicional><campoAdicional nombre="Forma de Pago">CREDITO 30 DIAS</campoAdicional><campoAdicional nombre="Telefono Cliente">09909765490000</campoAdicional><campoAdicional nombre="Telefono Empresa">043704060</campoAdicional><campoAdicional nombre="Direccion Cliente">EL ORO / MACHALA / MACHALA / GUAYAQUIL S/N Y QUINTA A NORTE</campoAdicional><campoAdicional nombre="Orden Compra">2057731</campoAdicional><campoAdicional nombre="Forma Retiro">Despacho en ruta</campoAdicional><campoAdicional nombre="Peso KG">709.52000</campoAdicional><campoAdicional nombre="NOTA CLIENTE">NA</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature550601">
+<ds:SignedInfo Id="Signature-SignedInfo667775">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID1010999" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature550601-SignedProperties615582">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5G8tLdxWdolPBXdEMQ844oXG7Vw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1648478">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+Jv6gViAeFCfq+FVSECxQ7mTyR8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-569465" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ur8rsw2uo1Yx4fTH7OV7vzxs72E=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue924574">
+ED1O5aWhWzND3gteHbJFUvM7p6Si5OSed4Th/x2PZ6wn3uYipyQF9uk5909Pidi7jgTYpJn1yF1N
+EX0+7N9ZbRshH/h6t0PpWW0xr7mgY/owapVNL8ZJINfosTVY1FzRLQwUzazuBNqe1zaK0xwPqZoO
+rdKOQu1T37zmTqe4d9lTQaO+Ec4SU6bVAx2Xr/fNZ0fHwjE5+PnLZ8d02+Qgb8SI5+py4Dx1pO5F
+SrbD/cN+h1wJ/F+DwW39Wsw0x+OuR8vTYgSF0WzZc4ixUZlyxaWuUvVC616XzZ9LIAoVxDAhv6dU
+YCZgK7pHZBisjYdtZUt0v9tDdgtd8LLEglzGug==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1648478">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMBzCCCe+gAwIBAgIEQ/ruVzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMDYxNDM5MTBaFw0yNjEyMDYxNDM5MTBaMIGnMSUw
+IwYDVQQDDBxGUkVERFkgUkVORSBWQUxMRUpPIE1FRFJBTkRBMSAwHgYDVQQFExcwOTA4ODczMDUy
+LTA2MTIyNDA5NDkwMTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDm6f44lXIQ9vtVSlLbNI1YTUTEeL2xuEaQKWYz56h2
+I2cstn9STXf1lhqkMueSFJvweNWeGivOqKO/BFZfB86xiX9XlEUif2tFxztzun1njocgpZ3Gntmr
+vPktQOzRW8AQLjmLxgSD0TtloqzOpOYs4DdAA7+qztXKn0kcnxS1kd4/3fyEqMSe+JBjej/uYRQ7
+2CdFrmO/l8CB6putb60+80j8fQQmAQSIdXC/fittiuaFbENUbaPgPL6+EJubrgEId3LSLG47Xju1
+mU0G88YJ0Jgbns1R5czDIhE5B6eX8HEmUdIKZTpKo+SDQhpyAa4Ee9U9Oac7K74R3C/UBHRrAgMB
+AAGjggdFMIIHQTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2P
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7
+hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBD
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2
+b2NhdGlvbkxpc3Q/YmFzZTAdBgNVHREEFjAUgRJpbXBvcnRAdHV2YWxzYS5jb20wggEVBgNVHSAE
+ggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBh
+AGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisG
+AQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0
+aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggr
+BgEFBQcDAgYIKwYBBQUHAwQwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cu
+c2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkx
+OTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYD
+VQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0
+aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1
+ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9V
+PUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEg
+Uy5BLiAyLEM9RUMwHQYDVR0OBBYEFBGqcfGgJYk8yNiiB7l3nQmcpuH/MCsGA1UdEAQkMCKADzIw
+MjQxMjA2MTQzOTEwWoEPMjAyNjEyMDYxNDM5MTBaMAsGA1UdDwQEAwIF4DAeBgorBgEEAYKmcgMF
+BBAMDlZJQ0VQUkVTSURFTlRFMBoGCisGAQQBgqZyAwEEDAwKMDkwODg3MzA1MjAWBgorBgEEAYKm
+cgMJBAgMBlRBUlFVSTARBgorBgEEAYKmcgMiBAMMAS4wKAYKKwYBBAGCpnIDBwQaDBhDRURST1Mg
+U09MQVIgNSBZIENBTExFIEMwGwYKKwYBBAGCpnIDAgQNDAtGUkVERFkgUkVORTAfBgorBgEEAYKm
+cgMgBBEMDzAwMTAwMjAwMDY4MTE1NjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMM
+BAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdWQUxMRUpPMBkGCisGAQQBgqZyAwoECwwJVFVW
+QUwgUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MDI4MTg2NjAwMTARBgorBgEEAYKmcgMdBAMMAS4w
+GAYKKwYBBAGCpnIDBAQKDAhNRURSQU5EQTAQBgorBgEEAYKmcgMIBAIMADANBgkqhkiG9w0BAQsF
+AAOCAgEAGnaS8eLDOpeGxzASgh0rcOn2ttDeXehLKpOLqzLAFvSwDueQdygrlfe4ev6ICHHXRofx
+RKuzW/k/M7p9DDcr0aYWi3/L74yY+sZbxxSM756L9vzHL0UiEkLF3OAVkCtHAiNBARJVWRgqqTeu
+Ss1GlKti14oabtrYyUknu/ut9RmU1JYvL/ADf9SYcPBbgtqoeF/CpE4LzFx25eMq2jd6VDQR5KCG
+1G5UW3K8Ik3Ig/w1vdmR//MLIsGVSWLKguawiXAlsoUSPP9hA6m4SiOe0hRQySoDICp8qB/kYG7E
+TZ9RC5mIELH95y+lmO09NikVxVrATmBoFFYT7bVgVAGV48ym7uADdSV8kz+/CK/pott6Ru/5R1QT
+5qBTkdF50KtBpudUPhu+AGvyAFbojp7+hiaisqltCIiN4AI7Sc3S8tl9lIr4jITuYnt7avuZvB+K
+H5tKDOxWZmSFTBoQc2nlZdu+TuxmGT9sI016Uyc+HOXj4I2va6ZBi5RQAUNXjxFnE3s8dO54BzjN
+mUBvnYY2/nCSTtUu9qrTdouwCRwOjMkfeKwZBcgtpRzl1COq/5CYI304sEVZ7qZmOJh+RxrH60Zd
+45YThHz3EN/un0X9uEk8/p2lilWnwfgnyQNyWjaAZAsFT2iS1k3ya1iKDaKc91igQXjy/Yfm/hyo
+2hoboMM=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+5un+OJVyEPb7VUpS2zSNWE1ExHi9sbhGkClmM+eodiNnLLZ/Uk139ZYapDLnkhSb8HjVnhorzqij
+vwRWXwfOsYl/V5RFIn9rRcc7c7p9Z46HIKWdxp7Zq7z5LUDs0VvAEC45i8YEg9E7ZaKszqTmLOA3
+QAO/qs7Vyp9JHJ8UtZHeP938hKjEnviQY3o/7mEUO9gnRa5jv5fAgeqbrW+tPvNI/H0EJgEEiHVw
+v34rbYrmhWxDVG2j4Dy+vhCbm64BCHdy0ixuO147tZlNBvPGCdCYG57NUeXMwyIROQenl/BxJlHS
+CmU6SqPkg0IacgGuBHvVPTmnOyu+Edwv1AR0aw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature550601-Object167283"><etsi:QualifyingProperties Target="#Signature550601"><etsi:SignedProperties Id="Signature550601-SignedProperties615582"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-09-16T14:09:10-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>E22qH/q+6mblQ0/jC8iqbvABJE4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1140518487</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-569465"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

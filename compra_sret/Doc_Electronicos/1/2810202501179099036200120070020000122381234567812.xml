@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>AMCECUADOR CIA LTDA</razonSocial><nombreComercial>AMCECUADOR CIA LTDA</nombreComercial><ruc>1790990362001</ruc><claveAcceso>2810202501179099036200120070020000122381234567812</claveAcceso><codDoc>01</codDoc><estab>007</estab><ptoEmi>002</ptoEmi><secuencial>000012238</secuencial><dirMatriz>QUITO - AV. ELOY ALFARO N40-590 y AV. GRANADOS</dirMatriz></infoTributaria><infoFactura><fechaEmision>28/10/2025</fechaEmision><dirEstablecimiento>VIA PERIMETRAL KM 26 CALLE 26 S/N LOTIZAC.GALAZSA</dirEstablecimiento><contribuyenteEspecial>143</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MINERA BELORO C.L.</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><direccionComprador>CALLE GUAYAQUIL S/N INTERSECCION QUINTA A NORTE 1070102MACHALA, EL ORO - ECUADOR</direccionComprador><totalSinImpuestos>1529.90</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>1529.900000</baseImponible><valor>229.49</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>1759.39</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>1759.39</total><unidadTiempo>Dia</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>1011519</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>MASCARA 3M 6800S FULL FACE</descripcion><cantidad>10.00</cantidad><precioUnitario>136.500000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1365.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1365.00</baseImponible><valor>204.75</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1011354</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>FILTRO 3M 6003 VAPORES ORGANICOS / GASES ACIDOS (1 PAR)</descripcion><cantidad>10.00</cantidad><precioUnitario>9.990000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>99.90</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>99.90</baseImponible><valor>14.99</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1011561</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>PREFILTRO 3M 5N11 PARA LINEA 6000S</descripcion><cantidad>20.00</cantidad><precioUnitario>1.800000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>36.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>36.00</baseImponible><valor>5.40</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>1011577</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>RETENEDORES 3M 501 PARA PREFILTROS</descripcion><cantidad>20.00</cantidad><precioUnitario>1.450000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>29.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="Sin Informacion" valor="--"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>29.00</baseImponible><valor>4.35</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="UNIDAD DE NEGOCIO:">N</campoAdicional><campoAdicional nombre="DIRECCION CLIENTE:">CALLE GUAYAQUIL S/N INTERSECCION QUINTA A NORTE 1070102 MACHALA, EL ORO - ECUADOR</campoAdicional><campoAdicional nombre="EMAIL CLIENTE:">johanna.enriquez@grupodmg.ec;segundo.ramos@grupodmg.ec</campoAdicional><campoAdicional nombre="COMENTARIO:">PEDIDO: 2058360 ENTREGA INMEDIATA Basado en Pedidos de cliente 200087888. NUMERO SAP: 210012238 TELEFONO: 72937375</campoAdicional><campoAdicional nombre="CONDICIÓN PAGO:">contado</campoAdicional><campoAdicional nombre="ORDEN DE COMPRA:">N/A</campoAdicional><campoAdicional nombre="NOTA:">Cualquier inconformidad relacionada con los productos detallados en las facturas deberán ser
+notificados en el plazo de 8 días, contados desde la fecha de emisión de facturación.</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1000210">
+<ds:SignedInfo Id="Signature-SignedInfo663958">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID689344" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1000210-SignedProperties544492">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ua2/4rmexqCAgRb9ErQKwmc7rhc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1922111">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>GaoXM56F7sVJBeSYVojkAzUn82Q=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-593918" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>9uggtPoK/jPD8Jieyz18Y0I+ot0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue335876">
+B+MWHGXjHIE2EpDFPaJ1CSF6e6R1WYTsXKcEXBggI8tDA9l86SytWfUZ4Qh5sMtvwA5KBnRvsDa6
+0aloqdYai06PDb1uLI55Il+SIxAEPfPMOrv/erVyCsJ1uNFWccP+G2yCQ2wiKeAfmPxJW1ch7l+8
+YD5YZVj72ySM8yTsf17kRIoXZExO6jSWNFHtenh+75Oa10YaPP7b4EH9Ua6CqNYhfKfEyo7NgmWm
+g+WVOauv/yOm0/lCWDk/3DwO6LKXqtiPNhe7sIA876dQE+ll37ak0U5InwiNGpB7UlWid60GfzTh
++sZ/BPrEWLk+FzEiXPtTrXc1DkDM3md8lkkB0Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1922111">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMbDCCClSgAwIBAgIEEt/wfzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA1MDIxODQyMjJaFw0yOTA1MDIxODQyMjJaMIGmMSQw
+IgYDVQQDDBtNQVRFTyBKQVZJRVIgR0FSQ0lBIE1PTlRFUk8xIDAeBgNVBAUTFzE3MTEyNDc3ODEt
+MDIwNTI0MTM1MjAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBALAv1tOcBxtP9vDq1nEBbKIkoJqE5BzqUeSreZJvrM9v
+mT5u1aFBRCVlSQBw4B8ygFx/rUCMbmrIu1vLK/jYFsIlbqK6kKJi4XkXRd22g+dkEZ/0sfBLwo20
+CnKpChiTKFRB3cLVQzO3+0zblTcBZehtURD9ZJDXVkozrPDeSnhFQvOodUEDJ9366zbZLzl+qjPI
+8WdSFc0Gfk3bUfhEY2SggaGzoj2r9vSYRFE5TJzH139Mm66rbRADLYyCLKjBKiuQVQvvQPTzEprs
+bUCjKHSpEwVxOz5XseABmcXdw7KosAC54ztm+2waQ8MKsXboPzRwUdlkMhHfq3CmNuyHxA0CAwEA
+AaOCB6swggenMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8w
+WQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuG
+gbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZv
+Y2F0aW9uTGlzdD9iYXNlMCEGA1UdEQQaMBiBFm1nYXJjaWFAYW1jZWN1YWRvci5jb20wggEVBgNV
+HSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkA
+YwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEG
+CisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5l
+dC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1Bv
+bGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSC
+ApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1
+YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJ
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQsw
+CQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9
+RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRw
+czovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+d2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQU8YiCiy6L
+ACo96zOwVJHcKtlw1tkwKwYDVR0QBCQwIoAPMjAyNDA1MDIxODQyMjJagQ8yMDI5MDUwMjE4NDIy
+MlowCwYDVR0PBAQDAgXgMBcGCisGAQQBgqZyAwUECQwHR0VSRU5URTAaBgorBgEEAYKmcgMBBAwM
+CjE3MTEyNDc3ODEwbwYKKwYBBAGCpnIDCQRhDF9RVUlUTyBESVNUUklUTyBNRVRST1BPTElUQU5P
+IENBQkVDRVJBIENBTlRPTkFMIENBUElUQUwgUFJPVklOQ0lBTCBZIERFIExBIFJFUFVCTElDQSBE
+RUwgRUNVQURPUjARBgorBgEEAYKmcgMiBAMMAS4wOwYKKwYBBAGCpnIDBwQtDCtBViBFTE9ZIEFM
+RkFSTyBONDAgNTkwIFkgQVYgREUgTE9TIEdSQU5BRE9TMBwGCisGAQQBgqZyAwIEDgwMTUFURU8g
+SkFWSUVSMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwODEyNzQyMBMGCisGAQQBgqZyAyEEBQwD
+UEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBkdBUkNJQTAsBgor
+BgEEAYKmcgMKBB4MHEFNQ0VDVUFET1IgQ09NUEFOSUEgTElNSVRBREEwHQYKKwYBBAGCpnIDCwQP
+DA0xNzkwOTkwMzYyMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAXBgorBgEEAYKmcgMEBAkMB01PTlRF
+Uk8wGgYKKwYBBAGCpnIDCAQMDAowOTk0MjM3Mjg0MA0GCSqGSIb3DQEBCwUAA4ICAQA7IhVsqjUr
+zYcZUCKE5D63gnG2dbxx/IucmdQIWyGk89jAJYK/kXNBv6zcrXTYuoM6MOPceWRGNvk27M1Vdko7
+5gNHHmno+AfRVZ4q1vMC3SufHMR5RJsoR/neejgLqiuRybzqE6vth8Hbr+jJapyqh4yx8pf3qU9J
+gyVNUJaBdkqgDuxMwL1/QGexX24+nfEZIXHevnGfGh+gTZF9MHJPuVtSOznl2IIGoQhChkZ3im6r
+WzgRRnJtbrLU6xQ4B1dWB+FIrSFcyE7y7vtoejztaCmamirvPhV2s/PiKw8Ac86IwfXj6WowlIWu
+bI0P4yjxsEJFRvTqLSh4oY+JhAxK989/ILS2VfzoAAaan0O9q/LO4cVQT55kt2U2VMVCdkyvol2g
+2Geelghed03Oq/aiCAj+4cz7CO6gF8vEikKcSGf7jPtOOJo/b3ORp7O8XLV6q/Ce3j0MWhhrtFAd
+jdjzQydY+wNu5HmSWoLN0+p40pf42Crrabj2uLlZiVQIVzkkhBdZdb6v0ZpiRYYl0VzqE+/iWctk
+wWVT4S1HRD498OMtESMjrZKOSROVujU7r2VGCl8DTV+9gqWC5wk2pk1ZO7AYfVAHNUdLtcZEpFFX
+SXSmwzY0jXuY40uJ5FkxLxOhHo31On9bGpvA2r3CPGdClTDginbtWP4L2pWwjI7mxQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sC/W05wHG0/28OrWcQFsoiSgmoTkHOpR5Kt5km+sz2+ZPm7VoUFEJWVJAHDgHzKAXH+tQIxuasi7
+W8sr+NgWwiVuorqQomLheRdF3baD52QRn/Sx8EvCjbQKcqkKGJMoVEHdwtVDM7f7TNuVNwFl6G1R
+EP1kkNdWSjOs8N5KeEVC86h1QQMn3frrNtkvOX6qM8jxZ1IVzQZ+TdtR+ERjZKCBobOiPav29JhE
+UTlMnMfXf0ybrqttEAMtjIIsqMEqK5BVC+9A9PMSmuxtQKModKkTBXE7Plex4AGZxd3DsqiwALnj
+O2b7bBpDwwqxdug/NHBR2WQyEd+rcKY27IfEDQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1000210-Object589775"><etsi:QualifyingProperties Target="#Signature1000210"><etsi:SignedProperties Id="Signature1000210-SignedProperties544492"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-10-28T11:50:15-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>RRdE05LAG/vtEyC4IOC7pPQ+sYY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>316665983</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-593918"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

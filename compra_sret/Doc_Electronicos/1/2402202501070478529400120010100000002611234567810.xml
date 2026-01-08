@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>IÑIGUEZ TORRES JUAN DIEGO</razonSocial>
+    <nombreComercial>IÑIGUEZ TORNERIA</nombreComercial>
+    <ruc>0704785294001</ruc>
+    <claveAcceso>2402202501070478529400120010100000002611234567810</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>010</ptoEmi>
+    <secuencial>000000261</secuencial>
+    <dirMatriz>Piñas</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/02/2025</fechaEmision>
+    <dirEstablecimiento>SITIO CAZADEROS  VIA PIÑAS PORTOVELO</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <direccionComprador>GUAYAQUIL S/N Y 5TA NORTE</direccionComprador>
+    <totalSinImpuestos>40434.78</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>40434.78</baseImponible>
+        <valor>6065.22</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>46500</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>46500</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>P000000270</codigoPrincipal>
+      <codigoAuxiliar>P000000270</codigoAuxiliar>
+      <descripcion>Construccion de carros mineros Z 20</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>1043.48</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2086.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2086.96</baseImponible>
+          <valor>313.04</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>P000000269</codigoPrincipal>
+      <codigoAuxiliar>P000000269</codigoAuxiliar>
+      <descripcion>Construccion de carros mineros V40</descripcion>
+      <cantidad>21</cantidad>
+      <precioUnitario>1826.0869</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>38347.82</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>38347.82</baseImponible>
+          <valor>5752.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="vendedor ">Cajero 1</campoAdicional>
+    <campoAdicional nombre="correo ">diego.alvear@grupodmg.eclogistica.001@grupoadmg.com</campoAdicional>
+    <campoAdicional nombre="ciudad ">PIÑAS</campoAdicional>
+    <campoAdicional nombre="observación ">CALIFICACION ARTESANAL NUEMRO 173998</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature257374">
+<ds:SignedInfo Id="Signature-SignedInfo763043">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID905278" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature257374-SignedProperties652763">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>cXMU2YRs0klIVi7mwtjkem/G3Mk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1466903">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>u+t4/5qih3qH46oS0vQspMf/xC4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-172305" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>mT4ISwLfBF5raQafEPtM99V7Qno=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue697361">
+A56HudF8xmXFC0TsC98YgRE7B3rccteXPwQr/pVSSh3t4xLODH8KnlpsRv+huBZJQ6aTI+4F8puQ
+BXFzQYHqo+u3/XO51hLnwum7xcrBgtBEyoLP5iY/mPh8gO7VWJBGG+MOA1Z9OfGlsWSqip/r5iXA
+ImzTSiJShjmjbZtN67T1fSuCO7Svt6VR3JyoUC2T97VO0goeOmKFl0kAUhoN5yIMq47MEuzcu49y
+plIFLrvWXzUNwSSJwbgKlktUZhTzMGm/CQIQlPzW3pRNDsgGODE1UdkdHAiglBcVmWfH2I+E70F3
+65/0aA7YWu0Ve+hF1zCpHOKHNWb76hCylfT8VA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1466903">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJJDCCBwygAwIBAgIIaVdSRsuw64gwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTAwNzE1MDkwMFoXDTI3MTAwNjE1MDkwMFowgZoxCzAJBgNVBAYTAkVDMRgwFgYDVQQEDA9J
+w5FJR1VFWiBUT1JSRVMxEzARBgNVBCoMCkpVQU4gRElFR08xGTAXBgNVBAUTEElEQ0VDLTA3MDQ3
+ODUyOTQxIzAhBgNVBAMMGkpVQU4gRElFR08gScORSUdVRVogVE9SUkVTMRwwGgYDVQRhDBNUSU5F
+Qy0wNzA0Nzg1Mjk0MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr2VyZfQIe+PE
+vlozZ2EHwyZ2gXLezN74+QEv5dG2AVlfwKS9jtQVCW9pHlysQdPycGt0LFAdE07W5Hi0ZQYUdnHK
+OKM+Og/6qOh5xV2bUtkAM118Y/j5aKGDrgkkfWP6Z70Kx14NpoChr8BKD2zaUTQ4553G3F3C17g3
+CXuAWJKbiAAfaKM0X1nr9w8PToVFDj0g30tTfQTR3vDYALXkoRnCWHzg+UdtcEfCNJmHZsLZm6lV
+z4JdfG0kmv+G3Dyl0kjaqnf2u1HQ6GxgkJbnneqF9drZBGNJRwaWWtbS/HYWSqLkQ5532UlZku14
+RYyx1qXsECJK815aoBQoJM19/wIDAQABo4IETDCCBEgwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsG
+AQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRp
+ZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUalM9To+LDfIVJGpGZlvPhm5EUP4wDAYD
+VR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0gBIGRMIGO
+MIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29t
+L3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQRVJTT05B
+IE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8v
+Y3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8
+hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEu
+Y3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggG/BgNV
+HREEggG2MIIBsoEXZGllZF9nb18wMDdAaG90bWFpbC5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMDcw
+NDc4NTI5NKAbBgsrBgEEAYLxNmYDAqAMDApKVUFOIERJRUdPoBkGCysGAQQBgvE2ZgMDoAoMCEnD
+kUlHVUVaoBcGCysGAQQBgvE2ZgMEoAgMBlRPUlJFU6B1BgsrBgEEAYLxNmYDB6BmDGRCQVJSSU86
+IFNJVElPIENBWkFERVJPUyBDQUxMRTogVklBIFBJw5FBUyBQT1JUT1ZFTE8gTsOaTUVSTzogUyBO
+IElOVEVSU0VDQ0nDk046IEEgMjAwIE0gREVMIEhPU1BJVEFMoB8GCysGAQQBgvE2ZgMIoBAMDjAw
+NTkzOTk5NTYzOTg5oBcGCysGAQQBgvE2ZgMJoAgMBlBJw5FBU6AeBgsrBgEEAYLxNmYDC6APDA0w
+NzA0Nzg1Mjk0MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNP
+TkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEB
+CwUAA4ICAQA5FjNkNVkQ9PtsAnplNO/V/GF2iFlzmbmzF2aTW+OHVDd2wabtxI3AXXgYkWgdNQMO
+qUHPvtFCzCrCvvjg2FakJRDGpZMJLdA+x4FkrsDVQuRiJh6eUoWRpHSPLnSZ5nSUPl16kzZav5QJ
+qhWsc4dP77yoQ9q9NSWhYLlhC0nS0V2sDz2clL7FtQYXr9Lv2/7EaRGuUSlGLbkNiG29UUPC+6zB
+od1rZXMwVRiTopn/ULYhmrrRrJ0Blo6avWmmpzMehv3qS6Mq6jVgIlsNvZthbIg9AQ/OFQ43g4ch
+huzC5MgdFN3APwCJDOA41wWyBu77v9RdWliP5SmbXqwhKRumwDigJwLGAUPAA4CSTbJCpVzLSWiM
+jUsL7bbOhEx/NIKTdEq57Zn2qsnxUEIzfSHErUcLIXSBSzisb/lgzSwLYRThwn5NXSstW+uOG2kQ
+Sa5jwelQ9/+4HHFjKxSbc4thqT5sYhPSPdB47bbKYODoTB/OoRXgIyQ+Bsd4exk75+/7cNA4iOjO
+DRcjFva2bAkNyKtTggBkXYGjQ8D8pTRveyhaKWoT8fSro+9Fp064Ljhnda4Qcfabk3hK+PyaYpWE
+Bnaq3bm5ddMpjl0Y/DiuZNMKHJDhaNFjPqJmZLaoDazFba5rFyJxU0s1PDN3K7DOavu4gRKUYCiY
+o2rAgisnjQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+r2VyZfQIe+PEvlozZ2EHwyZ2gXLezN74+QEv5dG2AVlfwKS9jtQVCW9pHlysQdPycGt0LFAdE07W
+5Hi0ZQYUdnHKOKM+Og/6qOh5xV2bUtkAM118Y/j5aKGDrgkkfWP6Z70Kx14NpoChr8BKD2zaUTQ4
+553G3F3C17g3CXuAWJKbiAAfaKM0X1nr9w8PToVFDj0g30tTfQTR3vDYALXkoRnCWHzg+UdtcEfC
+NJmHZsLZm6lVz4JdfG0kmv+G3Dyl0kjaqnf2u1HQ6GxgkJbnneqF9drZBGNJRwaWWtbS/HYWSqLk
+Q5532UlZku14RYyx1qXsECJK815aoBQoJM19/w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature257374-Object351544"><etsi:QualifyingProperties Target="#Signature257374"><etsi:SignedProperties Id="Signature257374-SignedProperties652763"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-02-24T16:52:56-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>mcYsp62DBgBpXlWX4ZA+Bx3XUJY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7590626160974818184</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-172305"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

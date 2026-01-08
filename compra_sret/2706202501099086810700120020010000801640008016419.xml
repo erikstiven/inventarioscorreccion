@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SACOPLAST SA </razonSocial>
+    <nombreComercial>SACOPLAST SA</nombreComercial>
+    <ruc>0990868107001</ruc>
+    <claveAcceso>2706202501099086810700120020010000801640008016419</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000080164</secuencial>
+    <dirMatriz>DURAN KM 8.5 VIA YAGUACHI</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>27/06/2025</fechaEmision>
+    <dirEstablecimiento>DURAN KM 8.5 VIA YAGUACHI</dirEstablecimiento>
+    <contribuyenteEspecial>0577</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C L </razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <direccionComprador>MACHALA   GUAYAQUIL S N Y QUINTA A NORTE ESQUINA</direccionComprador>
+    <totalSinImpuestos>3566.96</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>3566.96</baseImponible>
+        <valor>535.04</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>4102.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>4102.00</total>
+        <plazo>1</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>103030219</codigoPrincipal>
+      <codigoAuxiliar>103030219</codigoAuxiliar>
+      <descripcion>T 2.0 PARA BIG BAG X 200MT CERRADA PESADA</descripcion>
+      <cantidad>513.30000</cantidad>
+      <precioUnitario>4.342010</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2228.75</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Nota" valor="3 ROLLOS"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2228.75</baseImponible>
+          <valor>334.31</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>103030218</codigoPrincipal>
+      <codigoAuxiliar>103030218</codigoAuxiliar>
+      <descripcion>T 2.0 PARA BIG BAG X 200MT CERRADA LIVIANA</descripcion>
+      <cantidad>308.20000</cantidad>
+      <precioUnitario>4.342010</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1338.21</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Nota" valor="2 ROLLOS"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1338.21</baseImponible>
+          <valor>200.73</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">MACHALA   GUAYAQUIL S N Y QUINTA A NORTE ESQUINA</campoAdicional>
+    <campoAdicional nombre="Telefono">2923970</campoAdicional>
+    <campoAdicional nombre="email">logistica.001@grupoadmg.com</campoAdicional>
+    <campoAdicional nombre="Nota">GUIA 002-001-000102444</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature519170">
+<ds:SignedInfo Id="Signature-SignedInfo189812">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID411683" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature519170-SignedProperties556227">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>3psMaPeqHz0/IngC25KTIG5+kGI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1623491">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Su4EyHk3Igz37gOyAeK0yaTxVx4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-56423" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>IerKTA1lyuev9qMK0Lt/5JWxtsE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue542872">
+oX2kDmHq3vEVEoulNwJT/9T4UDImd9p5ZoNR4SOR1K1Uybq6alvH79sUEGyc/Pwi5JR3uPWQ3wNf
+b9rd4NRKHoi6H3yXhtmP/JEKrtCHNBL77wnxJ+lITZnlR2OWYZQAE3fNbCAscLo+hEzQn4Xehhss
+b0ewKAXuMNbD/z2v89SXTWxEl36tvLqBysBQd5lGTrBm8XuAI9CXGA4NiKOzfth9CUM50jgro6lg
+iM/eT3HM5y8lQCfC/ULFEis16v8KX8QoOECJRVmXlfPOlE2ILp55c2AddaRSy1H+cAaF2/MNdixL
+KKv9rLblOn1VIQhuzd266IK2FEzYjC1+8l3Ucw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1623491">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ3zCCB8egAwIBAgIEW3Tj3jANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIzMTAwNjIwMDQ0NVoXDTI1MTAwNjIwMzQ0
+M1owgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDIwMDAxODMwNjAkBgNVBAMTHUFMRlJFRE8gTUFTQUhJ
+Uk8gT1pFS0kgQ0FNUE9TMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv70t+DhP5Ufx
+TWEY/r7FNCj8pmF0UkfoKMsleQBgyfYJ8jrjGRZ+y+/q5NmsH3dEfQFV8K9D+X1/RhPT6wQp1fht
+CL+XZp7KIg5QC9vqw13vLHMxOwAKSl+wsO75REG6TsvQQceU1Hb7BYrur+uPAept0P0RsSVDJ67i
+PXTaTDMzWauHc+sva24rgHvaW0p9hl2tkYkeG3UIm+y6qs2CGtR+hF658vlJYNnENB8V5pInWR6K
+fWvp4vi60udNv/XcyiUKLAxh0VGat7hc8PoEUyy7ZDwZCblY5mlx08xmSIImYs769Suy9JL7Hzry
+/KvI17mb5E05mAX/beh5yWn/GQIDAQABo4IFBzCCBQMwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4w
+XAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+
+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVz
+L29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dl
+Yi9zdGF0dXMvb2NzcDAeBgorBgEEAYKoOwMKBBATDlNBQ09QTEFTVCBTLkEuMB0GCisGAQQBgqg7
+AwsEDxMNMDk5MDg2ODEwNzAwMTAaBgorBgEEAYKoOwMBBAwTCjA5MDg4Mjk0NjgwIAYKKwYBBAGC
+qDsDAgQSExBBTEZSRURPIE1BU0FISVJPMBUGCisGAQQBgqg7AwMEBxMFT1pFS0kwFgYKKwYBBAGC
+qDsDBAQIEwZDQU1QT1MwHwYKKwYBBAGCqDsDBQQREw9HRVJFTlRFIEdFTkVSQUwwGAYKKwYBBAGC
+qDsDBwQKEwhFTCBCQVRBTjAZBgorBgEEAYKoOwMIBAsTCTA0MzcxMzUwMDAbBgorBgEEAYKoOwMJ
+BA0TC1NBTUJPUk9ORE9OMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAgBgorBgEEAYKoOwMzBBIT
+EFNPRlRXQVJFLUFSQ0hJVk8wJQYDVR0RBB4wHIEaYXNpc3RlbnRlQHNhY29wbGFzdC5jb20uZWMw
+ggHhBgNVHR8EggHYMIIB1DCCAdCgggHMoIIByIaB1mxkYXA6Ly9iY2VxbGRhcHN1YnAxLmJjZS5l
+Yy9jbj1DUkwxOTA1LGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFV
+SVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLUVD
+SUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJl
+dm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19j
+cmxmaWxlY29tYi5jcmykgbYwgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFM
+IERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBE
+RUwgRUNVQURPUjEQMA4GA1UEAxMHQ1JMMTkwNTArBgNVHRAEJDAigA8yMDIzMTAwNjIwMDQ0NVqB
+DzIwMjUxMDA2MjAzNDQzWjAfBgNVHSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4E
+FgQU+Z455klerFo+QzgRO4DJrvYS7UgwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4x
+AwIEMDANBgkqhkiG9w0BAQsFAAOCAgEAvVbBCwlZGTY3ydG1WhqQSQyltegemNLm6+vP1p81bWB/
+17fKm1pc3bKzvQmbTUiZwlnsPlZMgBezPLqG69fbU2hk8aVMqy4yz3lSAHYdmyWmrY4A7KVTBJJl
+sVLjxRqw5zuZWSl/zjj9lewhHLIsUSnbMESP8S83tlkiIMIbiYpbsoNPus4/oUPHd2IAWTPqGgS4
+EE++rLNnUrKg9Dvyuao3WXpmMIewmvLFRmR+jbqFpwJTOvty/7hvGxMoe6lNZ5UBFCAPwRJGkoem
+lFAfOSabejZ1LEfXAKWdqxix6GTSTKDZbIH1abHZpUpUjZBFuF4zXzcjQFBRlrSAjPV+5Hgx8h5u
+zbe03OnA474J2Z01eaokH/dVi5u/z0kSYuuf0h2X21eCW9w9A6SkRIThQjxfL6mm6WgTRDiz11te
+6h4XqNTNV2AZoS2oWSCBsMoa21JlyGuC4ktgebqQptzaHd8mHzL2O0I8Gz6hB3xbIvUm910PTKcL
+84QK7oFnGVlEqPj2AI4u+WOC1NEv5qT2eTzV6GYUT1P+gARqsDgC9wp/nTfP+0OnS3JyQGRgrxA/
+W4vCa4o3QS/iCqpoxrcjtUBYS9+apRuLEbDEhxGtJAAUXKZUjb/az9oezeAaDiyeZBhW1fwuIxQb
+nea34u42nLadWwXewaJZqdQRZcR4mUg=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+v70t+DhP5UfxTWEY/r7FNCj8pmF0UkfoKMsleQBgyfYJ8jrjGRZ+y+/q5NmsH3dEfQFV8K9D+X1/
+RhPT6wQp1fhtCL+XZp7KIg5QC9vqw13vLHMxOwAKSl+wsO75REG6TsvQQceU1Hb7BYrur+uPAept
+0P0RsSVDJ67iPXTaTDMzWauHc+sva24rgHvaW0p9hl2tkYkeG3UIm+y6qs2CGtR+hF658vlJYNnE
+NB8V5pInWR6KfWvp4vi60udNv/XcyiUKLAxh0VGat7hc8PoEUyy7ZDwZCblY5mlx08xmSIImYs76
+9Suy9JL7Hzry/KvI17mb5E05mAX/beh5yWn/GQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature519170-Object337132"><etsi:QualifyingProperties Target="#Signature519170"><etsi:SignedProperties Id="Signature519170-SignedProperties556227"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-06-28T10:10:57-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>RprvaGKpSD6yCFH/V/Ijku+/S/4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1534387166</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-56423"><etsi:Description>contedido del comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

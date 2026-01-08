@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>IRRAMINTA SA</razonSocial><nombreComercial>IRRAMINTA SA</nombreComercial><ruc>1793199954001</ruc><claveAcceso>2010202501179319995400120061000000178441234567816</claveAcceso><codDoc>01</codDoc><estab>006</estab><ptoEmi>100</ptoEmi><secuencial>000017844</secuencial><dirMatriz>PICHINCHA / QUITO / CUMBAYA / AV PAMPITE S/N</dirMatriz></infoTributaria>
+  <infoFactura>
+    <fechaEmision>20/10/2025</fechaEmision>
+    <dirEstablecimiento>PICHINCHA / QUITO / CUMBAYA / AV PAMPITE S/N</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C.L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <direccionComprador>AZUAY/CAMILO PONCE E./ CAMILO PONCE E./SITIO EL PARAISO VIA BELLA RICA</direccionComprador>
+    <totalSinImpuestos>582.61</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>582.61</baseImponible>
+        <tarifa>15.00</tarifa>
+        <valor>87.39</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>670.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>670.00</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>QN-N62</codigoPrincipal>
+      <codigoAuxiliar>QN-N62</codigoAuxiliar>
+      <descripcion>CABEZA FRONTAL YT27</descripcion>
+      <cantidad>10.00</cantidad>
+      <precioUnitario>58.261000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>582.61</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>582.61</baseImponible>
+          <valor>87.39</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional><campoAdicional nombre="Nota">ENTREGA EN MEGASTORE  ASI51993</campoAdicional></infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature791410">
+<ds:SignedInfo Id="Signature-SignedInfo303296">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID197234" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature791410-SignedProperties672182">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uzojn2PMwNcT9Xtbs2rns+WmT1c=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1469832">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7F90ncz5tU7RU+2xmk7pezdaXPA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-622475" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uVqvRh1NN/14lWpCQbkxL/hBydQ=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue660661">
+TWH14L+2p1kTLCNZn390ZodDVVCxihHvGaegb2WmNEb3hxjYbgUsY51+QrfrGgRpXZoy16Gbl1oh
+4mgarkegJ4ohjAnMCCoEhssldqOYjO6Ej/eMN99J2oSdMWMKfLBhucMo0LiXK3bvbY+COFJALo03
+Yk0ijSOHptiOST3yI/UhVTRfiVw7ouXgWA2MxzK+r8IKWZuPu2eg9pNazJbBUCwwZCZ6xuSto5tH
+N5LJ2aM0GPoa/t3vMbMNrTK8S3VjbQ1IXlT+cq9CrHt1BGJx4HEwibJrJDe2fu2AIMzYn+8f6/Xe
+vV5Ff601q0KkVlX2dB9WCIPo7JqGWK3/3DV1PA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1469832">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILnzCCCYegAwIBAgIMAzjVBuuVPOH7hyBNMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjQxMDI5MTY0NTE0WhcNMjYxMDI5MTY0NTE0WjCCAfUxGjAYBgorBgEEAYKkQgoEDAox
+NzIyOTI1ODEzMRcwFQYDVQQKDA5JUlJBTUlOVEEgUy5BLjEoMCYGA1UECwwfQ2VydGlmaWNhZG8g
+UGVyc29uYSBKdXJpZGljYSBFQzEbMBkGA1UEKgwSVklDVE9SSUEgRUxJWkFCRVRIMRYwFAYDVQRh
+Ew0xNzkzMTk5OTU0MDAxMQswCQYDVQQGEwJFQzETMBEGA1UEBRMKMTcyMjkyNTgxMzEVMBMGA1UE
+BAwMRElBWiBNRU5ET1pBMTMwMQYDVQQDDCoxNzIyOTI1ODEzIFZJQ1RPUklBIEVMSVpBQkVUSCBE
+SUFaIE1FTkRPWkExLjAsBgkqhkiG9w0BCQEWH2FzaXN0ZW50ZWF1ZGlzb2xub3Byb0BnbWFpbC5j
+b20xHDAaBgNVBAwME1JFUFJFU0VOVEFOVEUgTEVHQUwxfDB6BgNVBA0Mc1JlZy4gUHViLjphIElu
+c2NyaXBjacOzbjogMSwgVG9tbyAxLCBMaWJybyAxLCBGb2xpbyAxLCBIb2phIDEgQ2FyZ286UkVQ
+UkVTRU5UQU5URSBMRUdBTCBOb3RhcmlvOmEgTsO6bS4gUHJvdG9jb2xvOmExEjAQBgNVBAgMCVBJ
+Q0hJTkNIQTERMA8GA1UEBwwIQ1VNQkFZw4EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCka2X3Aa/gXG8bs54xNalCs+Nr5BQKopav1Uk7z225DszSUawexEtdLsEx6Cp3hwLaAKE2eABn
+QkrIsrJF+Q83zLMVfupxiLdw5OyJgm0ScpuF4z3JfGnphy5MjbUlfrmoVQTekOllAQjBHNFMKrXh
+mUNtIjWt9xGfTOVR7zgokKlcx/dAKlsxU9Nx5fnAAGgUR74sbmXxkvC+I7wnl1Eut8n/y77nFBAO
+aLdBRJZUrwNIliLLjsQK37vx8qztC+sGuyQkQlDRbUQQ8MtzYaAMeL7BPWk+678Xbdn6Y/1c8RZa
+cWT4vI3VvzDBSw9rEf8D3bk+MOx/h34p3+IZu90zAgMBAAGjggVmMIIFYjAfBgNVHSMEGDAWgBSS
+rtTLgrSZxtF7EWxl6sVNaCH5rDAdBgNVHQ4EFgQUNPqr77HfxpPxixBUXv35t/ntwqwwggEGBgNV
+HREEgf4wgfuBH2FzaXN0ZW50ZWF1ZGlzb2xub3Byb0BnbWFpbC5jb22kgdcwgdQxIjAgBgorBgEE
+AYKkQgoBDBJWSUNUT1JJQSBFTElaQUJFVEgxFDASBgorBgEEAYKkQgoCDARESUFaMRcwFQYKKwYB
+BAGCpEIKAwwHTUVORE9aQTEaMBgGCisGAQQBgqRCCgQMCjE3MjI5MjU4MTMxGTAXBgkrBgEEAYGP
+HAEMCkEtMjkxMDIwMjQxMzAxBgNVBAMMKjE3MjI5MjU4MTMgVklDVE9SSUEgRUxJWkFCRVRIIERJ
+QVogTUVORE9aQTETMBEGA1UEBQwKMTcyMjkyNTgxMzAOBgNVHQ8BAf8EBAMCBsAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwIGCCsGAQUFBwMEMFAGA1UdHwRJMEcwRaBDoEGGP2h0dHA6Ly9jcmwuYW5mLmVz
+L2NybC9BTkZIaWdoQXNzdXJhbmNlRWN1YWRvckludGVybWVkaWF0ZUNBLmNybDCCAQMGA1UdIASB
++zCB+DCB3wYMKwYBBAGCpEICBQEDMIHOMCgGCCsGAQUFBwIBFhxodHRwOi8vd3d3LmFuZi5lcy9k
+b2N1bWVudG9zMIGhBggrBgEFBQcCAjCBlAyBkUNlcnRpZmljYWRvIGNvbmZvcm1lIGEgbGEgbGVn
+aXNsYWNpw7NuIGRlIGZpcm1hIGVsZWN0csOzbmljYS4gQW50ZXMgZGUgYWNlcHRhcmxvIGNvbXBy
+dWViZSBpbnRlZ3JpZGFkLCBsaW1pdGFjaW9uZXMsIHZpZ2VuY2lhIHkgdXNvcyBhdXRvcml6YWRv
+cy4wCQYHBACL7EABATAJBgdghVQBAwUIMIGbBggrBgEFBQcBAQSBjjCBizAnBggrBgEFBQcwAYYb
+aHR0cDovL29jc3AuYW5mLmVzL3NwYWluL0FWMGAGCCsGAQUFBzAChlRodHRwOi8vd3d3LmFuZi5l
+cy9lcy9jZXJ0aWZpY2F0ZXMtZG93bmxvYWQvQU5GSGlnaEFzc3VyYW5jZUVjdWFkb3JJbnRlcm1l
+ZGlhdGVDQS5jZXIwDAYDVR0TAQH/BAIwADAoBgkrBgEEAYGPHBMEGwwZNjIzMDAzMjQ4NTIyLTU3
+MjA4NDkxOTYyMzAdBgorBgEEAYGPHBMCBA8MDTE3OTMxOTk5NTQwMDEwKQYKKwYBBAGCpEITAQQb
+DBk1NzIwODQ5MTk2MjMtNTM5MTA0NDQ2NzU0MBoGCisGAQQBgqRCAwEEDAwKMTcyMjkyNTgxMzAe
+BgorBgEEAYKkQgMKBBAMDklSUkFNSU5UQSBTLkEuMB0GCisGAQQBgqRCAwsEDwwNMTc5MzE5OTk1
+NDAwMTASBgorBgEEAYKkQgMMBAQMAkVDMCIGCisGAQQBgqRCAwIEFAwSVklDVE9SSUEgRUxJWkFC
+RVRIMBwGCisGAQQBgqRCAwMEDgwMRElBWiBNRU5ET1pBMCMGCisGAQQBgqRCAwUEFQwTUkVQUkVT
+RU5UQU5URSBMRUdBTDAYBgorBgEEAYKkQgMJBAoMCENVTUJBWcOBMBcGCisGAQQBgqRCKgEECQwH
+VUlPLTAzOTATBgorBgEEAYKkQi4BBAUMAzczMDBQBgorBgEEAYKkQi8BBEIMQDk0YjI5YWQxOWNl
+NTNiOTBkYzBhNzY0YzY4YmMxOTZmY2JlYzA3MDdjMzkxNDliMmVlNjhjNjE3MjRlYWM0MDUwDQYJ
+KoZIhvcNAQELBQADggIBAEaBR8DYwB5mbTw+TWaKZIJAmKYGzj64YlhRqkfGb7iA/LlILTbLmkE9
+VOcA2s6cSoAY+MgNCqESNwUF6arhymnHDYTMjjFOrtnDpOqdwjsDlHOjrjIIdCO62G/BRCsFuhft
+FZ30cjUyATIK9iqu5LWUg4HY0jGyQxNn+M1ZZN0Ywi1jFqZMxEpmPZIuTm10gz8M0EnQnO6+Qoxm
+S0gRCVXPtwHcD6sY3ExcBMTVK3r3sUhTRG2VF6xS6lqgd8/e70zlYspw4AVe8DB9sR4GVVkk6rK+
+E5648GdfayltzLUcpUuRj51Fiv2X7X3FBiohMYZXf2V89nBTtQgswB2uMA0zNb+ROOo1AuvyIbrI
+SdtI+3gO3jKnAutXT7P/ueBKnvqdzyINJgXex8JC+23QML56ONdBuHYCWvB2owaUlG1Z4CNaLOAI
+iZzdRbslWqaEsQDFcw5ZC+viN1h0cyGxlRLa67qd8/fCwnR7RTCmah/pEyL5CSkBSqmXi7bk+6uB
+Hl2kj5Mzq4H57LW6SgDhfAYn3+YvfZI1KDO4zBsIawNZXeZkZ/No2x3B/RE+QdQiu8i5C54kMBH7
+Ij/WuEoEachcs7XNJpIU7jVm7IK9Xe06zi1YJqJp0MAJ/YOf7dHzwOKj6EazEZb3f3tu8VXXvb2s
+gOK/1VvMEpZTN8a6ofrS
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pGtl9wGv4FxvG7OeMTWpQrPja+QUCqKWr9VJO89tuQ7M0lGsHsRLXS7BMegqd4cC2gChNngAZ0JK
+yLKyRfkPN8yzFX7qcYi3cOTsiYJtEnKbheM9yXxp6YcuTI21JX65qFUE3pDpZQEIwRzRTCq14ZlD
+bSI1rfcRn0zlUe84KJCpXMf3QCpbMVPTceX5wABoFEe+LG5l8ZLwviO8J5dRLrfJ/8u+5xQQDmi3
+QUSWVK8DSJYiy47ECt+78fKs7QvrBrskJEJQ0W1EEPDLc2GgDHi+wT1pPuu/F23Z+mP9XPEWWnFk
++LyN1b8wwUsPaxH/A925PjDsf4d+Kd/iGbvdMw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature791410-Object1017126"><etsi:QualifyingProperties Target="#Signature791410"><etsi:SignedProperties Id="Signature791410-SignedProperties672182"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-10-21T13:44:52-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>xdxFVRDqQVIzPWHZoXhzHwl9A1Q=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>997160867079311428373913677</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-622475"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

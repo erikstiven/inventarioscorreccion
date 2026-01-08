@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<factura id="comprobante" version="2.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>MARTHA BEATRIZ ALDAZ MEDINA</razonSocial>
+<nombreComercial>MADEC</nombreComercial>
+<ruc>0601281322001</ruc>
+<claveAcceso>2105202501060128132200120010050001382280043513011</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>005</ptoEmi>
+<secuencial>000138228</secuencial>
+<dirMatriz>PASAJE 810 ENTRE SANTA R0SA Y VELA</dirMatriz>
+<agenteRetencion>1</agenteRetencion>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>21/05/2025</fechaEmision>
+<dirEstablecimiento>PASAJE 810 ENTRE SANTA R0SA Y VELA</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+<identificacionComprador>0992529679001</identificacionComprador>
+<direccionComprador>LOS JARDINES CALLE GUAYAQUIL S/N Y QUINTA NORTE</direccionComprador>
+<totalSinImpuestos>218.33</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>218.33</baseImponible>
+<valor>32.75</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>251.08</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>251.08</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>C0455</codigoPrincipal>
+<descripcion>CAJETIN OCTAGONAL PLASTIGAMA</descripcion>
+<cantidad>10</cantidad>
+<precioUnitario>0.693000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>6.93</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>6.93</baseImponible>
+<valor>1.04</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>C0456</codigoPrincipal>
+<descripcion>CAJETIN RECTANGULAR PLASTIGAMA</descripcion>
+<cantidad>10</cantidad>
+<precioUnitario>0.693000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>6.93</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>6.93</baseImponible>
+<valor>1.04</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>A0096</codigoPrincipal>
+<descripcion>AMARRA PLASTICA CHINA 50CM (500MM)</descripcion>
+<cantidad>100</cantidad>
+<precioUnitario>0.056800</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>5.68</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>5.68</baseImponible>
+<valor>0.85</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>R0213</codigoPrincipal>
+<descripcion>ROLLO 100 MT CABLE FLEXIBLE THHN 12 (30 AMP) INCABLE</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>49.654000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>99.31</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>99.31</baseImponible>
+<valor>14.90</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>R0251</codigoPrincipal>
+<descripcion>ROLLO 100 MT CABLE FLEXIBLE THHN 14 (25 AMP) INCABLE</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>33.281600</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>66.56</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>66.56</baseImponible>
+<valor>9.98</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>C0088</codigoPrincipal>
+<descripcion>CANALETA 10 X 20 CON ADHESIVO</descripcion>
+<cantidad>10</cantidad>
+<precioUnitario>1.014000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>10.14</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>10.14</baseImponible>
+<valor>1.52</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>T0382</codigoPrincipal>
+<descripcion>TUBO CONDUIT PESADO BOPLAST  1/2"</descripcion>
+<cantidad>40</cantidad>
+<precioUnitario>0.569400</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>22.78</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<tarifa>15.00</tarifa>
+<baseImponible>22.78</baseImponible>
+<valor>3.42</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Fpago">CREDITO</campoAdicional>
+<campoAdicional nombre="Correo">fernanda.paccha@grupoadmg.com</campoAdicional>
+<campoAdicional nombre="Direccion">LOS JARDINES CALLE GUAYAQUIL S/N Y QUINTA NORTE</campoAdicional>
+<campoAdicional nombre="Telefono">2984074-2984073-2923970</campoAdicional>
+<campoAdicional nombre="Vencimiento">21/05/2025</campoAdicional>
+<campoAdicional nombre="Vendedor">INDETERMINADO</campoAdicional>
+</infoAdicional>
+<ds:Signature Id="Signature79833" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo Id="Signature-SignedInfo54256"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="SignedPropertiesID61125" URI="#Signature79833-SignedProperties73844" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>ao3RMgHBnK6POu7VqmJqm5q7oWc=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate51761"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>K4SHsOD6rCPZ64YfpKhiRMxuN6E=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-66471" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>hawhm69jO+1TAaMT8hxRilxGzXg=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue65468">hg2YXGksB0BKpIjP6gpXNgIUWk0K/mBUn4W3GE1jUbxqoon+Qx1nAOVcYct79reZsrHP63hf8oyU
+CUXgCfl+SBKFvXXbIZilNse16mNbJyrb655z9jHKODQMTgfvoNLuCHc/OQ9c6GsWA+j9k3LZ9zL8
+7EZLZQPP7j3VhM63eJkOfv87UgmTyQiTbjkCy8Gj1uookbJsdnzO0pfzolEI02yeBSrizqZji7hl
+/bHtfDNdFCAz0hyeRxBmZ7xVcWNBsbGcoN7pkmvxmYNOvag0vGBctlXTEwMpG39cluQJ9Rs1IcZd
+WtA5Tn27bo8Ll4hIN51a2FBYMKvP3qP4aoC85Q==</ds:SignatureValue><ds:KeyInfo Id="Certificate51761"><ds:X509Data><ds:X509Certificate>MIILoTCCCYmgAwIBAgIEM6xgtjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTEgU0VDVVJJVFkgREFUQTAeFw0yMDA3MjgxNjQ1NDRaFw0yNTA3MjgxNjQ1NDRaMIGbMQsw
+CQYDVQQGEwJFQzEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExMDAuBgNVBAsMJ0VOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEVMBMGA1UEBRMMMjgwNzIwMTE1NTQz
+MSQwIgYDVQQDDBtNQVJUSEEgQkVBVFJJWiBBTERBWiBNRURJTkEwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQCKq/W9n/XN9w3/JCxkgBJYNQmcdfQd/xuJMOfsWy+Ww26+C3lMEZ2ALJLg
+TcmHjOIttSAm77MjMS2Fbk1GoZE6fdCtessh+wTpmYhN2zaMfG4ghhzStuiyG1XtJeKiWVOI/EpT
+KkeHNbPPjM/gyfHLGDC+gCqJTYa2MMxC03nJDerBcRS5zwhnt2iud1oFGK+tYlA/Gaz5WzhZnbs6
+/d0uaG+jWpVAs0IepLpBECuJCRDkjbmtxnBMBT9zhJEwZMyefPbEvqzggc9df6SiZ85uaCaWnKsF
+SsotfGCpefLAgW15w2WYQURouO/TrRowS/t0agWiCwbs7CpDvpF9WErZAgMBAAGjggbrMIIG5zBZ
+BggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwHQYDVR0OBBYEFB1cU/DjZEvxVf2P9liU
+EHtGQETTMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUXA+FpHQQ/K0BLBoAPZMXCfo5AdYwKwYD
+VR0QBCQwIoAPMjAyMDA3MjgxNjQ1NDRagQ8yMDI1MDcyODE2NDU0NFowgcwGA1UdLgSBxDCBwTCB
+vqCBu6CBuIaBtWxkYXA6Ly9sZGFwc2Quc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJU
+SUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDEsQz1FQz9kZWx0
+YVJldm9jYXRpb25MaXN0P2Jhc2UwgeIGA1UdIASB2jCB1zBaBgorBgEEAYKmcgIHMEwwSgYIKwYB
+BQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABO
+AGEAdAB1AHIAYQBsMHkGCisGAQQBgqZyAgEwazBpBggrBgEFBQcCARZdaHR0cHM6Ly93d3cuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy9sZXllc19ub3JtYXRpdmFzL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2Fk
+byBQZXJzb25hIE5hdHVyYWwucGRmMIICngYDVR0fBIIClTCCApEwgeWgQaA/hj1odHRwOi8vb2Nz
+cGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGc
+MIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZ
+IERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEd
+MBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExCzAJBgNVBAYTAkVDMIHEoIHBoIG+hoG7bGRh
+cDovL2xkYXBzZC5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMSxDPUVDP2NlcnRpZmljYXRlUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTCB36CB3KCB2YaB1mh0dHBzOi8vcG9ydGFsLW9wZXJhZG9yLnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1
+ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBTRUNVUklUWSBEQVRBLE9V
+PUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEg
+Uy5BLiAxLEM9RUMwCwYDVR0PBAQDAgXgMCEGA1UdEQQaMBiBFm1hcnRoYWxkYXpAaG90bWFpbC5j
+b20wGgYKKwYBBAGCpnIDAQQMDAowNjAxMjgxMzIyMB4GCisGAQQBgqZyAwIEEAwOTUFSVEhBIEJF
+QVRSSVowFQYKKwYBBAGCpnIDAwQHDAVBTERBWjAWBgorBgEEAYKmcgMEBAgMBk1FRElOQTAuBgor
+BgEEAYKmcgMHBCAMHlBBU0FKRSA4MTAgWSBTQU5UQSBST1NBIFkgVkVMQTAbBgorBgEEAYKmcgMI
+BA0MCzU5MzcyOTMxNDY2MBcGCisGAQQBgqZyAwkECQwHTUFDSEFMQTAdBgorBgEEAYKmcgMLBA8M
+DTA2MDEyODEzMjIwMDEwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBEGCisGAQQBgqZyAx0EAwwB
+LjARBgorBgEEAYKmcgMeBAMMAS4wHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDAwNTE3NDkwEwYK
+KwYBBAGCpnIDIQQFDANQRlgwEQYKKwYBBAGCpnIDIgQDDAEuMBEGCisGAQQBgqZyAyMEAwwBLjAN
+BgkqhkiG9w0BAQsFAAOCAgEAIbNUETjsV6g4DN8jRkHxDEFtUzPPA9i3qCeFxFbjZ6No5RchY2nR
+arrn9+++Nj1m4rPU2camqYiylk61qEADvG2fjgEegCV3VXxeDId02wQTONO+XDTR8htmiAQtsCQb
+3MgfTQS6kLn4QxsJmgLi5lf1Npp7eTOaY8xSPq833H8iT5syxoIizJPYn42WJCgSs+8ajVDap3Te
+U4ZJqgACwjKA5ECYBWt7f2eA4xvTmIMWClKjvcp9kHcbqAI8abrJZMfs04Qhx7HiKKauPelt5/F+
+NlE2Ith+QDkojO3wqAGdDwdFEc4YivNlqW0MtvYisJePBmAEilG5J7/Bm7wSDnUDHEqcKs2LB995
+4rybSjeQD/jz/DKOATkAxN5ke4nmAz/TiCU+6+/I2RFOaNAs7pYKkSHpXEB9Kp+B0/n+IXAjWmag
+Rc06jF7OsYqvwGm9FQd8aNHsddtN5zKBHccy7DrRTd2VYcD7VV4wsB5GLXyE/WSDh/qXpUJ0Glm8
+nvBIw9yJNEj1IzDqD82JKfR/ZKCSoCKrI+P1XhDN2B/ovyeEVgwxc09wm9NAUGvR0TYlF03VfooY
+Me5xBGog5BdGDHNVhEvQUsGgXrD1A2WGrzguyd3afOpvM7HEugQdrIQ/5GoewKr1c33TwhSbQkfw
+wINL71782YlmrqeqBwEq0M0=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>iqv1vZ/1zfcN/yQsZIASWDUJnHX0Hf8biTDn7FsvlsNuvgt5TBGdgCyS4E3Jh4ziLbUgJu+zIzEt
+hW5NRqGROn3QrXrLIfsE6ZmITds2jHxuIIYc0rboshtV7SXiollTiPxKUypHhzWzz4zP4Mnxyxgw
+voAqiU2GtjDMQtN5yQ3qwXEUuc8IZ7dorndaBRivrWJQPxms+Vs4WZ27Ov3dLmhvo1qVQLNCHqS6
+QRAriQkQ5I25rcZwTAU/c4SRMGTMnnz2xL6s4IHPXX+komfObmgmlpyrBUrKLXxgqXnywIFtecNl
+mEFEaLjv060aMEv7dGoFogsG7OwqQ76RfVhK2Q==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature79833-Object59526"><etsi:QualifyingProperties Target="#Signature79833"><etsi:SignedProperties Id="Signature79833-SignedProperties73844"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-05-21T08:24:52</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>QPgIfNDPOSrL6qQDQ8sR7KfX7mk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 1, C=EC</ds:X509IssuerName><ds:X509SerialNumber>866934966</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-66471"><etsi:Description>Servicios IT, Luis Orellana Escalante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

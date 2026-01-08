@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>ARROYO OROBIO MARIA LEONILDA</razonSocial>
+		<nombreComercial>IMPORMEDIKAL</nombreComercial>
+		<ruc>0706247764001</ruc>
+		<claveAcceso>2402202501070624776400120030110000021991190081710</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>003</estab>
+		<ptoEmi>011</ptoEmi>
+		<secuencial>000002199</secuencial>
+		<dirMatriz>AZUAY / CUENCA / YANUNCAY / AV. PRIMERO DE MAYO S/N</dirMatriz>
+		<contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+	</infoTributaria>
+<infoFactura>
+	<fechaEmision>24/02/2025</fechaEmision>
+	<dirEstablecimiento>10MA NORTE B V-111 Y ENRIQUE REINOSO E1</dirEstablecimiento>
+	<obligadoContabilidad>NO</obligadoContabilidad>
+	<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+	<razonSocialComprador>MINERA BELORO C.L.</razonSocialComprador>
+	<identificacionComprador>0992529679001</identificacionComprador>
+	<direccionComprador>GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</direccionComprador>
+	<totalSinImpuestos>284.30</totalSinImpuestos>
+	<totalDescuento>0.00</totalDescuento>
+	<totalConImpuestos>
+		<totalImpuesto>
+		<codigo>2</codigo>
+		<codigoPorcentaje>0</codigoPorcentaje>
+		<descuentoAdicional>0.00</descuentoAdicional>
+		<baseImponible>131.28</baseImponible>
+		<valor>0.00</valor>
+		</totalImpuesto>
+		<totalImpuesto>
+		<codigo>2</codigo>
+		<codigoPorcentaje>4</codigoPorcentaje>
+		<baseImponible>153.02</baseImponible>
+		<valor>22.95</valor>
+		</totalImpuesto>
+	</totalConImpuestos>
+	<propina>0.00</propina>
+	<importeTotal>307.25</importeTotal>
+	<moneda>DOLAR</moneda>
+	<pagos>
+		<pago>
+		<formaPago>20</formaPago>
+		<total>307.25</total>
+		<plazo>0</plazo>
+		<unidadTiempo>dias</unidadTiempo>
+		</pago>
+	</pagos>
+</infoFactura>
+<detalles>
+	<detalle>
+		<codigoPrincipal>000000003464</codigoPrincipal>
+		<descripcion>ULCOZOL/RAPID/20MG/SOBRE/CJAX30/BAGO</descripcion>
+		<unidadMedida>Cajas: 60 Unidades: 0</unidadMedida>
+		<cantidad>60.000000</cantidad>
+		<precioUnitario>1.783000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>106.98</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/06/2026"></detAdicional>
+			<detAdicional nombre="Lote:" valor="104"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="8263-MEE-0823"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>106.98</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000001445</codigoPrincipal>
+		<descripcion>MANOMETRO/REGULADOR/TANQUE/OXIGENO/</descripcion>
+		<unidadMedida>Cajas: 2 Unidades: 0</unidadMedida>
+		<cantidad>2.000000</cantidad>
+		<precioUnitario>76.512000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>153.02</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/10/2025"></detAdicional>
+			<detAdicional nombre="Lote:" valor="012548"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>4</codigoPorcentaje>
+			<tarifa>15.00</tarifa>
+			<baseImponible>153.02</baseImponible>
+			<valor>22.95</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002394</codigoPrincipal>
+		<descripcion>CETIRIZINA/10MG/TABL/LA-SANTE(10)</descripcion>
+		<unidadMedida>Cajas: 100 Unidades: 0</unidadMedida>
+		<cantidad>100.000000</cantidad>
+		<precioUnitario>0.090000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>9.00</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/10/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="3336347"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="04147-MAE-03-06"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>9.00</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>000000002394</codigoPrincipal>
+		<descripcion>CETIRIZINA/10MG/TABL/LA-SANTE(10)</descripcion>
+		<unidadMedida>Cajas: 170 Unidades: 0</unidadMedida>
+		<cantidad>170.000000</cantidad>
+		<precioUnitario>0.090000</precioUnitario>
+		<descuento>0.00</descuento>
+		<precioTotalSinImpuesto>15.30</precioTotalSinImpuesto>
+	<detallesAdicionales>
+			<detAdicional nombre="Fecha caducidad:" valor="30/10/2027"></detAdicional>
+			<detAdicional nombre="Lote:" valor="3336345"></detAdicional>
+			<detAdicional nombre="Registro sanitario:" valor="04147-MAE-03-06"></detAdicional>
+	</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>0</codigoPorcentaje>
+			<tarifa>0</tarifa>
+			<baseImponible>15.30</baseImponible>
+			<valor>0.00</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+</detalles>
+<infoAdicional>
+	<campoAdicional nombre="Direccion">GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</campoAdicional>
+	<campoAdicional nombre="Telefono">2947375</campoAdicional>
+	<campoAdicional nombre="Email">fernanda.paccha@grupodmg.ec</campoAdicional>
+	<campoAdicional nombre="Vencimiento">24/02/2025</campoAdicional>
+	<campoAdicional nombre="Comercio">MINERA BELORO C.L.</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature64125">
+<ds:SignedInfo Id="Signature-SignedInfo167089">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID771828" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature64125-SignedProperties368329">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>FZTi6/g7Wv6r9KXzkUJC155shZo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1303193">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ns3KV8CW3E/CL8a5okvggVxdQwA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-868194" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Ho6HwP5Fjwiake4merxjjKMPqAg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue451724">
+buuf4Zw/qS9eTa+UJlgonqs0Qr5FMwBb8s9cEeYVKeqmZ1MVmE5Ssp3nCPWcH8VrfD3qG/d9n4gG
+ySE+8KHwEDQ1SHmcboNgDmV0zcZuUJrVCGyHlIph+dRSa0TfLcQ8mhaJiE2Lcdsv0G9ZMUkHKWi5
+Kd+rV/xN/pKBKhpgVmQfAXItnOY+32YZ6QtpdsmAfXyU55FHGy/tPezY7Ggnpy/e5aq82ZgMEw4t
+PVAb6YQwgYHTHwBtf9BAUBaJDI1kktx4laCMcesG+wiT/i1APagVk0dVWp2rRtYjzDiaP7VMaZE5
+ps0x3eELSVga/Tbl7XOKtgLCSO7vdhRra7ufkg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1303193">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJKDCCBxCgAwIBAgIIIuPWMI+TDsYwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDYyMTIzNTAwMFoXDTI2MDYyMTIzNTAwMFowgZ4xCzAJBgNVBAYTAkVDMRYwFAYDVQQEDA1B
+UlJPWU8gT1JPQklPMRcwFQYDVQQqDA5NQVJJQSBMRU9OSUxEQTEZMBcGA1UEBRMQSURDRUMtMDcw
+NjI0Nzc2NDElMCMGA1UEAwwcTUFSSUEgTEVPTklMREEgQVJST1lPIE9ST0JJTzEcMBoGA1UEYQwT
+VElORUMtMDcwNjI0Nzc2NDAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAIgkwLL9
+If6z0Tw5CBop8ELKuiNfsMyR3HK1FlVsZsNowS8DpszZXbN410qgKoWfh/4nKz4PFuJ8vAqA4180
+iPDx1yQuJY3irYYI5F2LGI8wokKbwrx9dsdfgoz8D9xNQuRJ8oVfL1po7S+V9mdYAN610QblstC4
+pZP2E71Zencb9YHGBkbMnVRMCYzWlyaC9DYaVbGb+Of3YHtKUI0IQruE7z4XhqPyXlhrYDvizMpH
+zeDf/GYKGo5TtwnkqC/K/0mquKb4woOnEVz9nOEFhZYO3Ee7sWQWwrc2o/++P2QhCLib3N7kw6U3
+2ybpORNtXLFWZFExnbE8OTXO4eW81Q0CAwEAAaOCBEwwggRIMBsGCysGAQQBgvE2ZgMBBAwMCjA3
+MDYyNDc3NjQwHgYLKwYBBAGC8TZmAwsEDwwNMDcwNjI0Nzc2NDAwMTCB1wYIKwYBBQUHAQEEgcow
+gccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90
+c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3Nw
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3Ay
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBSIlBNbF+V09HMn28SqM8qj
+S2sq7zAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGZBgNV
+HSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5h
+dGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNFUlRJRklDQURPIERF
+IFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyG
+Omh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5j
+cmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJv
+cmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDCCAYIGA1UdEQSCAXkwggF1gRZvbGVzaXN0ZW1hc2NAZ21haWwuY29toBsGCysGAQQBgvE2ZgMB
+oAwMCjA3MDYyNDc3NjSgHwYLKwYBBAGC8TZmAwKgEAwOTUFSSUEgTEVPTklMREGgFwYLKwYBBAGC
+8TZmAwOgCAwGQVJST1lPoBcGCysGAQQBgvE2ZgMEoAgMBk9ST0JJT6A3BgsrBgEEAYLxNmYDB6Ao
+DCZZQU5VTkNBWSBDQUxMRSBBViBQUklNRVJPIERFIE1BWU9cLCBTTqAfBgsrBgEEAYLxNmYDCKAQ
+DA4wMDU5Mzk2MjUyMTM3NKAXBgsrBgEEAYLxNmYDCaAIDAZDVUVOQ0GgHgYLKwYBBAGC8TZmAwug
+DwwNMDcwNjI0Nzc2NDAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG
+9w0BAQsFAAOCAgEAgmB36OndlSX/Rc7QRtiK061uCBrlQdD4tIq8l7KnLdXyteWimb3pDoevdqVO
+HYD58Nb4rbwOh+F80CIN7/+hy655iPRcw+AHIqHqfx2WEvqvBXmvbLuOQOkoBwo3nXU4nbxC6E6H
+Mk5EtnGc2u2AmjdGhwebmGzQhypVXgLJshQ850TDxj25JyhnRhXyXG9E9Qul2QzPnqfIqnIzvYQP
+xqB9/pPH+l9AnVlAErxPed6aO7+rzIseMaWDb0z0nujkALcseqkWcU1qsYzzsPNgAIS70hgA7nJt
+PPHzWLBeGHwEN1rBdqqYcbfGsE89nDE6MgRee02pV7XVc3gskb9j1uaQv1oE6INVhr6PzS2y6kGp
+zzBy0aB+VrJ8mKSmg0hzBO0VeHJ2qWgdIgVuCwBG9iig4jVd6Wnu+3PYRvT3yz3lj04GOqtFDWhS
+mYjaOnRjFzE0W6OkllLXr+aRsAPLC5eQ6wCVuH19K0hh0JyNOlJqYqt4RDlkt6S1/IrU5gZe067Q
+6//6PYaxzgIjYP4ZMS0DW6PXPjxHt81j2A2QZI9T0CcWEpW3B/6NBXGuqZe7Z8UMwW7zjfRAbO8H
+qJg97gaVXTuObeg9aofj9wdtcxaAZz9bNq6gdEC3h2cCLv+xZ5adwF7wAM1CDclLRtHDW23FEIDU
+uRrESQls7OTTCCw=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iCTAsv0h/rPRPDkIGinwQsq6I1+wzJHccrUWVWxmw2jBLwOmzNlds3jXSqAqhZ+H/icrPg8W4ny8
+CoDjXzSI8PHXJC4ljeKthgjkXYsYjzCiQpvCvH12x1+CjPwP3E1C5EnyhV8vWmjtL5X2Z1gA3rXR
+BuWy0Lilk/YTvVl6dxv1gcYGRsydVEwJjNaXJoL0NhpVsZv45/dge0pQjQhCu4TvPheGo/JeWGtg
+O+LMykfN4N/8ZgoajlO3CeSoL8r/Saq4pvjCg6cRXP2c4QWFlg7cR7uxZBbCtzaj/74/ZCEIuJvc
+3uTDpTfbJuk5E21csVZkUTGdsTw5Nc7h5bzVDQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature64125-Object430153"><etsi:QualifyingProperties Target="#Signature64125"><etsi:SignedProperties Id="Signature64125-SignedProperties368329"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-02-24T09:48:00-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Wo6A2s5FYMnHpTrFEqoUdufZWfo=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2514088521058422470</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-868194"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

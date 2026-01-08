@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>IASA S.A.</razonSocial>
+    <nombreComercial>IASA S.A.</nombreComercial>
+    <ruc>0990011109001</ruc>
+    <claveAcceso>1106202501099001110900120080040000601390006013917</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>008</estab>
+    <ptoEmi>004</ptoEmi>
+    <secuencial>000060139</secuencial>
+    <dirMatriz>AV. JUAN TANCA MARENGO S/N KILOMETRO 3</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>11/06/2025</fechaEmision>
+    <dirEstablecimiento>AV. CIRCUNVALACION NORTE S/N Y MARCEL LANIADO</dirEstablecimiento>
+    <contribuyenteEspecial>6925</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <totalSinImpuestos>1567.42</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>1567.42</baseImponible>
+        <tarifa>15.00</tarifa>
+        <valor>235.11</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>1802.53</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>1802.53</total>
+        <plazo>60</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>3E9712</codigoPrincipal>
+      <codigoAuxiliar>121</codigoAuxiliar>
+      <descripcion>CAT DEO 15W40 CI-4 S</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>781.51</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1563.02</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1563.02</baseImponible>
+          <valor>234.45</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ECOV</codigoPrincipal>
+      <descripcion>ECOVALOR RECOIL AM042</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>4.40</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.40</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>4.40</baseImponible>
+          <valor>0.66</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">GLADYS.LALANGUI@GRUPODMG.EC</campoAdicional>
+    <campoAdicional nombre="glosa1">"GRAN CONTRIBUYENTE" Resolución : NAC-GCFOIOC21-00001046-E Referencia: 08C196628 . Cod. Cliente: D018075 .PC: 1V .MC: 1T .VEND: TCJ .T: 2 .MARCA: AA .MODELO: OIL .NO. DE SERIE: 0AR .FEC.DOC: 03/06/2025</campoAdicional>
+    <campoAdicional nombre="glosa2">Numero de Orden: 2055880</campoAdicional>
+    <campoAdicional nombre="glosa7">FAVOR CANCELAR ESTE DOCUMENTO CON CHEQUE CRUZADO. GIRADO A FAVOR DE ESTA COMPAÑÍA. QUE INCLUYA LA LEYENDA " SOLO PARA DEPOSITAR EN LA CUENTA DEL PRIMER BENEFICIARIO".</campoAdicional>
+    <campoAdicional nombre="glosa8">ESTE DOCUMENTO SERÁ PAGADERO INMEDIATAMENTE A LA FECHA DE SU VENCIMIENTO. SU FALTA DE PAGO DARÁ DERECHO AL VENDEDOR A COBRAR. ADEMÁS. EL MÁXIMO DE INTERÉS DE MORA LEGALMENTE PERMITIDO. PLAZO DE CRÉDITO A: 30/60 DIAS</campoAdicional>
+    <campoAdicional nombre="glosa9">EL NO PAGO DE UNA O MÁS CUOTAS. EN LOS PLAZOS AQUÍ ESTIPULADOS. DARÁ DERECHO AL ACREEDOR PARA DECLARAR DE PLAZO VENCIDO LA TOTALIDAD DE LA PRESENTE FACTURA Y DEMANDAR SU COBRO TOTAL EN VÍA CORRESPONDIENTE.</campoAdicional>
+    <campoAdicional nombre="glosa24">SALIDA LA MERCADERÍA DE NUESTRO ALMACÉN. VIAJA POR CUENTA Y RIESGO DEL COMPRADOR. NO SE ACEPTAN DEVOLUCIONES DESPUÉS DE DOS DÍAS DE HABER SIDO ENTREGADOS.</campoAdicional>
+    <campoAdicional nombre="DatosPoliza">MACHALA;01;31-07-2025;901.27;02;31-08-2025;901.26</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature549249">
+<ds:SignedInfo Id="Signature-SignedInfo18569">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID91162" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature549249-SignedProperties957015">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7bztTeFTf9Prhyt25o3qhjjFG44=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1172599">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>fS2wp71YfndQPmRFLuLNOR1LrmE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-560193" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>IbDmCCSTFtrQgXW5oQCaWNxPoTE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue502569">
+UDYVtLWQpLY/s476OFT9WgesPkDwRjQWjlSWopveQM7kla+KFpLUjhL/iBeWeRM9q7JJ+Vw/FiQ3
+FzZjKf8GCIGYZg3xpgZtBz8vYgb2IiTY9MWErXhgVjmsGK+KMD3a/m2uAzT2Ut75khSi2xu4JfPW
+T4SV/AnqOzexL51WzEc2OVoAUUsLtCxbl0mUT07bsLHh+7pbD2ycYVt7QLlz6msH4tA2BJHf+rvn
+FlCvwd4PnFcSAGSCEtb2KLO+u6gLoVYalN08Rw0hah8BBol2DyZ5AlclRKcwdmqZFqbjQ7ru9Uki
+ye72aXDhTRMTUlHCnKVCrT0/YczMETIsRz4yDg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1172599">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKvzCCCKegAwIBAgIERewt5TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA1MDkyMTQ1MjlaFw0zMDA1MDkyMTQ1MjlaMIGqMSgw
+JgYDVQQDDB9MVUlTIEZFUk5BTkRPIEdPTUVaIElMTElOR1dPUlRIMSAwHgYDVQQFExcwOTA4OTA0
+MDU1LTA5MDUyNTE2NTUyMTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCXLM7bVOxFK+wAX4rzNxqNdZ0EFr8g0+3lzInC
+Diir8oG2dWS6fhxqjJnQyDGal2cBgYKKJKWtX3woQGWOD6mZ0O492e2vAvAKWT1PdgdvJvoiTcfG
+wky6ydYoZxcxrreag2NkhIN5oa9IvgEBuXapiybQz+/UlprY+aQO8CAwgfc7q8FZwNot2dKVN18n
+0H8k3IsqV1oym9Z4Y7MXa8dzcum/zmv8XhHAZFUUa0YeWlPSfqIFkC7M9wY3tcVfAw2FKK2+KB/0
+SGuk0XdDK2b3I40/UeCfzPZMCKl/+vWy4rCxLqNidcPC5l6NwxwhpyEE7QlngOBgeAf5IeuH910X
+AgMBAAGjggX6MIIF9jAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAkBgNVHREEHTAbgRlnb21lel9s
+dWlzQGlhc2FnbG9iYWwuY29tMIIBFQYDVR0gBIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsG
+AQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4A
+dABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0
+dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0
+aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50
+YW50ZSBMZWdhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIIC
+BjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEv
+Y3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxm
+aWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDMB0GA1UdDgQWBBRySRn9Htn9+RupTDdXaFfyFKnYDzArBgNVHRAEJDAigA8yMDI1MDUw
+OTIxNDUyOVqBDzIwMzAwNTA5MjE0NTI5WjALBgNVHQ8EBAMCBeAwJAYKKwYBBAGCpnIDBQQWDBRQ
+UkVTSURFTlRFIEVKRUNVVElWTzAaBgorBgEEAYKmcgMBBAwMCjA5MDg5MDQwNTUwFgYKKwYBBAGC
+pnIDCQQIDAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMCkGCisGAQQBgqZyAwcEGwwZQVYgSlVB
+TiBUQU5DQSBNQVJFTkdPIFMgTjAdBgorBgEEAYKmcgMCBA8MDUxVSVMgRkVSTkFORE8wHwYKKwYB
+BAGCpnIDIAQRDA8wMDEwMDIwMDA5OTI4MTAwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGC
+pnIDDAQJDAdFQ1VBRE9SMBUGCisGAQQBgqZyAwMEBwwFR09NRVowGAYKKwYBBAGCpnIDCgQKDAhJ
+QVNBIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTAwMTExMDkwMDEwEQYKKwYBBAGCpnIDHQQDDAEu
+MBsGCisGAQQBgqZyAwQEDQwLSUxMSU5HV09SVEgwGgYKKwYBBAGCpnIDCAQMDAowOTkxNTgwODkw
+MA0GCSqGSIb3DQEBCwUAA4ICAQC3DO0HiI2iP5wpVhD7NSqbScandc6DvYjz9z9F2ThpYA5uYQTa
+4QON8SZu1M4w/HXiTLKCM7BjcEnwjTer0NeK6+KAB3JPqp9l8ort30zubCMlJxthfJnSdmzDFE+c
+jktDcGKtpF4VYfNjhovr+gweiBAcJDfQGfuiU9JN7fa7qylNHZl11aWdME8OllCJ4oMDD0w0AkXn
+HamsnZAkEtfs5F9lkXE1IcRWR7WE1fY409SXer+o7z3eX9o+miXEotTu9TTqwrIDds4IR6SNDWJM
+ah9g6gEJlWYmQNGWWwyVSA4I3wuV3eqRrRxDM0o81wzfm4FiKtS11lAEbhJpddf8GN7HFK4LbX76
+5Vl8y8wlcF9OOeBv/2Y2/2RymqRUV95vxLhrG7P++B4V0iKyBePZ66REUb9LkDsR3V6T6nZUhuue
+5ru/dAhFllE5YS2ryDSYbIn+mo77UDwhKIPju/F7+xKCCMQj6OqJ1anJCCzO72M5UvwifPt0mtbV
+o6ArHhGSBy4wMTkjLtKuy4A2AppaiazzAG8obe6fzqzbm2VGCMeN64kaCAa+Z52otAZDbASgSoeR
+DoyZemkRODmr1TCp5gm2ShTHL3H+8UgYXs6+nbmStQ9AQh6iv6fgYAhe7M++riiPSubxcPw5xQVN
+Ctm3R8encc622D4nXezHZ7/ywA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+lyzO21TsRSvsAF+K8zcajXWdBBa/INPt5cyJwg4oq/KBtnVkun4caoyZ0MgxmpdnAYGCiiSlrV98
+KEBljg+pmdDuPdntrwLwClk9T3YHbyb6Ik3HxsJMusnWKGcXMa63moNjZISDeaGvSL4BAbl2qYsm
+0M/v1Jaa2PmkDvAgMIH3O6vBWcDaLdnSlTdfJ9B/JNyLKldaMpvWeGOzF2vHc3Lpv85r/F4RwGRV
+FGtGHlpT0n6iBZAuzPcGN7XFXwMNhSitvigf9EhrpNF3Qytm9yONP1Hgn8z2TAipf/r1suKwsS6j
+YnXDwuZejcMcIachBO0JZ4DgYHgH+SHrh/ddFw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature549249-Object114649"><etsi:QualifyingProperties Target="#Signature549249"><etsi:SignedProperties Id="Signature549249-SignedProperties957015"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-06-11T15:56:08-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>QePKDMHQYXEjX0ldKz5mtIb8EcY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1173106149</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-560193"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

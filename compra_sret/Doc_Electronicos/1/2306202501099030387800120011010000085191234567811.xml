@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>ABINSA ABASTECIMIENTOS INDUSTRIALES SA</razonSocial><nombreComercial>CEGA LIFTING SA</nombreComercial><ruc>0990303878001</ruc><claveAcceso>2306202501099030387800120011010000085191234567811</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>101</ptoEmi><secuencial>000008519</secuencial><dirMatriz>Guayaquil - Km 7 Vía a Daule, Lotizacion Santa Adriana Solar 4</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>23/06/2025</fechaEmision><dirEstablecimiento>Km 7 Vía a Daule, Lotizacion Santa Adriana Solar 4</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><guiaRemision>001-101-000009183</guiaRemision><razonSocialComprador>MINERA BELORO C L</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><direccionComprador>CDLA LOS JARDINES CALLE GUAYAQUIL S/N MACHALAECUADOR</direccionComprador><totalSinImpuestos>4350.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>4350.000000</baseImponible><valor>652.50</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>5002.50</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>5002.50</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>HASC01GLRA-095-6X19</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>CABLE DE ACERO NEGRO LIMPIO DE 3/8 PULG AA 6X19 s EIPS RHRL</descripcion><cantidad>1000.00</cantidad><precioUnitario>1.750000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>1750.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="UNID MEDIDA" valor="Metro"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>1750.00</baseImponible><valor>262.50</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>HASC01NERA-127-6X19</codigoPrincipal><codigoAuxiliar>I</codigoAuxiliar><descripcion>CABLE DE ACERO NEGRO ENGRASADO DE 1/2 PULG AA 6X19 s EIPS RHRL</descripcion><cantidad>1000.00</cantidad><precioUnitario>2.600000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>2600.00</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="UNID MEDIDA" valor="Metro"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15.00</tarifa><baseImponible>2600.00</baseImponible><valor>390.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="EMAIL CLIENTE:">jvargasr5@yahoo.es;fernanda.paccha@grupodmg.ec;infocl@cegacorp.com</campoAdicional><campoAdicional nombre="DIRECCION CLIENTE:">CDLA LOS JARDINES CALLE GUAYAQUIL S/N</campoAdicional><campoAdicional nombre="TELEFONO:">072937375</campoAdicional><campoAdicional nombre="PLAZO:">CRÉDITO 45 DÍAS</campoAdicional><campoAdicional nombre="FECHA VENCIMIENTO:">2025/08/07</campoAdicional><campoAdicional nombre="OBSERVACION:">DESPACHAR AL CLIENTE Basado en Entregas 8110.</campoAdicional><campoAdicional nombre="VENDEDOR:">Asesor Tecnico 3</campoAdicional><campoAdicional nombre="ORDEN/COMPRA CLIENTE:">COTIZACION #BEL0622-001</campoAdicional><campoAdicional nombre="AGENTE DE RETENCION:">NAC-DNCRASC20-00000001</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature976121">
+<ds:SignedInfo Id="Signature-SignedInfo378073">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID234439" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature976121-SignedProperties274733">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>5qSWk9vefysJ/YzVYc9RCW8X/es=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1789903">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>SL5SnwDscxh+4yIJ3Sx5CFigKXo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-550720" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>RPRlaZJYsEecVcPvMS9B8O7kOJI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue709156">
+b285ydd2leJvpFroouCpTX/b1vrkoZ+TMhgayCCqkHNaSeyfPU+3+rcjnBucD2WsgDOFRChbFuYg
+vRhxhJT33RVR4L2liBkjp7fvSQEjYrocmcC/qbsLJDjSleQNhX+nzebyYCt+ccq6h3rSUgzmBjcx
+ei2H+Hk3sMRIAo/QmZ8296s9VGDQ3OI+FohkFdjrJSNIFM9e0wovRvNiX0ZXCQPF+SUwFZUAURde
+UdJ4jPs/+xPJh/RdSPc2NlUxBCzmWS068N4o5XflJNJftDC5/9jyye3txtQqFb2+BvuSJ5Za896n
+JnMPWWOc27zeZkLnwbiBT6jGifS6F5ACcuef9w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1789903">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMKDCCChCgAwIBAgIEfC2WuDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzExMTMxODQ3MDdaFw0yNTExMTIxODQ3MDdaMIGdMSYw
+JAYDVQQDDB1FU1RFQkFOIERBTklFTCBDRVZBTExPUyBEVVJBTjEVMBMGA1UEBRMMMTMxMTIzMTM1
+NjQ5MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALO/2imCAo5n9csVate3MoX/jw32WFnT7IyCGkcCxbdGth9q4k61y9HO
+TRfvdFk9SiAUY1rac/kDHC2u12sJxkffOfv+xokRVLb7/3ViXSwgNkZCPVZIQIAH8lr4gDWmIzO8
+wBhFmMxxx43ZScvrs98X0MHDJQGgwQHyLm0OOq57w6+EHpZz3n858uwSLJTKBed/3DESvp78Pn2X
+75k0aCwEz2tFpj5EZIpqEDt2M/ysXwLYR8EfG/7bfAaBliIVJed+7oBJXMyyxJDOyY8Uq59KDZrt
+arL8Hneinh4bUZFdjqFZDjTyffq7KuYsEOePYkhOWQAP+HVty5YZ0Jg94x0CAwEAAaOCB3Awggds
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlz
+dD9iYXNlMCUGA1UdEQQeMByBGmNvbnRhYmlsaWRhZDNAY2VnYWNvcnAuY29tMIIBFQYDVR0gBIIB
+DDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEE
+AYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+d3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGlj
+YXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIC
+lTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3
+ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UE
+BhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9w
+b3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRp
+c3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFO7Y8yfxlaivX9Yf
+6ZCZl/QUqAitMCsGA1UdEAQkMCKADzIwMjMxMTEzMTg0NzA3WoEPMjAyNTExMTIxODQ3MDdaMAsG
+A1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKmcgMB
+BAwMCjA5MTE5OTUwMzMwGQYKKwYBBAGCpnIDCQQLDAlHVUFZQVFVSUwwEQYKKwYBBAGCpnIDIgQD
+DAEuMDwGCisGAQQBgqZyAwcELgwsTEVPUE9MRE8gQkVOSVRFWiBTT0xBUiA0IFkgR1VTVEFWTyBE
+T01JTkdVRVowHgYKKwYBBAGCpnIDAgQQDA5FU1RFQkFOIERBTklFTDAfBgorBgEEAYKmcgMgBBEM
+DzAwMTAwMjAwMDQ3OTI3MDATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VD
+VUFET1IwGAYKKwYBBAGCpnIDAwQKDAhDRVZBTExPUzA3BgorBgEEAYKmcgMKBCkMJ0FCSU5TQSBB
+QkFTVEVDSU1JRU5UT1MgSU5EVVNUUklBTEVTIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTAzMDM4
+NzgwMDEwEgYKKwYBBAGCpnIDHQQEDAJObzAVBgorBgEEAYKmcgMEBAcMBURVUkFOMBoGCisGAQQB
+gqZyAwgEDAwKMDk5OTQwODY0NzANBgkqhkiG9w0BAQsFAAOCAgEAlTfgEHeJQWuCqbfdYmRhE43m
+ngEAxJJU3sPAArACkOykwdixvbO6D2++A0PcntqGIftVJ5RaxkBWrmmYWZl8Fjcprn6WbyHiwhVM
+eaHonBW5HwQhP+UVA2L7ka81JCn4KKUvhG/yWGPyr2KaigeuwDAClanKbeGPQBfNskf5E1m912hf
+HLA3M2rFoxRDd8W00XPPlWb2c1G1xyB32VBbXF+8PMCZx4xRlZmu6/U6vTAvEzBZkjbegu22FYxM
+lc8FRauUKrnekD90/CBJ3bxdNZExx8zuwmYiGKr5MBqef0HxmS2QdGwZa6UOFsBT9cv9X6YIgNAY
+QPM/GaMHWikmRP0SNGvHprwlD5xWNc+xzpBgXYmLpIb7ihoQeAuKK7Z49b8baOrdJx9mPIMY20O9
+M+va8QkWb34bt35VI+MoDr4Sylr3BiFmIduFquX/1xZQa5muQWFJZzlbEOoj/OB+wRwu3WCuC7C8
+gutVnUTwU0Z6wLPZEK4xh4MWL/XxfCaC0f8+p0d7Uhv+bM1CL2VNDsIqF+yeZhqf2Ul6YtMLVXgs
+3m2AIHQxA5Di13BbbEoBJPcLUk4iUZTQtMyGUdFnLW7Ouf/CGfW9TIcu03x1ZcI6rCAMgrr5ZwcT
+bhY4mA0AbPHeUdmSV6rdtsOc1+VIYAuu4s6tjhLv7jHIADlroWU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+s7/aKYICjmf1yxVq17cyhf+PDfZYWdPsjIIaRwLFt0a2H2riTrXL0c5NF+90WT1KIBRjWtpz+QMc
+La7XawnGR985+/7GiRFUtvv/dWJdLCA2RkI9VkhAgAfyWviANaYjM7zAGEWYzHHHjdlJy+uz3xfQ
+wcMlAaDBAfIubQ46rnvDr4QelnPefzny7BIslMoF53/cMRK+nvw+fZfvmTRoLATPa0WmPkRkimoQ
+O3Yz/KxfAthHwR8b/tt8BoGWIhUl537ugElczLLEkM7JjxSrn0oNmu1qsvwed6KeHhtRkV2OoVkO
+NPJ9+rsq5iwQ549iSE5ZAA/4dW3LlhnQmD3jHQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature976121-Object300467"><etsi:QualifyingProperties Target="#Signature976121"><etsi:SignedProperties Id="Signature976121-SignedProperties274733"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-06-23T16:22:38-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>WEmlq9KE1wliAC/WX5GqMfwpU4E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2083362488</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-550720"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

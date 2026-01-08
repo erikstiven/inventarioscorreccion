@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>TROYAMOTORS CIA. LTDA.</razonSocial>
+    <nombreComercial>TROYAMOTORS CIA.LTDA.</nombreComercial>
+    <ruc>0791842352001</ruc>
+    <claveAcceso>1601202501079184235200120010020000041842013886114</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000004184</secuencial>
+    <dirMatriz>EL ORO / MACHALA / MACHALA / ARIZAGA Y BUENAVISTA</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>16/01/2025</fechaEmision>
+    <dirEstablecimiento>EL ORO / MACHALA / MACHALA / ARIZAGA Y BUENAVISTA</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <direccionComprador>EL ORO / MACHALA / MACHALA / GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</direccionComprador>
+    <totalSinImpuestos>5367.00</totalSinImpuestos>
+    <totalDescuento>6.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>5367.00</baseImponible>
+        <valor>805.05</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>6172.05</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>6172.05</total>
+        <plazo>1</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>ML00015</codigoPrincipal>
+      <codigoAuxiliar>1003652-STD</codigoAuxiliar>
+      <descripcion>MEDIA LUNA (D) CATERPILLAR 3306</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>46.000000</precioUnitario>
+      <descuento>0.10</descuento>
+      <precioTotalSinImpuesto>91.90</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>91.90</baseImponible>
+          <valor>13.79</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BA00073</codigoPrincipal>
+      <codigoAuxiliar>17277766</codigoAuxiliar>
+      <descripcion>BOMBA DE AGUA (D) CATERPILLAR 3306</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>520.000000</precioUnitario>
+      <descuento>0.58</descuento>
+      <precioTotalSinImpuesto>519.42</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>519.42</baseImponible>
+          <valor>77.91</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ABZ00121</codigoPrincipal>
+      <codigoAuxiliar>30-45W1</codigoAuxiliar>
+      <descripcion>ABRAZADERA DE ACERO  - (30X45) MM</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>3.000000</precioUnitario>
+      <descuento>0.01</descuento>
+      <precioTotalSinImpuesto>5.99</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>5.99</baseImponible>
+          <valor>0.90</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ABZ00111</codigoPrincipal>
+      <codigoAuxiliar>W133-57</codigoAuxiliar>
+      <descripcion>ABRAZADERA DE ACERO -(33-57) MM</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>3.000000</precioUnitario>
+      <descuento>0.01</descuento>
+      <precioTotalSinImpuesto>5.99</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>5.99</baseImponible>
+          <valor>0.90</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>LKT00045</codigoPrincipal>
+      <codigoAuxiliar>3715941WS</codigoAuxiliar>
+      <descripcion>KIT CAMISA-PISTON-RING (D) CATERPILLAR 3306</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>350.000000</precioUnitario>
+      <descuento>0.39</descuento>
+      <precioTotalSinImpuesto>349.61</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>349.61</baseImponible>
+          <valor>52.44</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CBL00568</codigoPrincipal>
+      <codigoAuxiliar>3285572-STD</codigoAuxiliar>
+      <descripcion>CHAPA DE BIELA (D) CATERPILLAR 3306-STD</descripcion>
+      <cantidad>6.00</cantidad>
+      <precioUnitario>26.000000</precioUnitario>
+      <descuento>0.17</descuento>
+      <precioTotalSinImpuesto>155.83</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>155.83</baseImponible>
+          <valor>23.37</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CBN00429</codigoPrincipal>
+      <codigoAuxiliar>2323233-STD</codigoAuxiliar>
+      <descripcion>CHAPA BANCADA (D) CATERPILLAR 3306 -STD</descripcion>
+      <cantidad>7.00</cantidad>
+      <precioUnitario>28.000000</precioUnitario>
+      <descuento>0.22</descuento>
+      <precioTotalSinImpuesto>195.78</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>195.78</baseImponible>
+          <valor>29.37</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>JEM00317</codigoPrincipal>
+      <codigoAuxiliar>306381NLS</codigoAuxiliar>
+      <descripcion>JUEGO DE EMPAQUE COMPLETO (D) CATERPILLAR 3306</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>700.000000</precioUnitario>
+      <descuento>0.78</descuento>
+      <precioTotalSinImpuesto>699.22</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>699.22</baseImponible>
+          <valor>104.88</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BAC00179</codigoPrincipal>
+      <codigoAuxiliar>6I1346</codigoAuxiliar>
+      <descripcion>BOMBA DE ACEITE (D) CATERPILLAR 3306</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>580.000000</precioUnitario>
+      <descuento>0.64</descuento>
+      <precioTotalSinImpuesto>579.36</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>579.36</baseImponible>
+          <valor>86.90</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TRB00067</codigoPrincipal>
+      <codigoAuxiliar>4N6859</codigoAuxiliar>
+      <descripcion>TURBO (D) CATERPILLAR 3306</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1950.000000</precioUnitario>
+      <descuento>2.16</descuento>
+      <precioTotalSinImpuesto>1947.84</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>1947.84</baseImponible>
+          <valor>292.18</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BJL00122</codigoPrincipal>
+      <codigoAuxiliar>7M4046</codigoAuxiliar>
+      <descripcion>BUJE DE ARBOL DE LEVA (D) CATERPILLAR 3304</descripcion>
+      <cantidad>4.00</cantidad>
+      <precioUnitario>18.000000</precioUnitario>
+      <descuento>0.08</descuento>
+      <precioTotalSinImpuesto>71.92</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>71.92</baseImponible>
+          <valor>10.79</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BJL00106</codigoPrincipal>
+      <codigoAuxiliar>9M5477</codigoAuxiliar>
+      <descripcion>BUJE DE ARBOL DE LEVA (D) CATERPILLAR 3306</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>18.000000</precioUnitario>
+      <descuento>0.02</descuento>
+      <precioTotalSinImpuesto>17.98</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>17.98</baseImponible>
+          <valor>2.70</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BBB00148</codigoPrincipal>
+      <codigoAuxiliar>8N1849</codigoAuxiliar>
+      <descripcion>BOCIN BRAZO DE BIELA (D) CATERPILLAR 3306</descripcion>
+      <cantidad>6.00</cantidad>
+      <precioUnitario>15.000000</precioUnitario>
+      <descuento>0.10</descuento>
+      <precioTotalSinImpuesto>89.90</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>89.90</baseImponible>
+          <valor>13.49</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>BDB00037</codigoPrincipal>
+      <codigoAuxiliar>8N1721</codigoAuxiliar>
+      <descripcion>BRAZO DE BIELA (D) CATERPILLAR 3306</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>200.000000</precioUnitario>
+      <descuento>0.22</descuento>
+      <precioTotalSinImpuesto>199.78</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>199.78</baseImponible>
+          <valor>29.97</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ABZ00122</codigoPrincipal>
+      <codigoAuxiliar>CI.ABRAZ.40X63.MM</codigoAuxiliar>
+      <descripcion>ABRAZADERA DE ACERO (40X63) MM</descripcion>
+      <cantidad>2.00</cantidad>
+      <precioUnitario>3.000000</precioUnitario>
+      <descuento>0.01</descuento>
+      <precioTotalSinImpuesto>5.99</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>5.99</baseImponible>
+          <valor>0.90</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MG00007</codigoPrincipal>
+      <codigoAuxiliar>CI.MANG.RAD.CORT</codigoAuxiliar>
+      <descripcion>MANGUERA DE ENTRADA DE ENFRIADOR</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>34.000000</precioUnitario>
+      <descuento>0.04</descuento>
+      <precioTotalSinImpuesto>33.96</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>33.96</baseImponible>
+          <valor>5.09</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MG00008</codigoPrincipal>
+      <codigoAuxiliar>CI.MG.SIL.TURB</codigoAuxiliar>
+      <descripcion>MANGUERA DE TUBO DE AGUA</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>25.000000</precioUnitario>
+      <descuento>0.03</descuento>
+      <precioTotalSinImpuesto>24.97</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>24.97</baseImponible>
+          <valor>3.75</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MG00145</codigoPrincipal>
+      <codigoAuxiliar>CI.MANG.ENLONA.(1-3/4)</codigoAuxiliar>
+      <descripcion>MANGUERA DE TUBO DE AGUA</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>25.000000</precioUnitario>
+      <descuento>0.03</descuento>
+      <precioTotalSinImpuesto>24.97</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>24.97</baseImponible>
+          <valor>3.75</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TAG00018</codigoPrincipal>
+      <codigoAuxiliar>1W6810</codigoAuxiliar>
+      <descripcion>TOMA DE AGUA (D) CATERPILLAR 3306</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>47.000000</precioUnitario>
+      <descuento>0.05</descuento>
+      <precioTotalSinImpuesto>46.95</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>46.95</baseImponible>
+          <valor>7.04</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>RN00242</codigoPrincipal>
+      <codigoAuxiliar>2114321</codigoAuxiliar>
+      <descripcion>RINES (D) CATERPILLAR 3306-(120.65 MM 3X2.8X4)</descripcion>
+      <cantidad>5.00</cantidad>
+      <precioUnitario>60.000000</precioUnitario>
+      <descuento>0.36</descuento>
+      <precioTotalSinImpuesto>299.64</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>299.64</baseImponible>
+          <valor>44.95</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="TELEFONO"> | 072984073 | </campoAdicional>
+    <campoAdicional nombre="EMAIL">fernanda.paccha@grupoadmg.com</campoAdicional>
+    <campoAdicional nombre="CPN">NO REGISTRADO</campoAdicional>
+    <campoAdicional nombre="PLACA">NO REGISTRADO</campoAdicional>
+    <campoAdicional nombre="MODELO">NO REGISTRADO</campoAdicional>
+    <campoAdicional nombre="ANIO">NO REGISTRADO</campoAdicional>
+    <campoAdicional nombre="NUMERO CHASIS">NO REGISTRADO</campoAdicional>
+    <campoAdicional nombre="NUMERO MOTOR">NO REGISTRADO</campoAdicional>
+    <campoAdicional nombre="OBSERVACION">CATERPILLAR 3306</campoAdicional>
+    <campoAdicional nombre="KILOMETRAJE">NO REGISTRADO</campoAdicional>
+    <campoAdicional nombre="ORDEN TRABAJO">NO REGISTRADO</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature940810">
+<ds:SignedInfo Id="Signature-SignedInfo617422">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID185087" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature940810-SignedProperties555185">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>jo3oDE4Mlu4Xa/EyOsl/g1D66Tw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate694579">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>xMqqaMykytbCjg7I3oL1TFSX80c=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-366761" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>FSSXNh/x+YgNU+/mfU6vZXF97hM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue768459">
+Swwsb2GYmy3PQeRLm6q54mAODtaulARyrRcseD+VNFOd9QUwdfNZFMPRVCdnQJ32
+RYS3+s9ENEXKAXva9AeUdgadRnG9gLKwYUt7CMIEVyutr9i/U1N86kSoMZ5IaSbg
+1ocmewe0Pf2gpR+yMXDnD8eriCHTIy6sO6uRVFame3XbnZpC5dL5FFpBbsM8lRU3
+4ENZOHcZRhUL4AmnM85ugx3Ba0qJrm0bQsvcw3gL0nUi1VDhnOp4fs2xSqRvhhY/
+8TCtcqn+TJ3t6FO1zO7VbPdhZ81WEvlkvgt0ombz8YfwLG6FPFBh8R6+46IdgqgA
+aGyOQNAjBOkMDd4XGve7Jw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate694579">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL+jCCCeKgAwIBAgIEYcErFTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMC
+RUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAe
+Fw0yMzA2MDIxOTMzNTFaFw0yNTA2MDExOTMzNTFaMIGgMSkwJwYDVQQDDCBBTkdF
+TEEgUEFVTElOQSBERSBMQSBDUlVaIEJFUk1FTzEVMBMGA1UEBRMMMDIwNjIzMTQ0
+MzI0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JN
+QUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJWbDzSzPA6vSj+lHvWf
+cugEVMsNb10fkRwEccJZZDzDH8LyDhRQvRYXlmyBg8khYJm2wr1kfrZ18mUpDDrP
+D/pqr2T5qpgD9JjJK6yWjwfrHkUykTKTAF/xcQ6mtl/poLkU7GyF4WSgAZR6+NdN
+CKqZz5zqJKE9o23Bwt2/pTQzpjwe7fvB9QFp88z8yqAdvrMHqpPYqs5wh9fEc9XQ
+tc/laKvN15c+Bi2p74pgZ1n4r4MGMyBYyDlBL8Tjs3g4d3aXFx/EhlWasbWGwyNy
+wmTaPNhnoHlRYrZRf6lDqUnom4v+gUvCjQKVBpRnvsMpUUksIp31a2hu/vIoYt/w
+u9ECAwEAAaOCBz8wggc7MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4
+JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRw
+Oi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNk
+Y2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMB4GA1UdEQQXMBWBE2FuZ19saXRh
+QGhvdG1haWwuZXMwggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYI
+KwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBw
+AHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMw
+gZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNh
+ZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2Fs
+LnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SB
+nDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAy
+MQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZp
+Y2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRh
+bC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+d2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBT
+LkEuIDIsQz1FQzAdBgNVHQ4EFgQUsfVqzkLXzmEnDP9DzTnhHWmQX7gwKwYDVR0Q
+BCQwIoAPMjAyMzA2MDIxOTMzNTFagQ8yMDI1MDYwMTE5MzM1MVowCwYDVR0PBAQD
+AgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZy
+AwEEDAwKMDcwNTExOTk4MDAXBgorBgEEAYKmcgMJBAkMB01BQ0hBTEEwEQYKKwYB
+BAGCpnIDIgQDDAEuMCQGCisGAQQBgqZyAwcEFgwUQVJJWkFHQSBZIEJVRU5BVklT
+VEEwHgYKKwYBBAGCpnIDAgQQDA5BTkdFTEEgUEFVTElOQTAfBgorBgEEAYKmcgMg
+BBEMDzAwNjAwMTAwMDAzOTc0NTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEE
+AYKmcgMMBAkMB0VDVUFET1IwGgYKKwYBBAGCpnIDAwQMDApERSBMQSBDUlVaMCQG
+CisGAQQBgqZyAwoEFgwUVFJPWUFNT1RPUlMgQ0lBIExUREEwHQYKKwYBBAGCpnID
+CwQPDA0wNzkxODQyMzUyMDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFgYKKwYBBAGC
+pnIDBAQIDAZCRVJNRU8wGgYKKwYBBAGCpnIDCAQMDAowOTgwMTgzNjA2MA0GCSqG
+SIb3DQEBCwUAA4ICAQC11rZbq+mt1sn0aewESoIvnUAQycJ5fr7Kkl1NNhI84gcQ
+sZlGTRaxDtOTcuwnYLP9OgqMsGjo3bkuiPYLw9m/DnGc7EJZNGm8hk248y0S2D/A
+du8EbH3Qerpme8hXUoAPLDEq0JzIBqYj51jGJcgeih/cMpQbINYNTQiDwbq5aPrb
+d4cJxsP98HlD2PFRleO5/gyglJPaSdG1+9/oeMsQjj8BcRZiLDfAi9Yj0qIS6nvH
+gmH5cBwICjlKDhY8+3wpeUAKYzsHXt88M6Hx2RoLPJk4rNSFhxeroa0tdS1EI2vs
+Uw0PhnzM+znCBhP8+KWnx2dfFcpQiiaGuifJSadu5MNk99ILUINXakKZjmJgxuEs
+En9IZ7OqBWDlhg22iZ8jEmhALhfzlp2OEooC4Of4k/y93dY6aU+lomLPRxmZl6A7
+ntFA5jGDyeZ+oZSkVoN97pvGn9Jc/pRsYE/7wswKOOGlj5w+hfflkGmHJGxisnHm
+to5480l565rTLQzhFq4JxtQqVPlAYRI4BAQ9274NfUmzneyPDIn+XUaaiPIwB81i
+VfWt4CJueBgrIlL6FQUfw/CPfdovVQ7sXwDc1kvjZ0HtsjLKYm+lETG7dpqloeoS
+WUwA0tl4dI6NZvUa0alcz15CHeBeT409+h+IfDYUOyBlHXlDZoo69GtNWtLJhw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+lZsPNLM8Dq9KP6Ue9Z9y6ARUyw1vXR+RHARxwllkPMMfwvIOFFC9FheWbIGDySFg
+mbbCvWR+tnXyZSkMOs8P+mqvZPmqmAP0mMkrrJaPB+seRTKRMpMAX/FxDqa2X+mg
+uRTsbIXhZKABlHr4100IqpnPnOokoT2jbcHC3b+lNDOmPB7t+8H1AWnzzPzKoB2+
+sweqk9iqznCH18Rz1dC1z+Voq83Xlz4GLanvimBnWfivgwYzIFjIOUEvxOOzeDh3
+dpcXH8SGVZqxtYbDI3LCZNo82GegeVFitlF/qUOpSeibi/6BS8KNApUGlGe+wylR
+SSwinfVraG7+8ihi3/C70Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature940810-Object107551"><etsi:QualifyingProperties Target="#Signature940810"><etsi:SignedProperties Id="Signature940810-SignedProperties555185"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-01-17T03:40:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>xyhm/FZpOtPDjrHJlj8cdAsT4XQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1640049429</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-366761"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

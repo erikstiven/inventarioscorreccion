@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>NCH Ecuador S.A.</razonSocial>
+    <nombreComercial>NCH Ecuador S.A.</nombreComercial>
+    <ruc>1790526526001</ruc>
+    <claveAcceso>0409202501179052652600120010020000205430002054316</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000020543</secuencial>
+    <dirMatriz>Juan Molineros E9-255 y Av Eloy Alfaro Ecuador</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>04/09/2025</fechaEmision>
+    <dirEstablecimiento>Juan Molineros E9-255 y Av Eloy Alfaro Ecuador</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <direccionComprador>GUAYAQUIL S/N Y QUINTA NORTE .  MACHALA El Oro</direccionComprador>
+    <totalSinImpuestos>72.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>72.00</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>10.80</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>82.80</importeTotal>
+    <moneda>Dolar</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>82.80</total>
+        <plazo>30</plazo>
+        <unidadTiempo>días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>12068617</codigoPrincipal>
+      <descripcion>NC-123 PLUS / Caja X 6 Aerosoles</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>63.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>63.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>63.00</baseImponible>
+          <valor>9.45</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>52402</codigoPrincipal>
+      <descripcion>SERVICIO DE DISTRIBUCION</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>9.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>9.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>9.00</baseImponible>
+          <valor>1.35</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Representante de Venta">Tony Cabrera</campoAdicional>
+    <campoAdicional nombre="Numero de Guia">001-001-000058455</campoAdicional>
+    <campoAdicional nombre="Dirección de Despacho">MINERA BELORO C L GUAYAQUIL S/N Y QUINTA NORTE . MACHALA El Oro  Ecuador</campoAdicional>
+    <campoAdicional nombre="Contacto">Ing. Vargas</campoAdicional>
+    <campoAdicional nombre="Teléfono">72937375</campoAdicional>
+    <campoAdicional nombre="Fecha Vencimiento">04/10/2025</campoAdicional>
+    <campoAdicional nombre="Email">diego.alvear@grupodmg.ec;tony.cabrera@nch.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature389263">
+<ds:SignedInfo Id="Signature-SignedInfo717903">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID579892" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature389263-SignedProperties537910">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Km+Lde28xWaOcVtj/XIg8Nen210=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11013415">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>K/L32s6CQ4ih8L5GbTVLwusHKkE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-479549" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>iL/a8i9cQpN25r0LzEcvHXnyz9U=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue912901">
+DNBDD/86sQjehRjJAPamVnGSC+kAzFJHNuB0NE9stimmwnDEnq5yDiUZvaik+3wdG2ZFj31b3cic
+l1Wic09I9F60grwi6taHY2Gr2cyd/DUB8O1iD72Pix0quLZKiYnigOi8v96DSucgrtd4izEE86NJ
+1WwBgY/mA6+S9YhR9Xz/U0qF9Za81LXSOdage5ObS7oSO57d3f5mt87YJNWiP3NsbhokdgbFt3eh
+3tQ7hUL/ujGEX7bMtw1Z31sDSZgiHveB3b5OwFVl3yelMpuOPv1g/JTUwGKSa18yEy4HpX9bhd36
+mbe35e4QSMov+gSkQj6U6Dm2MOXylE/BtnJvSQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11013415">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ6zCCB9OgAwIBAgIEZeb7YDANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI1MDkwMjE4NTY1NVoXDTI3MDkwMjE1MzIy
+MFowgbExCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE1MBEGA1UEBRMKMDIwMDAxNTU0MzAgBgNVBAMTGVNBTkRZIE1JU0hFTEwg
+R09NRVogRVJBWk8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEEAhfiubN8O7GAXsw
+pShvwYkR4tCRYNxc2hY+6tle2EyqmD/T1yh/iA9Tm6L5XgzLbZen9j80CETV8VXWmwQ4ylzwMtIl
+eyKxKjRYzahDIh/l1UTyHnFwXwKvNL/P3lhDiQyuvzXNySeQnDXyKcVFdATwPRYCIs02dclZVIlC
+IAyxZO8gDM76YFG61HtbS1Y5LTesfgx3NtoVEKgPnfmK/PlyFLLlttWOPCPwdLR2CsVJ9pA29rp7
+T7/xHIAZthK4uAXz3+0iTfuCDVuXVlEEdcLPVX4VimWVloT2lKGgzx6mUB2mvAozTG8TZ//iVmEE
+ZWy4ORpJq7/kgU4+xaNtAgMBAAGjggUXMIIFEzALBgNVHQ8EBAMCB4AwZwYDVR0gBGAwXjBcBgsr
+BgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRpY2Et
+Y2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4GCCsG
+AQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2Nz
+cDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0
+YXR1cy9vY3NwMB4GCisGAQQBgqg7AwoEEBMOTkNIIEVDVUFET1IgU0EwHQYKKwYBBAGCqDsDCwQP
+Ew0xNzkwNTI2NTI2MDAxMBoGCisGAQQBgqg7AwEEDBMKMTcyMzA3OTQ3OTAdBgorBgEEAYKoOwMC
+BA8TDVNBTkRZIE1JU0hFTEwwFQYKKwYBBAGCqDsDAwQHEwVHT01FWjAVBgorBgEEAYKoOwMEBAcT
+BUVSQVpPMB0GCisGAQQBgqg7AwUEDxMNRkFDVFVSQUNJw5NOIDAzBgorBgEEAYKoOwMHBCUTI0FW
+IERFIExBIFBSRU5TQSBZIEVMIFRFTEVHUkFGTyAxRVJPMBkGCisGAQQBgqg7AwgECxMJMDIyNDM1
+MTg0MBUGCisGAQQBgqg7AwkEBxMFUVVJVE8wFwYKKwYBBAGCqDsDDAQJEwdFQ1VBRE9SMCAGCisG
+AQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAlBgNVHREEHjAcgRpuY2hlY3UuZmFjdHVyYWNp
+b25AbmNoLmNvbTCCAeEGA1UdHwSCAdgwggHUMIIB0KCCAcygggHIhoHWbGRhcDovL2JjZXFsZGFw
+c3VicDEuYmNlLmVjL2NuPUNSTDIyNjcsY249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBF
+Q1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5G
+T1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2Nl
+cnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9l
+Y2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtjCBszELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJB
+TkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5D
+TyBDRU5UUkFMIERFTCBFQ1VBRE9SMRAwDgYDVQQDEwdDUkwyMjY3MCsGA1UdEAQkMCKADzIwMjUw
+OTAyMTg1NjU1WoEPMjAyNzA5MDIxNTMyMjBaMB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJ
+wZSrMB0GA1UdDgQWBBT/j8bMdP+4Q55exYekXhT266LZpjAJBgNVHRMEAjAAMBoGCSqGSIb2fQdB
+AAQNMAsbBVYxMC4wAwIEMDANBgkqhkiG9w0BAQsFAAOCAgEAguXWptJtLVlgnpUzW+amVE2ciEjk
+gDNjUzwuIuuZ2sRhddAhuYXblAoFerBZYUJuxaCwXUez45dyLWXfHZ4fOWW1abaAogUiO87efHc7
+Rom4tIbfYMtxGmVqexlrGJR9x+wDRY/rdVswQD0xQfheVO2Gt8PYSbhw6O0sDbioBotHMzBUNS8/
+j7METZYD/OApYMt+WnkB/ehKEvwkDHcWuITEbWFbfLaSE7yASWSeFA5MXypkxsg5EmACdaaFRu90
+R9lqqtAUn9FHC06b2fesVwhEyWPDPIkJs6Y9Rk9AztVv60oEGGEyP4EjPcSdfuUbaavFMfCXafPV
+sKuh5sQc38toj795Z5d7UMwit7pPTOYtX6HDfTz08XBsmJrDOZOZL4iLPpwIjuqmydXmq6m4FN1o
+rfnG7boDGSBtWIR05D7pW9gnKVENJGKeQ1eOyjHfVCOmZT8pqaRrWx03u2KmQ2h/6B7c9ue6Qa/R
+4NwJvahHwU16peEf6Ma6FBt04JU6Yw62YNbifRrpXX7ccBgXTSXL7eC/f8z6FLknjvdXweml9XJA
+zrYvJZ++nd0wvOBBY8eqWBl5lSKdgwZfdh4nDp8hGw4/eYi/7ZRTPqrKzl5nO+qXfjurIs6qVjWZ
+S5Y4SRQ/1tQZdfRBYZ9atkZFNGz9ObMvCpEE3YmxUgIBfpg=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xBAIX4rmzfDuxgF7MKUob8GJEeLQkWDcXNoWPurZXthMqpg/09cof4gPU5ui+V4My22Xp/Y/NAhE
+1fFV1psEOMpc8DLSJXsisSo0WM2oQyIf5dVE8h5xcF8CrzS/z95YQ4kMrr81zcknkJw18inFRXQE
+8D0WAiLNNnXJWVSJQiAMsWTvIAzO+mBRutR7W0tWOS03rH4MdzbaFRCoD535ivz5chSy5bbVjjwj
+8HS0dgrFSfaQNva6e0+/8RyAGbYSuLgF89/tIk37gg1bl1ZRBHXCz1V+FYpllZaE9pShoM8eplAd
+prwKM0xvE2f/4lZhBGVsuDkaSau/5IFOPsWjbQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature389263-Object249395"><etsi:QualifyingProperties Target="#Signature389263"><etsi:SignedProperties Id="Signature389263-SignedProperties537910"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-09-04T12:42:40-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>UsZZCcP3JdZ64u/7rK0JnDzdm0I=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709636448</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-479549"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

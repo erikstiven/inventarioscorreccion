@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>IMPORTACIONES Y EXPORTACIONES SUMINGOR CIA LTDA</razonSocial><ruc>0791841072001</ruc><claveAcceso>3006202501079184107200120011000000050450000504510</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>100</ptoEmi><secuencial>000005045</secuencial><dirMatriz>SITIO EL PACHE VIA PRINCIPAL ZARUMA  </dirMatriz><agenteRetencion>10</agenteRetencion></infoTributaria><infoFactura><fechaEmision>30/06/2025</fechaEmision><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>MINERA BELORO C. L</razonSocialComprador><identificacionComprador>0992529679001</identificacionComprador><totalSinImpuestos>982.13</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>982.13</baseImponible><tarifa>15</tarifa><valor>147.32</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>1129.45</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>1129.45</total><plazo>8</plazo><unidadTiempo>Días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>000003</codigoPrincipal><codigoAuxiliar>000003</codigoAuxiliar><descripcion>BALANZA MARCYCONTENEDOR METALICO</descripcion><cantidad>1.0000</cantidad><precioUnitario>982.13043</precioUnitario><descuento>0.0000</descuento><precioTotalSinImpuesto>982.13</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>982.13</baseImponible><valor>147.32</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Dirección">GUAYAQUIL S/N Y QUINTA A NORTE ESQUINA</campoAdicional><campoAdicional nombre="Email Cliente">logistica.001@grupodmg.ec</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature827296">
+<ds:SignedInfo Id="Signature-SignedInfo822428">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID629306" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature827296-SignedProperties77321">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>aX1A+hKI9UV5Cuv1Bjm8SGPDZPo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate157999">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Spf1L210eCeQCFv7DqOPpAkmDqw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1030908" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>3HsYLmYB9BRZSGQiZRMPJCwv0Ns=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue687868">
+VRK+i1wvr/jCCD8B6RMOKX+qMGzXU7pBHGU+kg+INiF8KmWu3PbYh0nVwdDhRIRzDiO8qBMRjQrc
+qhLwwFNczEshzBrQcQV1nBILOBybgUriXqnrCj/jhlRTHEOzp790pFKjmDE5OOH1+TdvylSf2xjv
+8wXJSxv0rVWo8yJwdOhcaqQpXd+AYoy39xuJY7Dn0BG854IUGRh5++eHnwKJDQ4gGQ2m7jKC8QbA
+p55fRzlMpDcnF1Mc+StHsvux7ruEzYJCJiUj5ktiugFk7nG9Tc+VzOG2Oy7YwS/Yb/6CV91krg3G
+UXEse/YrIjThJfUmPQZfSYiwvif13YTk2Q1mwQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate157999">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJxTCCB62gAwIBAgIIcRTbypKyP3wwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMTAyNDIyMDIwMFoXDTI1MTAyMzIyMDIwMFowgfQxCzAJBgNVBAYTAkVDMTowOAYDVQQKDDFJ
+TVBPUlRBQ0lPTkVTIFkgRVhQT1JUQUNJT05FUyBTVU1JTkdPUiBDSUEuIExUREEuMRAwDgYDVQQM
+DAdHRVJFTlRFMRkwFwYDVQQEDBBHT1JESUxMTyBBUk1JSk9TMRgwFgYDVQQqDA9BTENJREVTIFJP
+TEFORE8xGTAXBgNVBAUTEElEQ0VDLTA3MDIwNjQ4MDkxKTAnBgNVBAMMIEFMQ0lERVMgUk9MQU5E
+TyBHT1JESUxMTyBBUk1JSk9TMRwwGgYDVQRhDBNWQVRFQy0wNzkxODQxMDcyMDAxMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjfX6gjWdOzq1aSdStQVQN/5NfEi6V+nL9vfpPP1ip+Fo
+nTOMiDN/FrXo/vwHhi5IpaZpSMkVYkAD5ShogaukwlcsbqlNkKytRY4cLjl9Ab1ipsPdn5qqBYxq
+wDNclhWk9/VNI1JifEVHMdINyJsPMqcVguMl2tnwOquRYBFZkR1eSvERXaDN7+Ydq+Jfo1sreB1T
+UW6+Q/iavY3Wh/YiyepoI0hFIsuk/c61dOQnx94Vh4k1weR6/a1ZtJ2LYkCt5MFQK3MPzGmb/L8m
+RWONxiYoqleqvFpDcLsM8K/2x+sMJoR9qB2ySqpREHbMhzicEnyCv+6WKaqeDuHidd85twIDAQAB
+o4IEkzCCBI8wGwYLKwYBBAGC8TZmAwEEDAwKMDcwMjA2NDgwOTAeBgsrBgEEAYLxNmYDCwQPDA0w
+NzkxODQxMDcyMDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJaHR0cDovL3d3dy51
+YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMvc3Vib3JkaW5hdGUx
+LmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29j
+c3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2Nz
+cC8wHQYDVR0OBBYEFJN3dt7JmvsBsLZt6+8xgwG4sC+iMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgw
+FoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgY4GA1UdIASBhjCBgzCBgAYMKwYBBAGC8TZmAgMBMHAw
+NwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2RwYy1lYy8w
+NQYIKwYBBQUHAgIwKQwnQ0VSVElGSUNBRE8gREUgUkVQUkVTRU5UQU5URSBFTiBBUkNISVZPMIGP
+BgNVHR8EgYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2Ny
+bC9DQTJzdWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJs
+aWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMCBggrBgEFBQcDBDCCAdQGA1UdEQSCAcswggHHgRRkaWVfc29zb0Bob3RtYWlsLmNv
+baAbBgsrBgEEAYLxNmYDAaAMDAowNzAyMDY0ODA5oCAGCysGAQQBgvE2ZgMCoBEMD0FMQ0lERVMg
+Uk9MQU5ET6AZBgsrBgEEAYLxNmYDA6AKDAhHT1JESUxMT6AYBgsrBgEEAYLxNmYDBKAJDAdBUk1J
+Sk9ToBgGCysGAQQBgvE2ZgMFoAkMB0dFUkVOVEWgLgYLKwYBBAGC8TZmAwegHwwdVklBIFBSSU5D
+SVBBTCBWSUEgUElBUyBaQVJVTUGgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5ODk1NTIxODGgFwYL
+KwYBBAGC8TZmAwmgCAwGWkFSVU1BoEIGCysGAQQBgvE2ZgMKoDMMMUlNUE9SVEFDSU9ORVMgWSBF
+WFBPUlRBQ0lPTkVTIFNVTUlOR09SIENJQS4gTFREQS6gHgYLKwYBBAGC8TZmAwugDwwNMDc5MTg0
+MTA3MjAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6AkBgsrBgEEAYLxNmYDMqAVDBNSRVBSRVNFTlRB
+TlRFIExFR0FMoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIBALPY
+Y2lGtDrdnDX1gtjHqNkzjRgU4DezI6LVCmiboKomKZ9hMHhWkPzTdHCek7cn8fQcY5LMeGOiVovN
+jmtEoRTLgTufnX3emwXVNEFH0ZledlGapIqrkWyjkN6ot0EF7TKkKcNUPwVnuDRBmPfCvqS3qOP4
+lx0Y059ffLQ1daCTDEYX3V5tE44ox1rU5mcdB1soBT2BVTJrJOMis8jBHZ9f2qPw4R7tHcvL4Wc6
+DUH9ca2FFYtyve+3K67T2ulc3RrcPZqi81nFhOB4fOsWi9ECqfvp2WzUZM3mL+Yth5G/Nyq81gIi
+djzTDjgKJNGWTsiQd6w2UtkVu/wIcI6LK3DmiNX5sRPa9DZGjWqNvXNLdaIphnsyclS+mHj9l0n3
+Um2wUCLd8V+PHE8/XBfgFm8dt0sq81Dj4nsn5gQABQt9jngsA+HXLwCQpct+y5Jv+hF/td+LweW0
+qS2Ohq7zceVQotnwRDlYVbRgChcJq1MQfKGaUeUG/QTGf+whKwWYcTbqfgVfy5Qwr+ZUzgAorxVv
+qgqwsVtr8mPY4QWj5WCV8vEHQL3p2Y9kEKItoHsNLRU+1Nh5/eHLR8X02/01nqCYsvi/bTbxXUFe
+I1iMhuVEpD/E8rJmEKIQIAyyQaWHRNexlpo3kDCULjifMe3Nv6G/1XvPwnjEHaldaY3JmJmD
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+jfX6gjWdOzq1aSdStQVQN/5NfEi6V+nL9vfpPP1ip+FonTOMiDN/FrXo/vwHhi5IpaZpSMkVYkAD
+5ShogaukwlcsbqlNkKytRY4cLjl9Ab1ipsPdn5qqBYxqwDNclhWk9/VNI1JifEVHMdINyJsPMqcV
+guMl2tnwOquRYBFZkR1eSvERXaDN7+Ydq+Jfo1sreB1TUW6+Q/iavY3Wh/YiyepoI0hFIsuk/c61
+dOQnx94Vh4k1weR6/a1ZtJ2LYkCt5MFQK3MPzGmb/L8mRWONxiYoqleqvFpDcLsM8K/2x+sMJoR9
+qB2ySqpREHbMhzicEnyCv+6WKaqeDuHidd85tw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature827296-Object162361"><etsi:QualifyingProperties Target="#Signature827296"><etsi:SignedProperties Id="Signature827296-SignedProperties77321"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-06-30T15:35:40-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>JTZJyNK+A82ZWKp5FM9Of1A/6jQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>8148379288911101820</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1030908"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

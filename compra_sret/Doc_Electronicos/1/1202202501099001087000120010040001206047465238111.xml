@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MAQUINARIAS HENRIQUES CA</razonSocial>
+    <nombreComercial>MAQUINARIAS HENRIQUES CA</nombreComercial>
+    <ruc>0990010870001</ruc>
+    <claveAcceso>1202202501099001087000120010040001206047465238111</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>004</ptoEmi>
+    <secuencial>000120604</secuencial>
+    <dirMatriz>KM 6.5 VIA A DAULE</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>12/02/2025</fechaEmision>
+    <dirEstablecimiento>KM 6.5 VIA A DAULE</dirEstablecimiento>
+    <contribuyenteEspecial>6925</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <guiaRemision>001-004-000086726</guiaRemision>
+    <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+    <identificacionComprador>0992529679001</identificacionComprador>
+    <totalSinImpuestos>355.44</totalSinImpuestos>
+    <totalDescuento>39.50</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>355.44</baseImponible>
+        <tarifa>15.00</tarifa>
+        <valor>53.32</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>408.76</importeTotal>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>408.76</total>
+        <plazo>45</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>CATRU012</codigoPrincipal>
+      <codigoAuxiliar>CATRU012</codigoAuxiliar>
+      <descripcion>CADENA TRANSLINK TL ASA 080.10  (1 in) 3.05m</descripcion>
+      <cantidad>4.00</cantidad>
+      <precioUnitario>68.82</precioUnitario>
+      <descuento>27.53</descuento>
+      <precioTotalSinImpuesto>247.75</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>247.75</baseImponible>
+          <valor>37.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>CATRU014</codigoPrincipal>
+      <codigoAuxiliar>CATRU014</codigoAuxiliar>
+      <descripcion>CADENA TRANSLINK TL ASA 100.10 (1 1/4 in) 3.05m</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>119.66</precioUnitario>
+      <descuento>11.97</descuento>
+      <precioTotalSinImpuesto>107.69</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="*" valor="UND"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15.00</tarifa>
+          <baseImponible>107.69</baseImponible>
+          <valor>16.15</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email">diana.rodriguez@grupodmg.ec/</campoAdicional>
+    <campoAdicional nombre="Condicion pago">CR45</campoAdicional>
+    <campoAdicional nombre="Vendedor">SI01</campoAdicional>
+    <campoAdicional nombre="Vencimiento">29/03/2025</campoAdicional>
+    <campoAdicional nombre="Direccion">CDLA.LOS JARDINES S/N Y QUINTA A NORTE ESQUINA P.B. A 100 MTS.ESCUELA JUAN DIOS - MACHALA</campoAdicional>
+    <campoAdicional nombre="Telefono">072937375</campoAdicional>
+    <campoAdicional nombre="Transporte">LAAR COURI</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature649780">
+<ds:SignedInfo Id="Signature-SignedInfo778207">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID646240" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature649780-SignedProperties682842">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>U8+URVxfaomxjw1qOu/hCoaHI/Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1756056">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>s5Qy1gtC6n5AoF7pS6ppOD6FFlA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-193007" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>GrwKr78BE1ZSSFal61YaIwAVi78=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue682644">
+NHrSOyVjp5rgDlWH7gE4aL0zttE2PVmUQqzPDkMBXRXJtl5coxuWKbgCcDzmYcnMsI6PFW7GVKis
+d7NuxIJbw/R3rcu9m2XA9BrxAU/qYaCdy7VpW7/w2OCufxngpqEm1aANk2RdbhU/fF/BFpqlZDO/
+oacfS8IZBvgRPFtqGzW4eyhOWtv8a/Gjv6SFLnezGbWC6Hjq6Wov779ARgsNkb1vTfG/KPeLA1DZ
+kurUobZelV0oVRLyNr1vgOoBRzwRATsPBjIRH1nnDCAhsvpg9fkdHdpa/sKFaNB6wM34wg3zSCdq
+UB5Asdg4z+f/Uj0s3fjLGGGs0gc/dh+e4QYirw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1756056">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ5jCCB86gAwIBAgIEW3ST9TANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIzMDkwNTE1MjE0M1oXDTI1MDkwNTE1NTE0
+M1owga8xCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzEzMBEGA1UEBRMKMDAwMDIzMzMzMDAeBgNVBAMTF0dBTEEgQ0FST0xJTkEg
+Tk9CT0EgQVVaMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApsNie7pO62uHAQcVBTOs
+AVmVvDu01Uail9iLcphWZuf2svAMDX7F2P9bouHkWDq3M6ORqnpi3hWot4cpIkmdxbkQxVhzDWaU
+lm0Isr9ca66XN6+uCc9StPSjxJlsG3t6b+Yhf0sQ+8iCrLLVJa7KiVWsBWTTu7ZymZkC8p38gBDR
+71W6BCHZMMFKfJvyBRLoCqyYMXvBhwQ3o0vJ7Md1B65ut/kzt3uGw639e2uw7Jy9Wous+uiR1iF9
+zQtXjHy37QoPZGUdzMJn+TvUOQnb4MUKA+Al8wex4euYTS8UW+SVFXUhlP9Rn+Mzm9oIDPIa6Z3o
+xWbhgNix3+mukBmEqwIDAQABo4IFFDCCBRAwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYLKwYB
+BAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNhLWNl
+cnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+BggrBgEF
+BQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Aw
+PwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0
+dXMvb2NzcDAqBgorBgEEAYKoOwMKBBwTGk1BUVVJTkFSSUFTIEhFTlJJUVVFUyBDLkEuMB0GCisG
+AQQBgqg7AwsEDxMNMDk5MDAxMDg3MDAwMTAaBgorBgEEAYKoOwMBBAwTCjA5MTAyMjQyNjAwHgYK
+KwYBBAGCqDsDAgQQEw5HQUxBIENBUk9MSU5BIDAVBgorBgEEAYKoOwMDBAcTBU5PQk9BMBMGCisG
+AQQBgqg7AwQEBRMDQVVaMBkGCisGAQQBgqg7AwUECxMJQ09OVEFET1JBMCAGCisGAQQBgqg7AwcE
+EhMQS00gNi41IFZJQSBEQVVMRTAZBgorBgEEAYKoOwMIBAsTCTA0MjI1NDMwMDAZBgorBgEEAYKo
+OwMJBAsTCUdVQVlBUVVJTDAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYKKwYBBAGCqDsDMwQS
+ExBTT0ZUV0FSRS1BUkNISVZPMCsGA1UdEQQkMCKBIGNub2JvYUBtYXF1aW5hcmlhcy1oZW5yaXF1
+ZXMuY29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJw
+MS5iY2UuZWMvY249Q1JMMTg4OSxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFE
+T1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1B
+Q0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlm
+aWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9i
+Y2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08g
+Q0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENF
+TlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDE4ODkwKwYDVR0QBCQwIoAPMjAyMzA5MDUx
+NTIxNDNagQ8yMDI1MDkwNTE1NTE0M1owHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKsw
+HQYDVR0OBBYEFCtxe4MF+sP6wF/r+7ArYVqa1sAtMAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAww
+ChsEVjguMQMCBDAwDQYJKoZIhvcNAQELBQADggIBAJ+2IfgLyBWJS3bamA/uKSxE9B+7XiG1LY5r
+xOHsjPjG6LUxIA/28YS8nbrjeF3u6IsVHYfojuG3R45O1yrzCsKG04HvLjc9JGusnoAnnbaKHX4C
+ni80bUC4GJmQD3cKyQfROUKZoFrbhU4g2NI+kfSwvNfQrkp8Mx8plDO/3qUjO784X3JVEWg+PoH1
+zlRkJlV9D1/NbcB9ZIRHVQI4EqVLyDg3KIjihru/I/cNHckfBRAwIC0m0n/jpLrAtNiicNlc9lsm
+3U9onYD+zZghWm4nbi1hfu7V9CZ/ElK9A/lIXhe/8Sq8tM7vpp8MXoQ4M8DPF849Kev0DcybKS+U
+G9sARdXAA2xqC1PcAg/hZTs0Y9hOdcTD0+lnxclR9LkV/MlLlszm5KQgdQsaM5NhuVcDU/nWFuzb
+M05tcR8czo/UOl7AWEqxhjJwdLEZrX/U3TbKW0wzYVg8suEA7hBkhbJnx6pCBRCtJGu6ro4TABSh
+dBLlBlXdB8EOe2FYSLwlQuVjBmCwJFjRIEbU1QDPQtwsFU50kZopCAoL1O9sLvIbVAHQTo8tRV05
+VZE2TlhVV4wESNiU1JW1uclTRsaBJ4qd8D6IxykwYbUu12vqcw+Ud7su846zp3lboYBO8k/zoV+N
+wKbQAIGxKTA6FlkbHLNPwJg9xu6rcsIGAKobTF9o
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+psNie7pO62uHAQcVBTOsAVmVvDu01Uail9iLcphWZuf2svAMDX7F2P9bouHkWDq3M6ORqnpi3hWo
+t4cpIkmdxbkQxVhzDWaUlm0Isr9ca66XN6+uCc9StPSjxJlsG3t6b+Yhf0sQ+8iCrLLVJa7KiVWs
+BWTTu7ZymZkC8p38gBDR71W6BCHZMMFKfJvyBRLoCqyYMXvBhwQ3o0vJ7Md1B65ut/kzt3uGw639
+e2uw7Jy9Wous+uiR1iF9zQtXjHy37QoPZGUdzMJn+TvUOQnb4MUKA+Al8wex4euYTS8UW+SVFXUh
+lP9Rn+Mzm9oIDPIa6Z3oxWbhgNix3+mukBmEqw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature649780-Object203306"><etsi:QualifyingProperties Target="#Signature649780"><etsi:SignedProperties Id="Signature649780-SignedProperties682842"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-02-12T11:50:57-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>/9zZsSr6CYFvi2KX9ApoKMRmC8k=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1534366709</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-193007"><etsi:Description>GuruSoft S.A Tel.045109312</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>

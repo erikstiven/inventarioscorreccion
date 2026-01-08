@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MILBOOTS CIA LTDA</razonSocial>
+        <nombreComercial>MILBOOTS CIA LTDA 2024</nombreComercial>
+        <ruc>1891721583001</ruc>
+        <claveAcceso>1911202401189172158300120019010000572400000000114</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>901</ptoEmi>
+        <secuencial>000057240</secuencial>
+        <dirMatriz>Sector Samanga Parque Industrial  Calle F sn y Av. IV</dirMatriz>        
+<agenteRetencion>1</agenteRetencion>
+        </infoTributaria>
+        <infoFactura>
+        <fechaEmision>19/11/2024</fechaEmision>
+        <dirEstablecimiento>Sector Samanga  Parque Industrial  Calle F s n y Av. IV</dirEstablecimiento>        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>MINERA BELORO C L</razonSocialComprador>
+        <identificacionComprador>0992529679001</identificacionComprador>
+        <direccionComprador>GUAYAQUIL S N Y QUINTA A NORTE ESQUINA</direccionComprador>
+        <totalSinImpuestos>6300.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos> 
+                    <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>6300.00</baseImponible>
+                <valor>945.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>7245.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        
+        <pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>7245.00</total>
+            <plazo>30.00</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+   </pago>
+            </pagos>
+         </infoFactura>
+         <detalles>
+        <detalle>
+            <codigoPrincipal>BNITMDSF3A000</codigoPrincipal>
+            <codigoAuxiliar>BNITMDSF3A000</codigoAuxiliar>
+            <descripcion>BRK NIT BASE MD SF A AZ PTA 38-100  39-130  40-150  41-130  42-60  43-20  44-10</descripcion>
+            <cantidad>600.000000</cantidad>
+            <precioUnitario>10.500000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>6300.00</precioTotalSinImpuesto>
+             
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.00</tarifa>
+                    <baseImponible>6300.00</baseImponible>
+                    <valor>945.00</valor>
+                 </impuesto>
+          </impuestos>
+        </detalle> 
+    </detalles>   
+        <infoAdicional>
+        <campoAdicional nombre="eMail">endes.sanchez@grupodmg.ec</campoAdicional>
+        <campoAdicional nombre="Valor">SIETE MIL DOSCIENTOS CUARENTA Y CINCO 00 I100</campoAdicional>
+        <campoAdicional nombre="Vendedor">IVETTE CABRERA</campoAdicional>
+        <campoAdicional nombre="Telefono">032434469</campoAdicional>
+        <campoAdicional nombre="Correo">mbcartera1@gmail.com;mbcartera2@gmail.com</campoAdicional>
+        <campoAdicional nombre="Info">NO SE ACEPTARAN RETENCIONES 5 DIAS DESPUES DE RECIBIR LA FACTURA</campoAdicional>
+        <campoAdicional nombre="Facturado por">CARVAJAL ESCOBAR MARIA ELENA</campoAdicional>
+        <campoAdicional nombre="Ciudad">MACHALA</campoAdicional>
+        <campoAdicional nombre="Forma Pago">OTROS CON UTILIZACION DEL SISTEMA FINANCIERO USD-7245.00</campoAdicional>
+        <campoAdicional nombre="Plazo">30 DIAS</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature947520"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-ID-683865" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>EshJ7jHGgcOn7x3DMAvCdSQuiPU=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate725551"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>TsEM+K4cceZWkGVjY8GL89frmAc=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedPropertiesID359343" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature947520-SignedProperties606450"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>7UQKpxe31hWMrjS02LHXwh1pAKA=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue447043">CV/GPwyU5z4kI1mWsSl76L7yaI2wqUXaf761ZydLn08vWr7bd/LvJiifVNeI1g0jnnyBUwj4dld4jEGoVtk17zAVqktv31sceGisc7KU/nZ2OrFFjWXSCdzjxfmbOJKLkjpvL8dmNBy43IUv9cs12bp6HDeLQJvf66TNcZybtQR6YgnbnqvnDqDolZ+MCug6rzQua1Q/42lB2La0F3UOhKqeZMFkE1E1H91omKXg2z15L8hvM0Z+MukYR2VodWD2KxSFQ5GyRslL40f+7EsH5DA4dadNwB0LVWTQhz4sPSS3DdAcRpvemY//4phAdbGGFEu0M7j/g0dI8RBmPWKeBg==</ds:SignatureValue><ds:KeyInfo Id="Certificate725551"><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>hEeWK0XsUEN9EX5v4yVSEBPOsc3R+8NLP+epgJP5CVZGCZDaZ9W7S6KY69wCJzj6Fp3YJc54A+BqbJdl4QqRqh9CL5/To7yvQayHj5cErRwK4Upc3cdLUO2FVWCfOoPAz7GnTu8AyfZ2jadz2UY8WdGiasMLBHV3YE4ysLkfv3qd1nKzqS1BKelBOx7R/si4AzeVWfYGLNZeOLxkGsX2+ePjQOnYv2VjLw08h9sjetyrPDzQWLeCsK3bSntlPFC6rFdT4/+hWk0OrH7chPOFDGfXj7EIWvB0supo0Cr5yWDqFVPkX7Tc7beYJrxJHIHcuKYg3BgarQSULddB3Y3uNQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature947520-Object540879"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature947520"><etsi:SignedProperties Id="Signature947520-SignedProperties606450"><etsi:SignedSignatureProperties><etsi:SigningTime>2024-11-19T10:57:54-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>NQgcu0oUicG8v4nsRtN0+6K6l7E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>OID.2.5.4.97=VATES-A66721499, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>9077719598919123507</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-683865"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>
